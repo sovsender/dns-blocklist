@@ -13,3 +13,9 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 | 2026-10-30 | ae.com | 2 | Mainstream: Aerie is part of American Eagle; blocking ae.com blocks all of American Eagle | Categories "Women, Men, Jeans, Loungewear & PJs, Aerie" (https://www.ae.com/us/en/c/aerie/aerie/cat4840004) |
 | 2026-10-30 | brazilianbikinishop.com | 2 | Multi-brand store also selling shoes, beauty, men, kids, home; no model text, not photo-checked | Alt text "Women's swimwear"; categories "Swimwear, Cover-ups, Shoes, Beauty, Men, Kids, Home" (domain per search result; homepage URL not confirmed) |
 | 2026-10-30 | coutille.com | 1 | Lingerie brand; evidence weak | Title "Coutille | Official Store"; no product or model text on homepage, only logo alt text (https://www.coutille.com/) |
+| 2026-10-30 | victoireboutique.com | 2 | Mainstream: general fashion boutique, lingerie is one subcategory | Product "Bully Boy Delilah Bodysuit - Green (Online Exclusive)"; nav "Clothing, Jewelry, Accessories"; no model text (https://victoireboutique.com/products/bully-boy-delilah-bodysuit-green) |
+| 2026-10-30 | lounge.com | 2 | Mainstream: also general clothing, footwear, accessories | Product "Seamless Bralette - White"; nav "Clothing, Footwear, Accessories, Swimwear, Sleep"; no model text (https://lounge.com/collections/bralette-sets) |
+| 2026-10-30 | sommerswim.com | 1 | Swimwear brand; site blocked reading | HTTP 429 (https://sommerswim.com/collections/whats-new) |
+| 2026-10-30 | maisonrogue.com | 1 | Swim/lingerie brand; site blocked reading | HTTP 429 (https://maisonrogue.com/en-gb/collections/swim) |
+| 2026-10-30 | 1861.ca | 1 | Lingerie boutique; site blocked reading | HTTP 429 (https://1861.ca/products/espagna-white) |
+| 2026-10-30 | loversland.com | 1 | Lingerie shop (may also sell adult toys); site blocked reading | HTTP 429 (https://loversland.com/collections/all-products/products/fortnight-x-misfit-studio-classic-thong-bodysuit-champagne) |
