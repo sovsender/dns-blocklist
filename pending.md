@@ -35,3 +35,21 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 | 2026-10-30 | summersalt.com | 2 | Mainstream: swimwear plus sweaters, dresses, kids | Categories "Mix & Match Bikinis", "Intimates", "Sweaters", "Dresses", "Kids"; alt text "Model in One Piece Swimsuit" (home page) |
 | 2026-10-30 | riotswim.com | 2 | Mainstream: swimwear plus dresses and apparel | Title "Swimwear, Dresses & Apparel | RIOT"; alt text "Woman wearing the Carter Halter Top and Reese High Waisted Bottom in Coconut" (home page) |
 | 2026-10-30 | mondayswimwear.com | 2 | Mainstream: swimwear plus clothing, shoes, bags | Categories "Swimwear", "Tops", "Dresses", "Jackets"; alt text "Model wearing Malibu Shell sandals and a black bikini beside a pool" (home page) |
+| 2026-10-30 | bikyni.com | 1 | Swimwear brand; evidence weak, no revealing item text | Title "BIKYNI - You don't need a better body" (home page) |
+| 2026-10-30 | lalilouche.com | 1 | Lingerie brand; page gave no readable text | Empty page |
+| 2026-10-30 | zulu-zephyr.com | 2 | Mainstream: swim plus general apparel | Title "Zulu & Zephyr - Apparel, Swim And More"; product "Zulu & Zephyr Thong - Black" (home page) |
+| 2026-10-30 | lunya.co | 2 | Mainstream: pajamas and loungewear | Title "Luxury Pajamas, Loungewear & Sleepwear"; nav "Intimates" (home page) |
+| 2026-10-30 | wolford.com | 2 | Mainstream: hosiery and apparel brand | Description "designer tights, lingerie, bodywear, and apparel"; category "Lingerie" (home page) |
+| 2026-10-30 | beachriot.com | 2 | Mainstream: swim plus activewear and clothing | Title "Bikinis, Swimwear, Activewear, Cover Ups & Clothing" (home page) |
+| 2026-10-30 | mondayswimwear.com | 1 | Swimwear brand; evidence weak, no revealing item text | Categories "Swimwear", "Bras"; alt text "Model wearing an ivory crochet top and fringed wrap skirt" (home page) |
+| 2026-10-30 | ookioh.com | 1 | Swimwear brand; evidence weak, no revealing item text | Title "Women's Modern & Fun Swimwear Destination" (home page) |
+| 2026-10-30 | bfyne.com | 1 | Swim and resort-wear brand; evidence weak | Description "contemporary swim and resort-wear brand" (home page) |
+| 2026-10-30 | peixoto.com | 1 | Swimwear brand; page gave no readable text | Empty page |
+| 2026-10-30 | parfait.com | 1 | Lingerie brand; site blocked reading | HTTP 403 |
+| 2026-10-30 | maidenform.com | 1 | Intimates brand; site blocked reading | HTTP 403 |
+| 2026-10-30 | gossard.com | 1 | Lingerie brand; site blocked reading | HTTP 403 |
+| 2026-10-30 | miraclesuit.com | 1 | Slimming swimwear and shapewear brand; evidence weak, no revealing item text | Title "Slimming Swimsuits & Shaping Dresses"; categories "Swim", "Shapewear" (home page) |
+| 2026-10-30 | hapari.com | 1 | Modest swimwear brand; revealing coverage not shown | Title "Modest, Stylish & Comfortable Swimsuits for Women"; category "Bikinis"; alt text "Woman in a blue and white bikini standing in front of a stone archway" (home page) |
+| 2026-10-30 | cupshe.com | 2 | Mainstream: swim plus resortwear and outfits | Title "Your Vacation Wardrobe Starts Here"; products "Joshua Tree Bikini Set" (home page) |
+| 2026-10-30 | spanx.com | 2 | Mainstream: shapewear plus clothing, jeans, leggings | Title "SPANX Shapewear, Active, Leggings, Jeans, Bras & Bodysuits" (home page) |
+| 2026-10-30 | aureliaswim.com | 1 | Swimwear brand; page gave no readable text | Empty page |

@@ -77,3 +77,28 @@
 | 2026-10-30 | yummie.com | 1 | promoted from pending | Categories "Thongs", "Briefs", "Bodysuits & Dresses" (home page) |
 | 2026-10-30 | shapermint.com | 1 | promoted from pending | Categories "Bralettes", "Bodysuits", "Panties" (home page) |
 | 2026-10-30 | ciamaritima.com.br | 1 | promoted from pending | Description "coleções de biquínis, maiôs, saídas de praia"; alt text "Biquínis - Cia.Marítima" (home page) |
+| 2026-10-30 | mymarini.com | 1 | Swimwear brand, live models | Categories "Bikini Tops", "Bikini Bottoms"; alt text "Woman sitting in the sand in the black SWIM APPAREL bikini" (home page) |
+| 2026-10-30 | bikinibird.com | 1 | Swim boutique | Categories "Bikini Tops", "Bikini Bottoms", "Bikinis"; alt text "Woman in a brown swimsuit" (home page) |
+| 2026-10-30 | laperla.com | 1 | Lingerie brand | Categories "Lingerie", "A fascia e bralette"; product "Brazilian Brief Sottovoce" (home page) |
+| 2026-10-30 | bracli.com | 1 | Lingerie brand | Title "Lencería de lujo y tanga de perlas original"; products "Kyoto G-String", "Manhattan Brief" (home page) |
+| 2026-10-30 | pokopano.com.br | 1 | Swimwear brand | Description "biquíni, maiô, saída de praia"; alt text "Biquíni meia-taça preto e branco com bojo" (home page) |
+| 2026-10-30 | wacoal-america.com | 1 | Lingerie brand, live models | Categories "Bras", "Panties", "Bralettes"; alt text "Model wearing black lace bra and panties" (home page) |
+| 2026-10-30 | naja.co | 1 | Intimates brand | Categories "Bralettes", "Thongs", "Bikinis" (home page) |
+| 2026-10-30 | lasenza.com | 1 | Lingerie chain | Title "Women's Underwear - Bras, Panties, Lingerie & Bodysuits"; categories "Thongs", "Bralette" (home page) |
+| 2026-10-30 | kilobrava.com | 1 | Lingerie brand, live models | Title "Attainable Luxury Lingerie"; alt text "woman in leather lingerie" (home page) |
+| 2026-10-30 | elselingerie.com | 1 | Lingerie and swimwear brand | Categories "Lingerie", "Bodysuits", "Bikinis" (home page) |
+| 2026-10-30 | panache-lingerie.com | 1 | Lingerie brand | Title "Panache Lingerie"; description "Fuller bust friendly lingerie ... swimwear" (home page) |
+| 2026-10-30 | mey.com | 1 | Underwear/lingerie brand, live models | Alt text "Frau trägt einen Spitzen-BH und einen Slip auf einer Dachterrasse" (home page) |
+| 2026-10-30 | solidandstriped.com | 1 | Swimwear brand, live models | Categories "Bikini Bottoms", "Bikini Tops"; alt text "A woman posing on a beach wearing a blue and white vertically striped ruffled bikini set" (home page) |
+| 2026-10-30 | minimaleanimale.com | 1 | Swimwear brand | Categories "THONGS", "BRIEFS"; product "NOLITA THONG Bikini Bottom" (home page) |
+| 2026-10-30 | tropicofc.com | 1 | Swimwear brand, live models | Categories "bralettes", "all swim"; alt text "Candice Swanepoel wearing the Tropic of C digitally printed one piece with thin straps and cheeky coverage" (home page) |
+| 2026-10-30 | tigerlily.com.au | 1 | Swimwear brand | Title "Iconic Swimwear and Resort Wear"; categories "Bikini Tops", "Bikini Bottoms" (home page) |
+| 2026-10-30 | dippindaisys.com | 1 | Swimwear brand, live models | Categories "THONG", "SUPER CHEEKY", "BRALETTE"; alt text "Ashlee is 5'10" wearing Size S." (home page) |
+| 2026-10-30 | lspace.com | 1 | Swimwear brand | Categories "BIKINI TOPS", "BIKINI BOTTOMS"; product "Banning Bikini Top" (home page) |
+| 2026-10-30 | toripraverswimwear.com | 1 | Swimwear brand | Description "Designer swimwear ... swimsuits, bikinis, and beachwear"; products "LANI TOP", "VALERIE BOTTOM" (home page) |
+| 2026-10-30 | robinpiccone.com | 1 | Swimwear brand | Categories "Bikini Tops", "Bikini Bottoms"; product "AMY TRIANGLE BIKINI TOP" (home page) |
+| 2026-10-30 | vixpaulahermanny.com | 1 | Swimwear brand | Categories "Bralette", "Cheeky", "Designer Bikinis" (home page) |
+| 2026-10-30 | lennyniemeyer.com | 1 | Swimwear brand | Categories "Biquínis", "Underwear" (home page) |
+| 2026-10-30 | gottex.com | 1 | Swimwear brand | Categories "Bikinis", "Bikini Sets", "Swim Bottoms" (home page) |
+| 2026-10-30 | fellaswim.com | 1 | Swimwear brand | Title "Australian Luxury Swimwear | Bikinis & One Pieces"; category "Cheeky" (home page) |
+| 2026-10-30 | juillet.com | 1 | Swimwear brand | Title "Juillet | Bikinis, Swimwear, One Pieces"; categories "Bikini Tops", "Bikini Bottoms" (home page) |
