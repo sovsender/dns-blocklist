@@ -54,6 +54,7 @@
 ||katthelabel.com^
 ||kikidm.com^
 ||kilobrava.com^
+||kulani-kinis.com^
 ||kulanikinis.com^
 ||laperla.com^
 ||lasenza.com^
@@ -68,8 +69,10 @@
 ||lspace.com^
 ||lulifama.com^
 ||maretoa.com^
+||meundies.com^
 ||mey.com^
 ||minimaleanimale.com^
+||modibodi.com^
 ||montce.com^
 ||morangobrasil.com.br^
 ||mymarini.com^
@@ -89,13 +92,17 @@
 ||savagex.com^
 ||seafolly.com^
 ||sealevelaustralia.com.au^
+||sexylingeriestore.com^
 ||shan.ca^
 ||shapermint.com^
+||shopcuup.com^
 ||simone-perele.com^
 ||solidandstriped.com^
 ||sommerswim.com^
 ||storminadcup.com.au^
 ||swimoutlet.com^
+||swimsuitsforall.com^
+||tavik.com^
 ||thirdlove.com^
 ||thistleandspire.com^
 ||tigerlily.com.au^
@@ -109,6 +116,8 @@
 ||vitaminaswim.com^
 ||vixpaulahermanny.com^
 ||wacoal-america.com^
+||warners.com^
 ||whitesandsswim.com^
+||yamamay.com^
 ||yandy.com^
 ||yummie.com^

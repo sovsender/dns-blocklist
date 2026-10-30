@@ -115,3 +115,12 @@
 | 2026-10-30 | leonisa.ca | 1 | Lingerie and shapewear brand | Title "Women's Lingerie, Shapewear, Intimates & Swimwear"; categories "Bodysuits", "Bralettes" (home page) |
 | 2026-10-30 | lingeriediva.com | 1 | Lingerie shop | Title "Sexy Lingerie, Costumes, Hosiery, Panties"; categories "Thongs", "Corsets", "Swimwear" (home page) |
 | 2026-10-30 | natori.com | 1 | Lingerie and sleepwear brand | Title "Designer Clothing, Women's Lingerie & Luxury Sleepwear by Natori"; categories "Lingerie", "Plunge Bras" (home page) |
+| 2026-10-30 | sexylingeriestore.com | 1 | Lingerie shop | Title "Find Your Ideal Lingerie Style Today!"; categories "Bralettes", "Thongs", "Cheeky Panties", "Lingerie Sets" (home page) |
+| 2026-10-30 | warners.com | 1 | Intimates brand | Title "Warners Bras and Panties | Intimates for Women"; categories "Thong", "Bikini", "Hi-Cut Panties" (home page) |
+| 2026-10-30 | yamamay.com | 1 | Underwear and beachwear brand | Title "Yamamay: Underwear, Clothing & Nightwear"; categories "Sexy Underwear", "Bodysuit", "Lingerie" (home page) |
+| 2026-10-30 | modibodi.com | 1 | Period underwear and swimwear brand | Categories "Thongs", "Lingerie", "Bikinis", "Period Swimwear" (home page) |
+| 2026-10-30 | tavik.com | 1 | Swimwear brand | Search result snippet: titles "Essentials Swim", "Tavik |Jayden Moderate Bottom", "Tavik |Daydreamer Top - Print"; description of cheeky cut bikini bottom |
+| 2026-10-30 | swimsuitsforall.com | 1 | Swimwear shop | Search result snippet: titles "Women's Bikinis", "High Waist Bikinis", "Black Bikinis" |
+| 2026-10-30 | kulani-kinis.com | 1 | Swimwear shop | Search result snippet: titles "Best Online Shopping Store for Bralette Tops", "Retro Y Thong Bikini Bottom - Blue Crush" |
+| 2026-10-30 | shopcuup.com | 1 | Bra and underwear brand | Search result snippet: titles "Stylish, Supportive, Sexy & Comfortable Bras", "Shop Bras and Underwear Made to Fit"; underwear categories include thongs and bikinis |
+| 2026-10-30 | meundies.com | 1 | Underwear brand | Search result snippet: titles "Bralettes - MeUndies", "U-Back Bralette", "Longline Lace Bralette" |
