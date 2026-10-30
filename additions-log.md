@@ -151,3 +151,51 @@
 | 2026-10-30 | thinx.com | 1 | Promoted from pending | Product "Bikini butterfly shorts with built-in period underwear" (home page) |
 | 2026-10-30 | hapari.com | 1 | Promoted from pending | Search result snippet: titles "Bikini Tops: Unique Styles, Full Coverage & Great Fit", "Black Luxe Bikini" |
 | 2026-10-30 | chantelle.com | 1 | Promoted from pending | Title "We design lingerie" (home page) |
+| 2026-10-30 | anita.com | 1 | Lingerie and swimwear brand | Categories "Bikinis", "Panties" (home page) |
+| 2026-10-30 | beginningboutique.com | 1 | Fashion boutique with swim | Category "Bikinis" (home page) |
+| 2026-10-30 | bendonlingerie.com | 1 | Lingerie brand | Categories "Bras", "Lingerie Categories", "Contour Bras" (home page) |
+| 2026-10-30 | bendon.com | 1 | Lingerie brand (redirects to bendonlingerie.com) | Categories "Bras", "Lingerie Categories" (home page) |
+| 2026-10-30 | bestform.com | 1 | Bra brand | Categories "All Bras", "Cotton Bras" (home page) |
+| 2026-10-30 | brazilianbikinis.com | 1 | Bikini shop | Categories "Brazilian Bikinis", "Bikini Bottoms", "Bikini Tops" (home page) |
+| 2026-10-30 | calida.com | 1 | Underwear brand | Categories "Bras", "Knickers", "Lingerie Glossary" (home page) |
+| 2026-10-30 | darjeeling.fr | 1 | Lingerie brand | Categories "LINGERIE", "Lingerie dentelle", "Lingerie de nuit" (home page) |
+| 2026-10-30 | dim.com | 1 | Underwear brand | Categories "BRAS", "BRIEFS & PANTIES", "Bralettes" (home page) |
+| 2026-10-30 | dim.fr | 1 | Underwear brand (redirects to dim.com) | Categories "BRAS", "Bralettes" (home page) |
+| 2026-10-30 | gottexswim.com | 1 | Swimwear brand | Categories "Bikini Bottoms", "Bikini Tops", "Bikinis" (home page) |
+| 2026-10-30 | hunkemoller.de | 1 | Lingerie brand | Title "Hunkemöller - Lingerie, Bademode & Unterwäsche"; categories "Bikini Sets", "Bralettes" (home page) |
+| 2026-10-30 | hunkemoller.fr | 1 | Lingerie brand | Title "Lingerie, maillots de bain"; categories "Bikinis", "Ensembles Lingerie" (home page) |
+| 2026-10-30 | hunkemoller.nl | 1 | Lingerie brand | Categories "Lingerie", "Bralettes", "Bikini Sets" (home page) |
+| 2026-10-30 | hunzag.com | 1 | Swimwear brand | Categories "Bikinis", "Bikini sets", "Bralette" (home page) |
+| 2026-10-30 | intimateportal.com | 1 | Underwear retailer | Category "BIKINI STYLE" (home page) |
+| 2026-10-30 | jetsaustralia.com | 1 | Swimwear brand | Categories "All Bikinis", "Bikini Tops", "Bikini Bottoms" (home page) |
+| 2026-10-30 | ladybirdlingerie.com | 1 | Lingerie boutique | Title "Luxury Bras, Lingerie & Sleepwear"; categories "Bralette", "Corsets & Bustiers" (home page) |
+| 2026-10-30 | lascana.com | 1 | Lingerie and swimwear brand | Categories "Bras", "Bikini Bottoms", "Bralettes & Wireless Bras" (home page) |
+| 2026-10-30 | leonisa.co | 1 | Lingerie brand | Categories "Bralettes", "Panties", "Bikini" (home page) |
+| 2026-10-30 | lovable.it | 1 | Lingerie brand | Categories "Bras", "Bralettes", "Bodysuits and Lingerie" (home page) |
+| 2026-10-30 | scandale.com | 1 | Lingerie brand (formerly Maison Close) | Categories "Bras", "Corsets", "Thongs", "LINGERIE" (home page) |
+| 2026-10-30 | maison-close.com | 1 | Lingerie brand (redirects to scandale.com) | Categories "Bras", "Thongs" (home page) |
+| 2026-10-30 | maisonlejaby.com | 1 | Lingerie brand | Title "Maison Lejaby | Fine - high-end lingerie"; nav "LINGERIE" (home page) |
+| 2026-10-30 | marliesdekkers.com | 1 | Lingerie and swimwear brand | Title "Marlies Dekkers Lingerie & Swimwear"; categories "7 cm thong", "Bikini tops" (home page) |
+| 2026-10-30 | marlies-dekkers.com | 1 | Lingerie brand (redirects to marliesdekkers.com) | Categories "7 cm thong", "Bikinis" (home page) |
+| 2026-10-30 | minimale-animale.com | 1 | Swimwear brand (redirects to minimaleanimale.com) | Products "G MONEY THONG Bikini Bottom" (home page) |
+| 2026-10-30 | onia.com | 1 | Swimwear brand | Categories "Bikinis", "Bikini Tops", "Bikini Bottoms" (home page) |
+| 2026-10-30 | orchardcorset.com | 1 | Corset shop | Title "Steel Boned Corsets & Waist Trainers"; category "All Corsets" (home page) |
+| 2026-10-30 | luxenoir.com | 1 | Corset shop | Title "Luxury Steel-Boned Corsets & Corset Dresses"; categories "CORSETS", "BURLESQUE CORSETS" (home page) |
+| 2026-10-30 | corsetdeal.com | 1 | Corset shop (redirects to luxenoir.com) | Categories "CORSETS", "CORSET TOPS" (home page) |
+| 2026-10-30 | lingerie.co.uk | 1 | Lingerie retailer | Title "Sexy Lingerie ~ Find Luxury Lingerie & Womens Underwear"; categories "Bras", "Corsets" (home page) |
+| 2026-10-30 | thebrashop.com | 1 | Lingerie shop | Title "The Bra Shop - Lingerie | Intimate Items | Sleepwear"; categories "All Bras", "All Panties" (home page) |
+| 2026-10-30 | wacoal.com | 1 | Lingerie brand (redirects to wacoal-america.com) | Categories "All Bras", "All Lingerie" (home page) |
+| 2026-10-30 | whitefoxboutique.com | 1 | Fashion boutique with swim and intimates | Categories "Bikinis", "Bustiers & Corsets", "New Intimates & Pajamas" (home page) |
+| 2026-10-30 | womensecret.com | 1 | Lingerie brand | Title "Sujetadores, lencería, pijamas"; categories "BIKINIS", "Bralettes", "Corsets" (home page) |
+| 2026-10-30 | saltymermaid.com | 1 | Swimwear retailer | Categories "BIKINI TOPS", "BIKINI BOTTOMS", "Bralette" (home page) |
+| 2026-10-30 | revolveswim.com | 1 | Swimwear retailer (redirects to saltymermaid.com) | Categories "BIKINI TOPS", "BIKINI BOTTOMS" (home page) |
+| 2026-10-30 | schiesser.com | 1 | Underwear brand | Categories "Bras & bustiers", "Panties & pants", "Bikini" (home page) |
+| 2026-10-30 | roxy.com | 1 | Surf and swim brand | Categories "Bikini Tops", "Bikini Bottoms" (home page) |
+| 2026-10-30 | billabong.com | 1 | Surf and swim brand | Categories "Bikinis", "Bikini Tops", "Bikini Bottoms" (home page) |
+| 2026-10-30 | rhythmlivin.com | 1 | Surf and fashion brand | Product "Classic Bralette Top Olive" (home page) |
+| 2026-10-30 | gatta.pl | 1 | Hosiery and underwear brand | Products "Majtki bikini Peony", "Majtki oddychające Bikini Ellisi" (home page) |
+| 2026-10-30 | adameve.com | 1 | Adult retailer with lingerie | Categories "Bridal Lingerie", "Corsets & Bustiers", "Holiday Lingerie" (home page) |
+| 2026-10-30 | adamandeve.com | 1 | Adult retailer (redirects to adameve.com) | Categories "Bridal Lingerie", "Corsets & Bustiers" (home page) |
+| 2026-10-30 | ohpolly.com | 1 | Fashion brand with swim and intimates | Categories "Intimates", "Bikinis", "Bikini Tops" (home page) |
+| 2026-10-30 | princesspolly.com | 1 | Fashion brand with lingerie | Categories "Lingerie", "All Lingerie" (home page) |
+| 2026-10-30 | showpo.com | 1 | Fashion boutique | Categories "Bra & Bra Solutions", "Corset Dresses" (home page) |

@@ -53,3 +53,5 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 | 2026-10-30 | tigermist.com | 2 | Mainstream: general fashion | Title "Tiger Mist | Shop Women's Clothing Online"; category "Bikinis" (home page) |
 | 2026-10-30 | sunkissedcoconut.com | 2 | Mainstream: loungewear brand | Search result snippet: homepage describes brand as "high-quality loungewear with a coastal feel" |
 | 2026-10-30 | marahoffman.com | 2 | Mainstream: fashion brand with swim; no readable item text | Title "Mara Hoffman" (home page) |
+| 2026-10-30 | boohoo.com | 2 | Mainstream: large international general fashion retailer | Categories "Bras", "Lingerie", "Knickers", "Lingerie Sets" (home page) |
+| 2026-10-30 | prettylittlething.com | 2 | Mainstream: large international general fashion retailer | Categories "Lingerie", "Corsets", "New In Nightwear & Lingerie" (home page) |
