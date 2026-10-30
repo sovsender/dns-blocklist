@@ -199,3 +199,14 @@
 | 2026-10-30 | ohpolly.com | 1 | Fashion brand with swim and intimates | Categories "Intimates", "Bikinis", "Bikini Tops" (home page) |
 | 2026-10-30 | princesspolly.com | 1 | Fashion brand with lingerie | Categories "Lingerie", "All Lingerie" (home page) |
 | 2026-10-30 | showpo.com | 1 | Fashion boutique | Categories "Bra & Bra Solutions", "Corset Dresses" (home page) |
+| 2026-10-30 | beachcandyswimwear.com | 1 | Swimwear and underwear brand | Products "Organic Corset Bikini Top", "Organic Hemp High Waist Panty"; category "UNDERWEAR" (home page) |
+| 2026-10-30 | berlei.com | 1 | Bra brand | Title "Solution Bras for any Occasion" (home page) |
+| 2026-10-30 | chantal-thomass.com | 1 | Lingerie brand | Title "Chantal Thomass PARIS | Lingerie, licences et art de vivre" (home page) |
+| 2026-10-30 | elilausa.com | 1 | Lingerie brand | Nav "Explore Bra Fit Concerns"; page text bras, lingerie, panties (home page) |
+| 2026-10-30 | elila.com | 1 | Lingerie brand (redirects to elilausa.com) | Nav "Explore Bra Fit Concerns" (home page) |
+| 2026-10-30 | lascana.co.uk | 1 | Lingerie brand | Title "Shop Bras, Knickers, Shapewear & Nightwear"; categories "Bras", "Knickers", "Lingerie" (home page) |
+| 2026-10-30 | sheerlingerie.com | 1 | Lingerie brand | Title "Global Luxury Lingerie & Designer Loungewear"; categories "Bras", "Corset & Bustiers" (home page) |
+| 2026-10-30 | simplybeach.com | 1 | Swimwear retailer | Categories "All Bikini Bottoms", "All Bikini Tops", "Bandeau Bikini Tops" (home page) |
+| 2026-10-30 | lablanca.com | 1 | Swimwear brand | Title "Women's Swimsuits, Bathing Suits & Bikinis" (home page) |
+| 2026-10-30 | sunshine79.com | 1 | Swimwear brand (redirects to lablanca.com) | Title "Swimsuits, Bathing Suits & Bikinis" (home page) |
+| 2026-10-30 | ubras.com | 1 | Lingerie brand | Title "Shop Wireless Bras, Lingerie, Pajamas"; categories "All Bras", "Bralette" (home page) |

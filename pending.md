@@ -55,3 +55,5 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 | 2026-10-30 | marahoffman.com | 2 | Mainstream: fashion brand with swim; no readable item text | Title "Mara Hoffman" (home page) |
 | 2026-10-30 | boohoo.com | 2 | Mainstream: large international general fashion retailer | Categories "Bras", "Lingerie", "Knickers", "Lingerie Sets" (home page) |
 | 2026-10-30 | prettylittlething.com | 2 | Mainstream: large international general fashion retailer | Categories "Lingerie", "Corsets", "New In Nightwear & Lingerie" (home page) |
+| 2026-10-30 | ardene.com | 2 | Mainstream: national general fashion and accessories chain | Category "Lingerie" (home page) |
+| 2026-10-30 | bonprix.co.uk | 2 | Mainstream: large international general fashion retailer | Category "Lingerie" (home page) |

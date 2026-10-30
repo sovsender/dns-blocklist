@@ -11,10 +11,12 @@
 ||barenecessities.com^
 ||barestockholm.com^
 ||beachbunnyswimwear.com^
+||beachcandyswimwear.com^
 ||beachriot.com^
 ||beginningboutique.com^
 ||bendon.com^
 ||bendonlingerie.com^
+||berlei.com^
 ||bestform.com^
 ||bikinibird.com^
 ||bikinis.com^
@@ -31,6 +33,7 @@
 ||calida.com^
 ||calzedonia.com^
 ||carvedesigns.com^
+||chantal-thomass.com^
 ||chantelle.com^
 ||ciamaritima.com.br^
 ||coco-de-mer.com^
@@ -44,6 +47,8 @@
 ||dippindaisys.com^
 ||dollskill.com^
 ||eberjey.com^
+||elila.com^
+||elilausa.com^
 ||elomi.com^
 ||elselingerie.com^
 ||etam.com^
@@ -88,8 +93,10 @@
 ||kindredbravely.com^
 ||kulani-kinis.com^
 ||kulanikinis.com^
+||lablanca.com^
 ||ladybirdlingerie.com^
 ||laperla.com^
+||lascana.co.uk^
 ||lascana.com^
 ||lasenza.com^
 ||lavieenrose.com^
@@ -154,15 +161,18 @@
 ||sexylingeriestore.com^
 ||shan.ca^
 ||shapermint.com^
+||sheerlingerie.com^
 ||shopcuup.com^
 ||showpo.com^
 ||simone-perele.com^
+||simplybeach.com^
 ||skims.com^
 ||solidandstriped.com^
 ||sommerswim.com^
 ||spanx.com^
 ||storminadcup.com.au^
 ||summersalt.com^
+||sunshine79.com^
 ||swimoutlet.com^
 ||swimsuitsforall.com^
 ||tavik.com^
@@ -178,6 +188,7 @@
 ||triumph.com^
 ||tropicofc.com^
 ||tuttirouge.com^
+||ubras.com^
 ||undiz.com^
 ||venus.com^
 ||victoriassecret.com^
