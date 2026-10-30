@@ -46,3 +46,28 @@
 | 2026-10-30 | pourmoi.co.uk | 1 | promoted from pending; lingerie and swimwear brand, site blocks reading | search result snippet: page titles "34FF Lingerie & Swimwear", "36C Lingerie & Swimwear"; padded underwired bikini set |
 | 2026-10-30 | carvedesigns.com | 1 | promoted from pending; swimwear brand, site blocks reading | search result snippet: "Women's Swim Bottoms - Shop Bikini Swim Suit Bottoms", "Swim Tops for Women - Shop Women's Bikini & Bathing Suit Tops" |
 | 2026-10-30 | shan.ca | 1 | promoted from pending; swimwear brand, site blocks reading | search result snippet: "TWO-PIECES - SWIM - WOMEN", "Classic bikini bottom swimwear piece", "Triangle bikini top" |
+| 2026-10-30 | anyalust.com | 1 | Lingerie shop, live models | Categories "Lingerie Sets", "Bras & Panties", "Bondage-Inspired Lingerie"; alt text "Model wearing satin cowl neck slip dress" (home page) |
+| 2026-10-30 | blushlingerie.com | 1 | Lingerie shop, live models | Categories "bralettes", "bodysuits", "bustiers & corsets"; text "model is wearing an S panty - gold celeste string" (home page) |
+| 2026-10-30 | barenecessities.com | 1 | Lingerie and swimwear retailer, live models | Title "Bras, Swimwear & Lingerie for Women"; category "Bralettes"; alt text "Model wearing the Bare Absolute Minimizer Bra and Shaping Brief" (home page) |
+| 2026-10-30 | fredericks.com | 1 | Lingerie brand, live models | Categories "Open Cup Bras", "Crotchless Lingerie"; alt text "A woman wearing a bright pink strappy bodysuit and black eye mask poses in a dimly lit room" (home page) |
+| 2026-10-30 | fantasie.com | 1 | Lingerie and swimwear brand, live models | Alt text "model wearing black lingerie set", "Three models wearing bikini sets"; categories "Lingerie", "Panties" (home page) |
+| 2026-10-30 | elomi.com | 1 | Plus size lingerie and swimwear brand, live models | Alt text "Woman in Beige Lingerie"; categories "Bralettes", "Plunge Bras", "Panties" (home page) |
+| 2026-10-30 | negativeunderwear.com | 1 | Underwear brand | Products "Glacé String Thong in Rouge (3-Pack)", "Sieve Thong in Kir (5-Pack)"; description "bras, underwear, thongs and loungewear" (home page) |
+| 2026-10-30 | yandy.com | 1 | Lingerie shop | Title "Sexy Lingerie & Costume Store"; categories "Bodysuits", "Crotchless Lingerie", "Corsets" (home page) |
+| 2026-10-30 | journelle.com | 1 | Lingerie shop | Title "Luxury Lingerie, Bras & Silk Sets"; categories "Bodysuits", "Corsets & Bustiers", "Three Piece Bra & Panty Sets" (home page) |
+| 2026-10-30 | kikidm.com | 1 | Lingerie brand | Categories "Bras", "Panties", "Catsuits & Bodysuits", "Corsets & Bustiers", "Bikinis"; product "ADELINE BODYSUIT" (home page) |
+| 2026-10-30 | naughtyknickers.co.uk | 1 | Lingerie shop | Title "Lingerie, Nightwear & Hosiery"; categories "Triangle Bras & Bralettes", "Cupless & 1/4 Cup Bras", "SHOP ALL LINGERIE" (home page) |
+| 2026-10-30 | brastop.com | 1 | Lingerie and swimwear retailer | Title "D+ Bras, Lingerie and Swimwear"; categories "Lingerie", "Swimwear Sale", "Knickers Sale" (home page) |
+| 2026-10-30 | bravissimo.com | 1 | Lingerie and swimwear retailer | Title "Bras, Lingerie, Swimwear for Big-Boobed Women"; categories "Bras", "Swimwear" (home page) |
+| 2026-10-30 | undiz.com | 1 | Lingerie brand | Title "Lingerie Femme & Homme, Maillots de Bain"; categories "Lingerie Sexy", "Secret Lingerie" (home page) |
+| 2026-10-30 | aubade.com | 1 | Lingerie brand | Description "lingerie sexy, soutiens-gorge, culottes"; categories "Bralettes/Brassières", "Lingerie sexy" (home page) |
+| 2026-10-30 | passionata.com | 1 | Lingerie brand | Title "Lingerie & Sous-vêtements femme"; link "VOIR TOUTE LA LINGERIE" (home page) |
+| 2026-10-30 | simone-perele.com | 1 | Lingerie brand | Categories "Bras", "Panties", "Shapewear", "Triangle Bras", "Black Lingerie" (home page) |
+| 2026-10-30 | montce.com | 1 | Swimwear brand, live models | Products "Aquamarine Euro Bikini Bottom", "Ibiza Geo Lulu Bikini Bottom"; alt text "A woman with shoulder-length blonde hair wears a mint green triangle bikini top" (home page) |
+| 2026-10-30 | beachbunnyswimwear.com | 1 | Swimwear brand, live models | Title "Luxury Bikinis and Designer Swimsuits"; product "KARTER BRALETTE TOP - BLACK"; alt text "A woman modeling a two-piece bikini with a pink and white patterned lace-like fabric" (home page) |
+| 2026-10-30 | triangl.com | 1 | Swimwear brand | Title "Women's Bikinis & Swimwear"; categories "Crop Top Bikinis", "Triangle Bikinis", "Balconette Bikinis" (home page) |
+| 2026-10-30 | kulanikinis.com | 1 | Swimwear brand | Title "Shop Cheeky Brazilian Thong Bikinis"; categories "Bikini Tops", "Bikini Bottoms" (home page) |
+| 2026-10-30 | everythingbutwater.com | 1 | Swimwear retailer, live models | Categories "Brazilian / Cheeky", "All Bikini Bottoms", "Bralette"; alt text "Female model in a black one piece" (home page) |
+| 2026-10-30 | vitaminaswim.com | 1 | Swimwear brand | Categories "Bikini Tops", "Bikini Bottoms", "Cheeky", "Bralette" (home page) |
+| 2026-10-30 | swimoutlet.com | 1 | Swimwear retailer | Categories "Bikini Tops", "Bikini Bottoms", "Bikinis", "Euro Swimwear" (home page) |
+| 2026-10-30 | frankiesbikinis.com | 1 | Swimwear brand | Title "High-Fashion Designer Swimwear"; categories "bikinis", "all swimwear" (home page) |

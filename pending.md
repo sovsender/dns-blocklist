@@ -26,3 +26,18 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 | 2026-10-30 | herroom.com | 1 | Multi-brand lingerie retailer; site blocked reading | HTTP 403 |
 | 2026-10-30 | figleaves.com | 1 | Multi-brand lingerie retailer; site blocked reading | HTTP 403 |
 | 2026-10-30 | lindex.com | 2 | Mainstream: general clothing retailer; site blocked reading | HTTP 403 |
+| 2026-10-30 | etam.com | 1 | Lingerie chain, qualifies but over the 25-addition cap | Title "Boutique officielle de lingerie : lingerie, mode, maillot de bain"; category "Lingerie" (home page) |
+| 2026-10-30 | honeylove.com | 1 | Bras and shapewear brand, qualifies but over the 25-addition cap | Categories "Bodysuits", "Bras", "Shapewear"; alt text "Models wearing bras and briefs" (home page) |
+| 2026-10-30 | leonisa.com | 1 | Lingerie and shapewear brand, qualifies but over the 25-addition cap | Title "Women's Lingerie, Shapewear, Intimates & Swimwear"; categories "Bralettes", "Bodysuits" (home page) |
+| 2026-10-30 | yummie.com | 1 | Shapewear brand, qualifies but over the 25-addition cap | Categories "Thongs", "Briefs", "Shaping Underwear" (home page) |
+| 2026-10-30 | shapermint.com | 1 | Shapewear brand, qualifies but over the 25-addition cap | Categories "Bralettes", "Bodysuits", "Panties" (home page) |
+| 2026-10-30 | ciamaritima.com.br | 1 | Brazilian swimwear shop, qualifies but over the 25-addition cap | Description "coleções de biquínis, maiôs, saídas de praia" (home page) |
+| 2026-10-30 | eres.com | 1 | Lingerie and swimwear brand; site blocked reading | HTTP 403 |
+| 2026-10-30 | myla.com | 1 | Lingerie brand; evidence weak, no readable product text | Title "myla" (home page) |
+| 2026-10-30 | chantelle.com | 1 | Lingerie brand; evidence weak, no readable product text | Title "We design lingerie" (home page) |
+| 2026-10-30 | mikoh.com | 1 | Swimwear brand; site shows only a login page | Title "Please Log In" |
+| 2026-10-30 | andieswim.com | 1 | Swimwear and everyday essentials brand; evidence weak, no revealing item text | Title "Confidence in comfort. Everyday essentials & swimwear." (home page) |
+| 2026-10-30 | blueman.com.br | 1 | Beach fashion brand also selling men and kids; evidence weak | Title "Moda Praia e Casual: feminino, masculino e infantil" (home page) |
+| 2026-10-30 | summersalt.com | 2 | Mainstream: swimwear plus sweaters, dresses, kids | Categories "Mix & Match Bikinis", "Intimates", "Sweaters", "Dresses", "Kids"; alt text "Model in One Piece Swimsuit" (home page) |
+| 2026-10-30 | riotswim.com | 2 | Mainstream: swimwear plus dresses and apparel | Title "Swimwear, Dresses & Apparel | RIOT"; alt text "Woman wearing the Carter Halter Top and Reese High Waisted Bottom in Coconut" (home page) |
+| 2026-10-30 | mondayswimwear.com | 2 | Mainstream: swimwear plus clothing, shoes, bags | Categories "Swimwear", "Tops", "Dresses", "Jackets"; alt text "Model wearing Malibu Shell sandals and a black bikini beside a pool" (home page) |
