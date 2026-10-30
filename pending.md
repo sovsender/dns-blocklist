@@ -51,3 +51,33 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 | 2026-10-30 | cupshe.com | 2 | Mainstream: swim plus resortwear and outfits | Title "Your Vacation Wardrobe Starts Here"; products "Joshua Tree Bikini Set" (home page) |
 | 2026-10-30 | spanx.com | 2 | Mainstream: shapewear plus clothing, jeans, leggings | Title "SPANX Shapewear, Active, Leggings, Jeans, Bras & Bodysuits" (home page) |
 | 2026-10-30 | aureliaswim.com | 1 | Swimwear brand; page gave no readable text | Empty page |
+| 2026-10-30 | hanro.com | 1 | Luxury underwear brand; evidence weak, model photos show covered shirts | Categories "Underwear", "Bras", "Briefs"; alt text "women model wearing Hanro white cotton L/SLV Shirt" (home page) |
+| 2026-10-30 | trueandco.com | 1 | Bra and underwear brand; evidence weak, no model text | Title "True & Co | Women's Bras, Underwear, and More"; categories "Bras", "Underwear" (home page) |
+| 2026-10-30 | bikinibirds.com | 1 | Swimwear retailer also selling clothing and accessories; evidence weak | Search result snippet: "Trendy Swimwear, Clothing, and Accessories"; site blocked reading (HTTP 403) |
+| 2026-10-30 | bikiniluxe.com | 1 | Bikini brand; evidence weak, no readable product text | Title "Bikini Luxe - fashion & lifestyle" (home page) |
+| 2026-10-30 | lolittas.com | 1 | Swimwear shop; page gave no readable text | Empty page; no search result |
+| 2026-10-30 | nubian-skin.com | 1 | Lingerie brand; page gave no readable text | Empty page; no search result |
+| 2026-10-30 | sunsetswimwear.com | 1 | Swimwear shop; page gave no readable text | Empty page; no search result |
+| 2026-10-30 | tropicbikini.com | 1 | Bikini shop; page gave no readable text | Empty page; no search result |
+| 2026-10-30 | panachelingerie.com | 1 | Lingerie brand; site blocked reading | HTTP 403; no search result |
+| 2026-10-30 | kiwilingerie.com | 1 | Lingerie shop; page gave no readable text | Empty page; no search result |
+| 2026-10-30 | beachbunny-swimwear.com | 1 | Swimwear shop; page gave no readable text | Empty page; no search result |
+| 2026-10-30 | beachbikinis.com | 1 | Bikini shop; page gave no readable text | Empty page; no search result |
+| 2026-10-30 | bikinibeachwear.com | 1 | Bikini shop; page gave no readable text | Empty page; no search result |
+| 2026-10-30 | bouxavenue.com | 1 | Lingerie brand; site blocked reading | HTTP 403; no search result |
+| 2026-10-30 | thinx.com | 1 | Period underwear brand; evidence weak, no revealing item text | Title "Period and Bladder Leak Underwear | Thinx" (home page) |
+| 2026-10-30 | lanebryant.com | 2 | Mainstream: plus-size fashion chain (Cacique intimates is a subcategory; cacique.com redirects here) | Categories "Cacique Intimates", "Sexy Lingerie", "Swim" (home page) |
+| 2026-10-30 | beyondyoga.com | 2 | Mainstream: activewear | Title "Yoga Clothes & Activewear for Men & Women"; alt text "A woman wearing a bright red athletic sports bra and matching high-waisted leggings" (home page) |
+| 2026-10-30 | fashionnova.com | 2 | Mainstream: general fashion | Title "Fashion Nova | Trendy Clothes for Women, Men & Plus Sizes"; category "Lingerie & Sleep" (home page) |
+| 2026-10-30 | dollskill.com | 2 | Mainstream: general fashion | Title "Online Boutique for the Misfits & Miss Legits | Dolls Kill" (home page) |
+| 2026-10-30 | aguadecoco.com.br | 2 | Mainstream: beach fashion for women and men plus decor | Title "Moda Praia Feminina e Masculina, Vestuário e Decoração" (home page) |
+| 2026-10-30 | joyfolie.com | 2 | Mainstream: general fashion boutique | Title "Elevate Your Style With Boutique Clothing From Joyfolie" (home page) |
+| 2026-10-30 | tezenis.com | 2 | Mainstream: intimates chain also selling clothing for women, men, kids | Title "Intimo, pigiami e abbigliamento donna, uomo e bambini"; categories "Lingerie", "Bikini Top", "Bralette e Brassiere" (home page) |
+| 2026-10-30 | venus.com | 2 | Mainstream: women's clothing and swim | Title "Women's Clothing and Swim"; categories "Cheeky", "Bikinis" (home page) |
+| 2026-10-30 | zimmermann.com | 2 | Mainstream: luxury fashion brand | Categories "Swim & Resort", "Bikinis" (home page) |
+| 2026-10-30 | zaful.com | 2 | Mainstream: general fashion marketplace | Title "Women and Men's Fashion Clothing"; categories "Best Seller Bikini Sets" (home page) |
+| 2026-10-30 | rosegal.com | 2 | Mainstream: plus-size general fashion | Title "Plus Size Clothing, Plus Size Dress Online Store"; categories "Lingerie", "Swimwear" (home page) |
+| 2026-10-30 | tigermist.com | 2 | Mainstream: general fashion | Title "Tiger Mist | Shop Women's Clothing Online"; category "Bikinis" (home page) |
+| 2026-10-30 | kindredbravely.com | 2 | Mainstream: maternity and nursing clothing | Title "Nursing Bras, Maternity Clothes & Mom Must-Haves" (home page) |
+| 2026-10-30 | sunkissedcoconut.com | 2 | Mainstream: loungewear brand | Search result snippet: homepage describes brand as "high-quality loungewear with a coastal feel" |
+| 2026-10-30 | marahoffman.com | 2 | Mainstream: fashion brand with swim; no readable item text | Title "Mara Hoffman" (home page) |

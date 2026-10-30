@@ -104,3 +104,14 @@
 | 2026-10-30 | juillet.com | 1 | Swimwear brand | Title "Juillet | Bikinis, Swimwear, One Pieces"; categories "Bikini Tops", "Bikini Bottoms" (home page) |
 | 2026-10-30 | gossard.com | 1 | promoted from pending | Search result snippet: titles "Women's Bralettes", "Longline Bras", "Swirl Collection" (matching shorts and thongs) |
 | 2026-10-30 | maretoa.com | 1 | promoted from pending | Search result snippet: titles "Biquínis e Moda Praia", "Biquíni de Tanga em Promoção", "Loja de Biquíni - É na Marétoa" |
+| 2026-10-30 | bananamoon.com | 1 | Swimwear brand | Categories "Bikini", "Bralette", "Thong & brazilian"; alt text "MUNDO & MASSA HELIORA textured black bikini" (home page) |
+| 2026-10-30 | coco-de-mer.com | 1 | Luxury lingerie brand | Categories "All Lingerie", "Bodysuits & Playsuits", "Erotic Lingerie"; alt text "Woman in black lingerie lying on a blue fabric" (home page) |
+| 2026-10-30 | albionfit.com | 1 | Swimwear brand | Categories "Swim Tops", "Swim Bottoms"; alt text "Front view of Rise Bikini Top in Sand Bar Blue showing blue and white horizontal stripes on a model at the beach" (home page) |
+| 2026-10-30 | bikinis.com | 1 | Swimwear shop | Title "Bikinis.com | Luxury Swimwear, Made for You"; category "Bikinis"; alt text "A woman in a black swimsuit walking along the shoreline at golden hour" (home page) |
+| 2026-10-30 | fleurdumal.com | 1 | Luxury lingerie brand | Title "Fleur du Mal | Luxury Lingerie & Clothing"; categories "SHOP CHEEKYS & BIKINIS", "SHOP BODYSUITS", "SHOP PLEASURE LINGERIE" (home page) |
+| 2026-10-30 | hauteflair.com | 1 | Lingerie and swimwear shop | Title "Bras, Lingerie & Swimwear in Every Size"; alt text "Ivory Bracli Geneva sheer pearl thong bodysuit, front view", "cheeky bikini panty"; categories "Bikinis", "Bodysuits" (home page) |
+| 2026-10-30 | freyalingerie.com | 1 | Lingerie and swimwear brand | Title "Freya US: Bras, Lingerie & Swimwear up to a K Cup"; alt text "Model wearing nude side support bra" (home page) |
+| 2026-10-30 | felina.com | 1 | Intimates brand | Title "Women's Loungewear & Intimates Apparel"; categories "Bralettes", "Thong & G-String", "Lingerie" (home page) |
+| 2026-10-30 | leonisa.ca | 1 | Lingerie and shapewear brand | Title "Women's Lingerie, Shapewear, Intimates & Swimwear"; categories "Bodysuits", "Bralettes" (home page) |
+| 2026-10-30 | lingeriediva.com | 1 | Lingerie shop | Title "Sexy Lingerie, Costumes, Hosiery, Panties"; categories "Thongs", "Corsets", "Swimwear" (home page) |
+| 2026-10-30 | natori.com | 1 | Lingerie and sleepwear brand | Title "Designer Clothing, Women's Lingerie & Luxury Sleepwear by Natori"; categories "Lingerie", "Plunge Bras" (home page) |
