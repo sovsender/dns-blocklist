@@ -19,7 +19,6 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 | 2026-10-30 | leftonfriday.com | 2 | Active swimwear brand also selling dresses and shirts; no revealing evidence | Title "Left On Friday - Premium Active Swimwear"; alt text "Woman in Getaway Shirt Dress in Coconut" (home page) |
 | 2026-10-30 | mybrazilianshop.com | 1 | Bikini shop; evidence weak, product photo checked was flat lay | Categories "BIKINIS", "Bikini Bottoms", "Bikini Tops"; alt text "Cacau Brown Seashore Textured Triangle Bikini Top" (home page); image checked - no model |
 | 2026-10-30 | annsummers.com | 1 | Lingerie shop; site blocked reading | HTTP 403 |
-| 2026-10-30 | maretoa.com | 1 | Bikini brand; site blocked reading | HTTP 403 |
 | 2026-10-30 | cheekyswim.com | 1 | Swimwear brand; evidence weak, page gave no readable product text | Title "Cheeky Swim" (home page) |
 | 2026-10-30 | bonaparteshop.com | 2 | Mainstream: general fashion webshop with swimwear section | Title "BON'A PARTE's Official Webshop | Fashion for the Modern Woman"; nav "Swimwear" (home page) |
 | 2026-10-30 | windsorstore.com | 2 | Mainstream: general fashion retailer | Title "Windsor | Shop Dresses, Tops, Skirts, Denim, Shoes & Trendy Fashion" (home page) |
@@ -47,7 +46,6 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 | 2026-10-30 | peixoto.com | 1 | Swimwear brand; page gave no readable text | Empty page |
 | 2026-10-30 | parfait.com | 1 | Lingerie brand; site blocked reading | HTTP 403 |
 | 2026-10-30 | maidenform.com | 1 | Intimates brand; site blocked reading | HTTP 403 |
-| 2026-10-30 | gossard.com | 1 | Lingerie brand; site blocked reading | HTTP 403 |
 | 2026-10-30 | miraclesuit.com | 1 | Slimming swimwear and shapewear brand; evidence weak, no revealing item text | Title "Slimming Swimsuits & Shaping Dresses"; categories "Swim", "Shapewear" (home page) |
 | 2026-10-30 | hapari.com | 1 | Modest swimwear brand; revealing coverage not shown | Title "Modest, Stylish & Comfortable Swimsuits for Women"; category "Bikinis"; alt text "Woman in a blue and white bikini standing in front of a stone archway" (home page) |
 | 2026-10-30 | cupshe.com | 2 | Mainstream: swim plus resortwear and outfits | Title "Your Vacation Wardrobe Starts Here"; products "Joshua Tree Bikini Set" (home page) |

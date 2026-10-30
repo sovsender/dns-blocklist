@@ -102,3 +102,5 @@
 | 2026-10-30 | gottex.com | 1 | Swimwear brand | Categories "Bikinis", "Bikini Sets", "Swim Bottoms" (home page) |
 | 2026-10-30 | fellaswim.com | 1 | Swimwear brand | Title "Australian Luxury Swimwear | Bikinis & One Pieces"; category "Cheeky" (home page) |
 | 2026-10-30 | juillet.com | 1 | Swimwear brand | Title "Juillet | Bikinis, Swimwear, One Pieces"; categories "Bikini Tops", "Bikini Bottoms" (home page) |
+| 2026-10-30 | gossard.com | 1 | promoted from pending | Search result snippet: titles "Women's Bralettes", "Longline Bras", "Swirl Collection" (matching shorts and thongs) |
+| 2026-10-30 | maretoa.com | 1 | promoted from pending | Search result snippet: titles "Biquínis e Moda Praia", "Biquíni de Tanga em Promoção", "Loja de Biquíni - É na Marétoa" |
