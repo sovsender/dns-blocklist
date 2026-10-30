@@ -13,10 +13,12 @@
 ||bravissimo.com^
 ||bydeeaus.com^
 ||carvedesigns.com^
+||ciamaritima.com.br^
 ||cosabella.com^
 ||curvykate.com^
 ||eberjey.com^
 ||elomi.com^
+||etam.com^
 ||everythingbutwater.com^
 ||fantasie.com^
 ||femique.com^
@@ -28,6 +30,7 @@
 ||freya-lingerie.com^
 ||hankypanky.com^
 ||honeybirdette.com^
+||honeylove.com^
 ||hunkemoller.com^
 ||intimissimi.com^
 ||journelle.com^
@@ -37,6 +40,7 @@
 ||kulanikinis.com^
 ||lavieenrose.com^
 ||lemonadedolls.com^
+||leonisa.com^
 ||lineaintima.ca^
 ||londrebodywear.ca^
 ||lulifama.com^
@@ -54,6 +58,7 @@
 ||seafolly.com^
 ||sealevelaustralia.com.au^
 ||shan.ca^
+||shapermint.com^
 ||simone-perele.com^
 ||sommerswim.com^
 ||storminadcup.com.au^
@@ -68,3 +73,4 @@
 ||vitaminaswim.com^
 ||whitesandsswim.com^
 ||yandy.com^
+||yummie.com^

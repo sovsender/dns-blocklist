@@ -71,3 +71,9 @@
 | 2026-10-30 | vitaminaswim.com | 1 | Swimwear brand | Categories "Bikini Tops", "Bikini Bottoms", "Cheeky", "Bralette" (home page) |
 | 2026-10-30 | swimoutlet.com | 1 | Swimwear retailer | Categories "Bikini Tops", "Bikini Bottoms", "Bikinis", "Euro Swimwear" (home page) |
 | 2026-10-30 | frankiesbikinis.com | 1 | Swimwear brand | Title "High-Fashion Designer Swimwear"; categories "bikinis", "all swimwear" (home page) |
+| 2026-10-30 | etam.com | 1 | promoted from pending | Category "Lingerie sexy"; title "Boutique officielle de lingerie" (home page) |
+| 2026-10-30 | honeylove.com | 1 | promoted from pending | Categories "Bodysuits", "Bras", "Shapewear"; alt text "Models wearing bras and briefs" (home page) |
+| 2026-10-30 | leonisa.com | 1 | promoted from pending | Title "Women's Lingerie, Shapewear, Intimates & Swimwear"; categories "Bodysuits", "Panties" (home page) |
+| 2026-10-30 | yummie.com | 1 | promoted from pending | Categories "Thongs", "Briefs", "Bodysuits & Dresses" (home page) |
+| 2026-10-30 | shapermint.com | 1 | promoted from pending | Categories "Bralettes", "Bodysuits", "Panties" (home page) |
+| 2026-10-30 | ciamaritima.com.br | 1 | promoted from pending | Description "coleções de biquínis, maiôs, saídas de praia"; alt text "Biquínis - Cia.Marítima" (home page) |
