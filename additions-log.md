@@ -124,3 +124,30 @@
 | 2026-10-30 | kulani-kinis.com | 1 | Swimwear shop | Search result snippet: titles "Best Online Shopping Store for Bralette Tops", "Retro Y Thong Bikini Bottom - Blue Crush" |
 | 2026-10-30 | shopcuup.com | 1 | Bra and underwear brand | Search result snippet: titles "Stylish, Supportive, Sexy & Comfortable Bras", "Shop Bras and Underwear Made to Fit"; underwear categories include thongs and bikinis |
 | 2026-10-30 | meundies.com | 1 | Underwear brand | Search result snippet: titles "Bralettes - MeUndies", "U-Back Bralette", "Longline Lace Bralette" |
+| 2026-10-30 | 1861.ca | 1 | Promoted from pending | Categories "Lingerie", "Bralettes", "Corsets" (home page) |
+| 2026-10-30 | loversland.com | 1 | Promoted from pending | Nav "Lingerie & Sleepwear"; products "Menthe Flower Underwire Bra" (home page) |
+| 2026-10-30 | maisonrogue.com | 1 | Promoted from pending | Category "Swim & Lingerie" (home page) |
+| 2026-10-30 | lounge.com | 1 | Promoted from pending | Title "Underwear & Clothing"; nav "Underwear", "Intimates" (home page) |
+| 2026-10-30 | windsorstore.com | 1 | Promoted from pending | Categories "Corset & Bustier Tops", "Intimates & Sleepwear", "Sticky Bras & Shapewear" (home page) |
+| 2026-10-30 | wolford.com | 1 | Promoted from pending | Categories "Lingerie", "Bras", "Panties", "Lingerie Bodysuits" (home page) |
+| 2026-10-30 | tezenis.com | 1 | Promoted from pending | Categories "Lingerie", "Bikini Top", "Bralette e Brassiere" (home page) |
+| 2026-10-30 | skims.com | 1 | Promoted from pending | Categories "All Bras", "Bralettes", "Bikini"; alt text "A model poses wearing SKIMS Everyday Cotton Ultimate Bra" (home page) |
+| 2026-10-30 | victoriassecret.com | 1 | Promoted from pending | Title "Bras, Lingerie, Beauty, and Gifts"; nav "BRAS", "PANTIES", "LINGERIE" (home page) |
+| 2026-10-30 | cupshe.com | 1 | Promoted from pending | Categories "All Bikinis", "Bikini Sets", "Bralette", "Intimates" (home page) |
+| 2026-10-30 | beachriot.com | 1 | Promoted from pending | Title "Bikinis, Swimwear, Activewear, Cover Ups & Clothing"; category "Bras & Tops" (home page) |
+| 2026-10-30 | venus.com | 1 | Promoted from pending | Categories "Bikinis", "Shop All Bikinis" (home page) |
+| 2026-10-30 | zimmermann.com | 1 | Promoted from pending | Category "Bikinis" (home page) |
+| 2026-10-30 | calzedonia.com | 1 | Promoted from pending | Categories "Bikinis", "Micro Bikinis", "Thong" (home page) |
+| 2026-10-30 | summersalt.com | 1 | Promoted from pending | Categories "Bikinis", "Mix & Match Bikinis", "Intimates" (home page) |
+| 2026-10-30 | zulu-zephyr.com | 1 | Promoted from pending | Products "Zulu & Zephyr Thong - Black", "Zulu & Zephyr Thong - Natural" (home page) |
+| 2026-10-30 | mondayswimwear.com | 1 | Promoted from pending | Category "Bras"; alt text "Model wearing an ivory crochet top and fringed wrap skirt" (home page) |
+| 2026-10-30 | hanro.com | 1 | Promoted from pending | Categories "Bras", "Briefs", "Underwear" (home page) |
+| 2026-10-30 | spanx.com | 1 | Promoted from pending | Category "Bras & Underwear" (home page) |
+| 2026-10-30 | kindredbravely.com | 1 | Promoted from pending | Category "Bras"; alt text "Close-up of a person wearing a twilight Sublime Hands-Free Pumping & Nursing Bra" (home page) |
+| 2026-10-30 | lunya.co | 1 | Promoted from pending | Categories "Intimates", "Underwear" (home page) |
+| 2026-10-30 | miraclesuit.com | 1 | Promoted from pending | Category "Underwear & Panties" (home page) |
+| 2026-10-30 | dollskill.com | 1 | Promoted from pending | Categories "Lingerie", "Corsets" (home page) |
+| 2026-10-30 | joyfolie.com | 1 | Promoted from pending | Category "Intimates" (home page) |
+| 2026-10-30 | thinx.com | 1 | Promoted from pending | Product "Bikini butterfly shorts with built-in period underwear" (home page) |
+| 2026-10-30 | hapari.com | 1 | Promoted from pending | Search result snippet: titles "Bikini Tops: Unique Styles, Full Coverage & Great Fit", "Black Luxe Bikini" |
+| 2026-10-30 | chantelle.com | 1 | Promoted from pending | Title "We design lingerie" (home page) |
