@@ -26,3 +26,23 @@
 | 2026-10-30 | katthelabel.com | 1 | Lingerie shop, live models | Categories "Bras", "Briefs", "Lingerie Sets"; product "Jones Bralette Set Red"; alt text "Model: S" (home page) |
 | 2026-10-30 | pleasurestate.com | 1 | Lingerie shop, live models (2 pieces of evidence) | Alt text "Hero banner Woman wearing teal lingerie with 'pleasure state' branding", "Lace Impact Brazilian in BLACK" (home page); image checked - live model, stomach and upper thigh visible |
 | 2026-10-30 | onewithswim.com | 1 | Swimwear brand, live models | Alt text "Merritt Dipped Cheeky Bikini Bottom showing V-dip waistband, cheeky fit ... on model", "model wearing onewith's woodmont bikini bottom in cove" (home page) |
+| 2026-10-30 | sommerswim.com | 1 | promoted from pending; swimwear brand, live models | Categories "Cheeky", "Thongs", "Brazilian"; alt text "Model wearing the EBONI Sand Stone Nude Tie Side Bikini Bottoms" (home page) |
+| 2026-10-30 | seafolly.com | 1 | promoted from pending; swimwear brand | Product alt text "Bella Tie Side Rio Bikini Bottom"; categories "Bikinis", "Tankinis" (home page) |
+| 2026-10-30 | foreveryourslingerie.ca | 1 | promoted from pending; lingerie shop | Categories "Bralettes", "Sexy + Lacy"; description "bras, panties, lingerie, swimwear" (home page) |
+| 2026-10-30 | hunkemoller.com | 1 | promoted from pending; lingerie chain | Title "Lingerie, Swimwear, Nightwear & more"; categories "New Lingerie", "All Panties", "Noir Collection" (home page) |
+| 2026-10-30 | triumph.com | 1 | promoted from pending; lingerie brand | Category "Bralette"; description "Damen Dessous" (home page) |
+| 2026-10-30 | honeybirdette.com | 1 | promoted from pending; lingerie brand | Title "Luxury Lingerie, Bras, Thongs & Briefs"; categories "Lace Bras", "Lingerie Sets", "Bridal Lingerie" (home page) |
+| 2026-10-30 | intimissimi.com | 1 | promoted from pending; lingerie chain | Categories "Lingerie", "Knickers", "Bras", "Swimsuits" (home page) |
+| 2026-10-30 | storminadcup.com.au | 1 | promoted from pending; lingerie and swim retailer | Categories "Bralettes", "Lingerie", "Swimwear"; alt text "Swim Tankini" (home page) |
+| 2026-10-30 | finelineslingerie.com.au | 1 | promoted from pending; lingerie chain | Categories "Bikini", "G-String", "Bras" (home page) |
+| 2026-10-30 | barestockholm.com | 1 | promoted from pending; underwear and swim brand | Categories "Bikini Tops", "Bikini Bottoms"; product "Tri Bra" (home page) |
+| 2026-10-30 | femique.com | 1 | promoted from pending; lingerie brand | Categories "BRALETTES", "PANTIES"; product "Bonnie balconette" (home page) |
+| 2026-10-30 | tomboyx.com | 1 | promoted from pending; underwear brand | Categories "Bikinis", "Thongs"; text "Model: Raiza is 5'6\" and wears a small" (home page) |
+| 2026-10-30 | juneswimwear.com | 1 | promoted from pending; swimwear brand | Description "Bikini & Bootykini"; alt text "Flipper|Seyda is 5" model statement; categories "Tops", "Bottoms" (home page) |
+| 2026-10-30 | thistleandspire.com | 1 | promoted from pending; lingerie brand | Categories "Bodysuits", "Corsets", "Panties"; alt text "Floren Bralette - Black", "Floren Bikini - Black" (home page) |
+| 2026-10-30 | savagex.com | 1 | promoted from pending; lingerie brand, site blocks reading | search result snippet: "Browse lingerie sets, bras, panties, corsets, garters and more"; "bikinis and thongs ... cheeky and hipster" |
+| 2026-10-30 | eberjey.com | 1 | promoted from pending; lingerie brand, site blocks reading | search result snippet: product pages "Soft Stretch Recycled Lace Thong", "Soft Stretch Recycled Lace Plunge Bralette", "Anouk Boythong" |
+| 2026-10-30 | lulifama.com | 1 | promoted from pending; swimwear brand, site blocks reading | search result snippet: "Minimal Coverage Bikini Bottoms", "Triangle Bikini Tops", Brazilian-cut cheeky bottoms |
+| 2026-10-30 | pourmoi.co.uk | 1 | promoted from pending; lingerie and swimwear brand, site blocks reading | search result snippet: page titles "34FF Lingerie & Swimwear", "36C Lingerie & Swimwear"; padded underwired bikini set |
+| 2026-10-30 | carvedesigns.com | 1 | promoted from pending; swimwear brand, site blocks reading | search result snippet: "Women's Swim Bottoms - Shop Bikini Swim Suit Bottoms", "Swim Tops for Women - Shop Women's Bikini & Bathing Suit Tops" |
+| 2026-10-30 | shan.ca | 1 | promoted from pending; swimwear brand, site blocks reading | search result snippet: "TWO-PIECES - SWIM - WOMEN", "Classic bikini bottom swimwear piece", "Triangle bikini top" |
