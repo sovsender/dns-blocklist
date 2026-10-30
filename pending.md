@@ -11,3 +11,4 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 | 2026-10-30 | victoriassecret.com | 2 | Mainstream: also clothing, activewear, beauty | Categories "BRAS, PANTIES, LINGERIE, CLOTHING, Activewear, BEAUTY"; no model text (https://www.victoriassecret.com/us/) |
 | 2026-10-30 | skims.com | 2 | Mainstream: also clothing, mens, kids | Alt text "A model poses wearing SKIMS Everyday Cotton Ultimate Bra" (https://skims.com/) |
 | 2026-10-30 | ae.com | 2 | Mainstream: Aerie is part of American Eagle; blocking ae.com blocks all of American Eagle | Categories "Women, Men, Jeans, Loungewear & PJs, Aerie" (https://www.ae.com/us/en/c/aerie/aerie/cat4840004) |
+| 2026-10-30 | brazilianbikinishop.com | 2 | Multi-brand store also selling shoes, beauty, men, kids, home; no model text, not photo-checked | Alt text "Women's swimwear"; categories "Swimwear, Cover-ups, Shoes, Beauty, Men, Kids, Home" (domain per search result; homepage URL not confirmed) |
