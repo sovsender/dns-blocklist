@@ -19,3 +19,17 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 | 2026-10-30 | maisonrogue.com | 1 | Swim/lingerie brand; site blocked reading | HTTP 429 |
 | 2026-10-30 | 1861.ca | 1 | Lingerie boutique; site blocked reading | HTTP 429 |
 | 2026-10-30 | loversland.com | 1 | Lingerie shop (may also sell adult toys); site blocked reading | HTTP 429 |
+| 2026-10-30 | hunkemoller.com | 1 | Large lingerie chain with own stores; needs 2 pieces of evidence, only categories found | Nav "bras", "swimwear", "bikini's"; no model text, not photo-checked (home page) |
+| 2026-10-30 | triumph.com | 1 | Large lingerie brand sold via department stores; evidence weak | Alt text "Lingerie Von Triumph", "Swimwear Von Triumph"; no model text (home page) |
+| 2026-10-30 | honeybirdette.com | 1 | Lingerie brand with own stores; text-only evidence, photos could not be loaded | Title "Honey Birdette | Luxury Lingerie, Bras, Thongs & Briefs"; categories "Bras", "Lingerie Sets" (home page) |
+| 2026-10-30 | intimissimi.com | 1 | Large lingerie chain with own stores; evidence weak | Title "Intimissimi: Italian Underwear, Lingerie & Sleepwear"; categories "Bras", "Briefs"; no model text (home page) |
+| 2026-10-30 | knix.ca | 1 | Intimates/period underwear brand; photos checked showed items on hangers only, no model | Alt text "Orlane has 40” hips wearing KNIX"; categories "Bras", "Swim" (home page); image checked - no live model |
+| 2026-10-30 | calzedonia.com | 2 | Mainstream: chain also selling hosiery and clothing | Categories "BIKINI TOPS", "BIKINI BOTTOMS"; alt text "Micro Bikinis" (home page) |
+| 2026-10-30 | leftonfriday.com | 2 | Active swimwear brand also selling dresses and shirts; no revealing evidence | Title "Left On Friday - Premium Active Swimwear"; alt text "Woman in Getaway Shirt Dress in Coconut" (home page) |
+| 2026-10-30 | mybrazilianshop.com | 1 | Bikini shop; evidence weak, product photo checked was flat lay | Categories "BIKINIS", "Bikini Bottoms", "Bikini Tops"; alt text "Cacau Brown Seashore Textured Triangle Bikini Top" (home page); image checked - no model |
+| 2026-10-30 | annsummers.com | 1 | Lingerie shop; site blocked reading | HTTP 403 |
+| 2026-10-30 | shan.ca | 1 | Swimwear/lingerie brand; site blocked reading | HTTP 403 |
+| 2026-10-30 | juneswimwear.com | 1 | Swimwear brand; site blocked reading | HTTP 429 |
+| 2026-10-30 | lulifama.com | 1 | Swimwear brand; site blocked reading | HTTP 403 |
+| 2026-10-30 | maretoa.com | 1 | Bikini brand; site blocked reading | HTTP 403 |
+| 2026-10-30 | pourmoi.co.uk | 1 | Lingerie/swimwear brand; site blocked reading | HTTP 403 |
