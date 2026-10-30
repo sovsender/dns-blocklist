@@ -33,3 +33,16 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 | 2026-10-30 | lulifama.com | 1 | Swimwear brand; site blocked reading | HTTP 403 |
 | 2026-10-30 | maretoa.com | 1 | Bikini brand; site blocked reading | HTTP 403 |
 | 2026-10-30 | pourmoi.co.uk | 1 | Lingerie/swimwear brand; site blocked reading | HTTP 403 |
+| 2026-10-30 | storminadcup.com.au | 1 | Multi-brand lingerie and swim retailer; no model text, not photo-checked | Alt text "D cup to K cup swimsuits, bikinis and tankinis"; categories "Bikinis", "Bodysuits", "Bras" (home page) |
+| 2026-10-30 | finelineslingerie.com.au | 1 | Lingerie chain with own stores; evidence weak | Title "Most Comfortable Bras & Briefs in Australia - Fine Lines Lingerie"; categories "Bikini", "Bodysuits, Camis & Chemises" (home page) |
+| 2026-10-30 | barestockholm.com | 1 | Lingerie and swim brand; photos loaded were logos only | Categories "Bikini Tops", "Bikini Bottoms"; alt text "Elina Silk Bra" (home page); no model photo could be checked |
+| 2026-10-30 | femique.com | 1 | Maternity and nursing lingerie; no revealing evidence | Alt text "Model sitting on a sofa with her twins wearing Valeria nursing bra and Leia hipsters in colour ivory" (home page) |
+| 2026-10-30 | cheekyswim.com | 1 | Swimwear brand; evidence weak, page gave no readable product text | Title "Cheeky Swim" (home page) |
+| 2026-10-30 | tomboyx.com | 1 | Underwear brand; evidence weak, no model text | Categories "Bikinis", "Bras", "Thongs"; alt text "Essentials Soft Bra - X= Black" (home page) |
+| 2026-10-30 | bonaparteshop.com | 2 | Mainstream: general fashion webshop with swimwear section | Title "BON'A PARTE's Official Webshop | Fashion for the Modern Woman"; nav "Swimwear" (home page) |
+| 2026-10-30 | windsorstore.com | 2 | Mainstream: general fashion retailer | Title "Windsor | Shop Dresses, Tops, Skirts, Denim, Shoes & Trendy Fashion" (home page) |
+| 2026-10-30 | thistleandspire.com | 1 | Lingerie brand; site blocked reading | HTTP 429 |
+| 2026-10-30 | herroom.com | 1 | Multi-brand lingerie retailer; site blocked reading | HTTP 403 |
+| 2026-10-30 | figleaves.com | 1 | Multi-brand lingerie retailer; site blocked reading | HTTP 403 |
+| 2026-10-30 | carvedesigns.com | 1 | Swimwear brand; site blocked reading | HTTP 403 |
+| 2026-10-30 | lindex.com | 2 | Mainstream: general clothing retailer; site blocked reading | HTTP 403 |
