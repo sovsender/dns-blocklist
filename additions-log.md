@@ -216,3 +216,20 @@
 | 2026-11-01 | tigermist.com | 1 | Promoted from pending: mid-size fashion brand with bikini category | Category "Bikinis" (home page); alt text "Tiger Mist Candi Mini Dress in fuchsia, on model" |
 | 2026-11-01 | aguadecoco.com.br | 1 | Promoted from pending: beach fashion brand with bikini category (Portuguese) | Nav "BIQUÍNIS" (home page) |
 | 2026-11-01 | blueman.com.br | 1 | Promoted from pending: beach fashion brand with bikini category (Portuguese) | Category "Biquínis"; description "de biquínis e maiôs a sungas" (home page) |
+| 2026-11-01 | cultgaia.com | 1 | Bikini category | Nav "Bikinis" (home page) |
+| 2026-11-01 | lupo.com.br | 1 | Lingerie category (hosiery/underwear brand) | Nav "Lingerie"; title "Meias e Moda Íntima Feminina e Masculina" (home page) |
+| 2026-11-01 | demillus.com.br | 1 | Lingerie brand | Title "DeMillus, a lingerie que veste muito melhor" (home page) |
+| 2026-11-01 | pqswim.com | 1 | Bikini brand | Title "Luxury Women's Swimwear, Bikinis & Resortwear"; products "Navy Gia Lace Underwire Bikini Top"; nav "Bralette" (home page) |
+| 2026-11-01 | shopakira.com | 1 | Fashion brand with corsets and intimates | Nav "Corsets", "Crop Tops & Bralettes", "INTIMATES" (home page) |
+| 2026-11-01 | tallulahlove.com | 1 | Lingerie brand | Title "Tallulah Love Luxury Lingerie"; nav "Bras", "Lingerie", "Midnight Rose Thong" (home page) |
+| 2026-11-01 | valisere.com.br | 1 | Lingerie brand | Title "Lingerie Valisere: Moda íntima - sutiã, calcinha, bodies" (home page) |
+| 2026-11-01 | lonelylabel.com | 1 | Lingerie brand; site script-built | Search result snippet: "Lonely Lingerie"; "Lingerie New Arrivals" |
+| 2026-11-01 | brasnthings.com | 1 | Lingerie retailer; site blocked reading | Search result snippet: "Buy Women's Bras, Lingerie, Knickers Online"; "Thongs" |
+| 2026-11-01 | meshki.com.au | 1 | Fashion brand with intimates range; site blocked reading | Search result snippet: "Intimates - Shop Online"; product "Posie Satin Lace Demi Bra" |
+| 2026-11-01 | brashop.com | 1 | Bra and lingerie shop | Nav "Bras", "Bralette", "Lingerie", "Bikini" (home page) |
+| 2026-11-01 | corset-story.com | 1 | Corset brand | Nav "Bridal Corsets", "Corset Dresses", "Corset Crop Tops" (home page) |
+| 2026-11-01 | dearkates.com | 1 | Period underwear brand with thongs | Nav "Thongs"; title "Leak-resistant period pants and underwear" (home page) |
+| 2026-11-01 | knickey.com | 1 | Underwear and bra brand | Nav "Bras", "Bikinis", "Back Closure Bras"; thong in range (home page) |
+| 2026-11-01 | girlfriend.com | 1 | Activewear brand with intimates category | Nav "Intimates", "Sports Bras" (home page) |
+| 2026-11-01 | wonderbra.co.uk | 1 | Lingerie brand | Title "Wonderbra | Ultimate, Strapless, Backless and Push Up Bras"; nav "Bras" (home page) |
+| 2026-11-01 | bralessbra.com | 1 | Bra brand | Title "Bra-less Bra | Instant Cleavage Lifting & Sculpting Solution" (home page) |

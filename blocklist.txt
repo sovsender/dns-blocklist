@@ -28,6 +28,9 @@
 ||blushlingerie.com^
 ||bond-eye.com^
 ||bracli.com^
+||bralessbra.com^
+||brashop.com^
+||brasnthings.com^
 ||brastop.com^
 ||bravissimo.com^
 ||brazilianbikinis.com^
@@ -39,11 +42,15 @@
 ||chantelle.com^
 ||ciamaritima.com.br^
 ||coco-de-mer.com^
+||corset-story.com^
 ||corsetdeal.com^
 ||cosabella.com^
+||cultgaia.com^
 ||cupshe.com^
 ||curvykate.com^
 ||darjeeling.fr^
+||dearkates.com^
+||demillus.com.br^
 ||dim.com^
 ||dim.fr^
 ||dippindaisys.com^
@@ -68,6 +75,7 @@
 ||freya-lingerie.com^
 ||freyalingerie.com^
 ||gatta.pl^
+||girlfriend.com^
 ||gossard.com^
 ||gottex.com^
 ||gottexswim.com^
@@ -93,6 +101,7 @@
 ||kikidm.com^
 ||kilobrava.com^
 ||kindredbravely.com^
+||knickey.com^
 ||knix.ca^
 ||kulani-kinis.com^
 ||kulanikinis.com^
@@ -112,12 +121,14 @@
 ||lingerie.co.uk^
 ||lingeriediva.com^
 ||londrebodywear.ca^
+||lonelylabel.com^
 ||lounge.com^
 ||lovable.it^
 ||loversland.com^
 ||lspace.com^
 ||lulifama.com^
 ||lunya.co^
+||lupo.com.br^
 ||luxenoir.com^
 ||maison-close.com^
 ||maisonlejaby.com^
@@ -125,6 +136,7 @@
 ||maretoa.com^
 ||marlies-dekkers.com^
 ||marliesdekkers.com^
+||meshki.com.au^
 ||meundies.com^
 ||mey.com^
 ||minimale-animale.com^
@@ -150,6 +162,7 @@
 ||pleasurestate.com^
 ||pokopano.com.br^
 ||pourmoi.co.uk^
+||pqswim.com^
 ||princesspolly.com^
 ||revolveswim.com^
 ||rhythmlivin.com^
@@ -165,6 +178,7 @@
 ||shan.ca^
 ||shapermint.com^
 ||sheerlingerie.com^
+||shopakira.com^
 ||shopcuup.com^
 ||showpo.com^
 ||simone-perele.com^
@@ -178,6 +192,7 @@
 ||sunshine79.com^
 ||swimoutlet.com^
 ||swimsuitsforall.com^
+||tallulahlove.com^
 ||tavik.com^
 ||tezenis.com^
 ||thebrashop.com^
@@ -195,6 +210,7 @@
 ||tuttirouge.com^
 ||ubras.com^
 ||undiz.com^
+||valisere.com.br^
 ||venus.com^
 ||victoireboutique.com^
 ||victoriassecret.com^
@@ -208,6 +224,7 @@
 ||windsorstore.com^
 ||wolford.com^
 ||womensecret.com^
+||wonderbra.co.uk^
 ||yamamay.com^
 ||yandy.com^
 ||yummie.com^
