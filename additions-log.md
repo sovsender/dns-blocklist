@@ -233,3 +233,6 @@
 | 2026-11-01 | girlfriend.com | 1 | Activewear brand with intimates category | Nav "Intimates", "Sports Bras" (home page) |
 | 2026-11-01 | wonderbra.co.uk | 1 | Lingerie brand | Title "Wonderbra | Ultimate, Strapless, Backless and Push Up Bras"; nav "Bras" (home page) |
 | 2026-11-01 | bralessbra.com | 1 | Bra brand | Title "Bra-less Bra | Instant Cleavage Lifting & Sculpting Solution" (home page) |
+| 2026-11-01 | andieswim.com | 1 | Swimwear brand with bikini items, promoted from pending | Collections list "30% Off Bikini Bottoms"; products list "The Rye Bikini Top - Wide Rib - Tangerine" |
+| 2026-11-01 | bikyni.com | 1 | Bikini brand, promoted from pending | Sitemap product page "the-bikini"; title "BIKYNI - You don't need a better body. You need a better BIKYNI." (home page) |
+| 2026-11-01 | marahoffman.com | 1 | Fashion brand with bikini range, promoted from pending | Collections list "Bikinis", "Bikini Bottoms", "Bikini Tops"; products list "FULL CIRCLE Lydia Bikini Bottom" |
