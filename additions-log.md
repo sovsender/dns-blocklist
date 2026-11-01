@@ -236,3 +236,40 @@
 | 2026-11-01 | andieswim.com | 1 | Swimwear brand with bikini items, promoted from pending | Collections list "30% Off Bikini Bottoms"; products list "The Rye Bikini Top - Wide Rib - Tangerine" |
 | 2026-11-01 | bikyni.com | 1 | Bikini brand, promoted from pending | Sitemap product page "the-bikini"; title "BIKYNI - You don't need a better body. You need a better BIKYNI." (home page) |
 | 2026-11-01 | marahoffman.com | 1 | Fashion brand with bikini range, promoted from pending | Collections list "Bikinis", "Bikini Bottoms", "Bikini Tops"; products list "FULL CIRCLE Lydia Bikini Bottom" |
+| 2026-11-01 | amplebosom.com | 1 | Plus-size lingerie shop | Sitemap product paths "lingerie/anita-care", "lingerie/anita-comfort" |
+| 2026-11-01 | araks.com | 1 | Lingerie and swimwear shop | Title "Araks Lingerie and Swimwear"; nav "Lingerie", "Bras", "Panties", "Thongs" (home page) |
+| 2026-11-01 | baci.com | 1 | Lingerie brand | Title "Baci Lingerie"; nav "White Label Lingerie Collection", "4 Piece Submissive Bikini Costume Set" (home page) |
+| 2026-11-01 | bluebella.us | 1 | Lingerie brand (US store) | Title "Women's Lingerie, Underwear, Nightwear & Gifts"; nav "Bras", "Panties" (home page) |
+| 2026-11-01 | classicshapewear.com | 1 | Shapewear and bras shop | Nav "Shapewear Panties", "Strapless Bras", "Push Up Bras" (home page) |
+| 2026-11-01 | delfinasport.com | 1 | Swim/teamwear shop with bikini range (exception 3 does not apply) | Nav "BIKINIS" (home page) |
+| 2026-11-01 | dolfinswimwear.com | 1 | Swim shop with bikini range (exception 3 does not apply) | Nav "Bikinis & Separates" (home page) |
+| 2026-11-01 | exquisiteform.com | 1 | Plus-size bra brand | Title "Plus Size Bras for Full Figured Women"; nav "Bras", "Shaping Panties" (home page) |
+| 2026-11-01 | forloveandlemons.com | 1 | Fashion brand with lingerie category | Nav "Lingerie" (home page) |
+| 2026-11-01 | fruit.com | 1 | Underwear brand with lingerie/bralettes | Alt text "Vanity Fair Lingerie", "Seamless Pointelle Triangle Bralette" (home page) |
+| 2026-11-01 | fruitybooty.co.uk | 1 | Underwear, lingerie and swimwear brand | Nav "Lingerie", "Bras", "Knickers", "Bikini Tops", "Bikini Bottoms" (home page) |
+| 2026-11-01 | gooseberryintimates.com | 1 | Lingerie and swimwear shop | Title "Sexy Lingerie & Swimwear | Gooseberry Intimates"; nav "Lingerie", "Bras", "Panties" (home page) |
+| 2026-11-01 | hourglassangel.com | 1 | Corset and waist trainer shop | Nav "Corsets", "Shop Corsets" (home page) |
+| 2026-11-01 | hurley.com | 1 | Surf brand with bikini range | Nav "Bikinis", "Bikini & Swim Tops", "Bikini & Swim Bottoms" (home page) |
+| 2026-11-01 | karolinalaskowska.com | 1 | Lingerie brand | Title "Karolina Laskowska Lingerie"; nav "Bras", "Corsets", "Knickers" (home page) |
+| 2026-11-01 | kissmedeadly.co.uk | 1 | Retro lingerie brand | Title "Kiss Me Deadly - elegant retro lingerie for femme fatales" (home page) |
+| 2026-11-01 | lasette.shop | 1 | Lingerie brand | Alt text "LaSette Lingerie", "Strapped In Bralette Luxe" (home page) |
+| 2026-11-01 | liberte.co | 1 | Lingerie brand | Title "Lingerie Made to Fit You"; products "Nolita Lace Thong - Black", nav "Bras" (home page) |
+| 2026-11-01 | marliesdekkers.com | 1 | Lingerie and swimwear brand (marliesdekkers.nl redirects here) | Title "Marlies Dekkers Lingerie & Swimwear"; nav "Bras", "Bralettes", "Thongs" (home page) |
+| 2026-11-01 | marliesdekkers.nl | 1 | Lingerie brand, redirects to marliesdekkers.com | Title "Marlies Dekkers Lingerie & Swimwear"; nav "Thongs" (home page) |
+| 2026-11-01 | nubianskin.com | 1 | Lingerie brand | Nav "Bras", "Panties" (home page) |
+| 2026-11-01 | nudebarre.com | 1 | Underwear brand | Title "Skin Tone Underwear & Hosiery"; nav "Bras", "Bralettes", "Seamless Thong" (home page) |
+| 2026-11-01 | oneill.com | 1 | Surf brand with bikini range | Nav "Bikinis", "Bikini tops", "Bikini bottoms" (home page) |
+| 2026-11-01 | peachjohn.co.jp | 1 | Japanese lingerie shop | Title "ピーチ・ジョン通販サイト-ブラジャー・下着・ランジェリー" (home page) |
+| 2026-11-01 | ripcurl.com | 1 | Surf brand with bikini range | Nav "Bikini Tops", "Bikini Bottoms" (home page) |
+| 2026-11-01 | romanticdepot.com | 1 | Adult store with lingerie | Nav "Sexy Lingerie", "Lingerie" (home page) |
+| 2026-11-01 | rusty.com.au | 1 | Surf brand with bikini range | Nav "Bikini Tops", "Bikini Bottoms" (home page) |
+| 2026-11-01 | rvca.com | 1 | Surf/skate brand with bikini range | Nav "Bikini Tops", "Bikini Bottoms" (home page) |
+| 2026-11-01 | scarlettgasque.com | 1 | Lingerie/corset apparel brand | Nav "Corsets", "Bras", "Bralettes", "Demi Bras" (home page) |
+| 2026-11-01 | theunderargument.com | 1 | Lingerie brand | Title "the underargument // Lingerie advocating individuality"; alt "PLUNGE BRA" (home page) |
+| 2026-11-01 | tyr.com | 1 | Athletic swim brand with bikini range (exception 3 does not apply) | Nav "Bikinis" (home page) |
+| 2026-11-01 | vandevelde.eu | 1 | Lingerie company | Title "Van de Velde | Belgian lingerie company" (home page) |
+| 2026-11-01 | vilebrequin.com | 1 | Luxury swimwear brand with bikini range | Nav "Bikinis" (home page) |
+| 2026-11-01 | volcom.com | 1 | Surf/skate brand with bikini range | Nav "Bikinis" (home page) |
+| 2026-11-01 | whatkatiedid.com | 1 | Vintage-style lingerie shop | Title "Vintage Lingerie, Shapewear & Dresses"; nav "Bras", "Knickers", "Corsets" (home page) |
+| 2026-11-01 | wickedweasel.com | 1 | Bikini and lingerie brand | Nav "Bikinis", "Thong", "Lingerie", "Bralette", "Panties" (home page) |
+| 2026-11-01 | zimmerli.com | 1 | Luxury underwear brand | Title "Underwear, Nightwear & Loungewear"; nav "Panties" (home page) |
