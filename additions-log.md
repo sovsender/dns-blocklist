@@ -210,3 +210,9 @@
 | 2026-10-30 | lablanca.com | 1 | Swimwear brand | Title "Women's Swimsuits, Bathing Suits & Bikinis" (home page) |
 | 2026-10-30 | sunshine79.com | 1 | Swimwear brand (redirects to lablanca.com) | Title "Swimsuits, Bathing Suits & Bikinis" (home page) |
 | 2026-10-30 | ubras.com | 1 | Lingerie brand | Title "Shop Wireless Bras, Lingerie, Pajamas"; categories "All Bras", "Bralette" (home page) |
+| 2026-11-01 | victoireboutique.com | 1 | Promoted from pending: independent boutique with lingerie category | Category "Lingerie" (home page); site describes itself as "An independent women's boutique" |
+| 2026-11-01 | knix.ca | 1 | Promoted from pending: intimates brand, live models | Categories "Bras", "Bralettes", "Bikini" (home page); alt text "Sarah has 38.5” hips and wears KNIX M | Front view of model wearing" |
+| 2026-11-01 | trueandco.com | 1 | Promoted from pending: bra and underwear brand | Categories "Bras", "Triangle Bras", "Underwear" (home page) |
+| 2026-11-01 | tigermist.com | 1 | Promoted from pending: mid-size fashion brand with bikini category | Category "Bikinis" (home page); alt text "Tiger Mist Candi Mini Dress in fuchsia, on model" |
+| 2026-11-01 | aguadecoco.com.br | 1 | Promoted from pending: beach fashion brand with bikini category (Portuguese) | Nav "BIQUÍNIS" (home page) |
+| 2026-11-01 | blueman.com.br | 1 | Promoted from pending: beach fashion brand with bikini category (Portuguese) | Category "Biquínis"; description "de biquínis e maiôs a sungas" (home page) |
