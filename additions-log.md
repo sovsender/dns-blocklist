@@ -499,3 +499,86 @@
 | 2026-11-02 | josea-surfwear.com | 1 | lingerie/thong/bikini rule | Home page title "JOSEA SURFWEAR SURF BIKINI" |
 | 2026-11-02 | gorillawear.com | 1 | lingerie/thong/bikini rule | Home page category "Sports Bras" |
 | 2026-11-02 | hey-honey.com | 1 | lingerie/thong/bikini rule | Home page collection "Sport Bra's" (hey-honey.fr redirects here) |
+| 2026-11-02 | jungfrauplus.de | 1 | Lingerie rule | Home page category/nav "dessous" |
+| 2026-11-02 | kinkysabine.de | 1 | Lingerie rule | Home page category/nav "dessous" |
+| 2026-11-02 | kleine-koerbchen.de | 1 | Lingerie rule | Home page category/nav "bh", "bikini", "bra", "bralette", "lingerie" |
+| 2026-11-02 | kompressionsmieder-onlineshop.de | 1 | Lingerie rule | Home page category/nav "bh", "panty" |
+| 2026-11-02 | koramikino.de | 1 | Thong/bikini rule | Home page category/nav "slip" |
+| 2026-11-02 | korsettmanufaktur.de | 1 | Lingerie rule | Home page category/nav "dessous" |
+| 2026-11-02 | kerstins-landhausmode.de | 1 | Lingerie rule | Home page category/nav "bh" |
+| 2026-11-02 | la-mesma.com | 1 | Thong/bikini rule | Home page category/nav "bikini" |
+| 2026-11-02 | lace.de | 1 | Lingerie rule | Home page category/nav "bh", "bikini", "bralette", "dessous", "lingerie" |
+| 2026-11-02 | lemoni-shop.com | 1 | Thong/bikini rule | Home page category/nav "bikini" |
+| 2026-11-02 | leonisa-deutschland.de | 1 | Lingerie rule | Home page category/nav "bikini", "bra", "bralette", "culotte", "lencer" |
+| 2026-11-02 | liebeslust.de | 1 | Lingerie rule | Home page category/nav "dessous" |
+| 2026-11-02 | like-it-pants.com | 1 | Lingerie rule | Home page category/nav "bh", "bikini", "bralette", "panty" |
+| 2026-11-02 | lordoflabel.com | 1 | Lingerie rule | Home page category/nav "bikini", "bras" |
+| 2026-11-02 | louisas-shop.de | 1 | Lingerie rule | Home page category/nav "bh", "bikini", "dessous", "lingerie", "panty" |
+| 2026-11-02 | loungeunderwear.com | 1 | Lingerie rule | Home page category/nav "intimates" |
+| 2026-11-02 | lovesexshop.de | 1 | Lingerie rule | Home page category/nav "dessous", "tanga" |
+| 2026-11-02 | maedchenflohmarkt.de | 1 | Lingerie rule | Home page category/nav "dessous" |
+| 2026-11-02 | mama-tobe.de | 1 | Lingerie rule | Home page category/nav "bh", "dessous" |
+| 2026-11-02 | marikavera.com | 1 | Lingerie rule | Home page category/nav "bralette", "knickers", "lingerie", "thongs" |
+| 2026-11-02 | mewa24.de | 1 | Lingerie rule | Home page category/nav "dessous" |
+| 2026-11-02 | mimoli-dessous.de | 1 | Lingerie rule | Home page category/nav "bh", "panty", "tanga" |
+| 2026-11-02 | miss-perfect.shop | 1 | Lingerie rule | Home page category/nav "bh", "dessous" |
+| 2026-11-02 | mixkini.com | 1 | Thong/bikini rule | Home page category/nav "bikini" |
+| 2026-11-02 | mocestic.de | 1 | Thong/bikini rule | Home page category/nav "bikini" |
+| 2026-11-02 | mode-grosse-groessen.de | 1 | Lingerie rule | Home page category/nav "bh", "bikini", "dessous" |
+| 2026-11-02 | mode-kraeft.de | 1 | Lingerie rule | Home page category/nav "bh", "bikini", "lingerie" |
+| 2026-11-02 | modischesachen.de | 1 | Lingerie rule | Home page category/nav "bh", "bikini" |
+| 2026-11-02 | mollyandmy.de | 1 | Lingerie rule | Home page category/nav "bikini", "bralette", "panties" |
+| 2026-11-02 | mona.de | 1 | Lingerie rule | Home page text "bh", "bikini", "culotte", "dessous" |
+| 2026-11-02 | mr-mrs-love.de | 1 | Lingerie rule | Home page category/nav "bra", "corset" |
+| 2026-11-02 | my-kleidung.de | 1 | Lingerie rule | Home page category/nav "bh", "bikini", "dessous" |
+| 2026-11-02 | my-new-bikini.de | 1 | Thong/bikini rule | Home page text "bikini" |
+| 2026-11-02 | mykrines.com | 1 | Lingerie rule | Home page category/nav "bikini", "dessous" |
+| 2026-11-02 | myraswim.com | 1 | Thong/bikini rule | Home page category/nav "bikini", "thong" |
+| 2026-11-02 | narahsoleigh.com | 1 | Thong/bikini rule | Home page category/nav "bikini" |
+| 2026-11-02 | naturana.com | 1 | Lingerie rule | Home page category/nav "bh", "bikini", "bralette" |
+| 2026-11-02 | netlingeri.de | 1 | Lingerie rule | Home page category/nav "bh", "dessous", "lingerie" |
+| 2026-11-02 | ninavonc.de | 1 | Lingerie rule | Home page category/nav "bh", "bikini", "panty", "tanga" |
+| 2026-11-02 | ninety-9.de | 1 | Thong/bikini rule | Home page category/nav "thong" |
+| 2026-11-02 | noppies.com | 1 | Lingerie rule | Home page category/nav "bh", "panty" |
+| 2026-11-02 | natur-co.de | 1 | Thong/bikini rule | Home page category/nav "bikini" |
+| 2026-11-02 | nordmeerjungfrau.de | 1 | Thong/bikini rule | Home page category/nav "bikini" |
+| 2026-11-02 | oceanchildswim.com | 1 | Lingerie rule | Home page category/nav "bikini", "bralette" |
+| 2026-11-02 | oceanfighter.de | 1 | Thong/bikini rule | Home page text "bikini" |
+| 2026-11-02 | oceansapart.com | 1 | Lingerie rule | Home page category/nav "bra", "bras", "panties", "thongs" |
+| 2026-11-02 | ohmoon.de | 1 | Thong/bikini rule | Home page category/nav "slip" |
+| 2026-11-02 | onmyskin.de | 1 | Lingerie rule | Home page category/nav "bh", "panty" |
+| 2026-11-02 | outletdessous.de | 1 | Lingerie rule | Home page category/nav "dessous" |
+| 2026-11-02 | pariser-mode.de | 1 | Lingerie rule | Home page category/nav "bikini", "dessous", "panties", "tanga" |
+| 2026-11-02 | passion-deutschland.de | 1 | Lingerie rule | Home page category/nav "bh", "dessous", "panty" |
+| 2026-11-02 | proswimwear.de | 1 | Thong/bikini rule | Home page category/nav "bikini" |
+| 2026-11-02 | protreksport.de | 1 | Lingerie rule | sitemap "bh", "bikini", "bra" |
+| 2026-11-02 | redeve.de | 1 | Lingerie rule | Home page category/nav "lingerie", "panty" |
+| 2026-11-02 | renate-dessous.de | 1 | Lingerie rule | Home page category/nav "dessous" |
+| 2026-11-02 | rockabilly-clothing.de | 1 | Lingerie rule | Home page category/nav "corset", "dessous", "knickers", "panties", "panty" |
+| 2026-11-02 | rocknrollalley.de | 1 | Lingerie rule | Home page category/nav "dessous" |
+| 2026-11-02 | rohnisch.com | 1 | Lingerie rule | Home page category/nav "bikini", "bras" |
+| 2026-11-02 | romberg-underwear.com | 1 | Lingerie rule | Home page category/nav "panties" |
+| 2026-11-02 | roxy-germany.de | 1 | Lingerie rule | Home page category/nav "bh", "bikini", "bralette", "tanga" |
+| 2026-11-02 | royal-lounge.eu | 1 | Lingerie rule | Home page category/nav "bh", "intimates" |
+| 2026-11-02 | rw-grosshandel.com | 1 | Lingerie rule | Home page category/nav "dessous" |
+| 2026-11-02 | schlankstuetz.de | 1 | Thong/bikini rule | Home page category/nav "bikini", "panty" |
+| 2026-11-02 | schmatzepuffer.com | 1 | Thong/bikini rule | Home page category/nav "bikini" |
+| 2026-11-02 | secrets-dessous.de | 1 | Lingerie rule | Home page category/nav "bh", "bikini", "dessous" |
+| 2026-11-02 | sensual-fashion.de | 1 | Lingerie rule | Home page category/nav "bh", "bikini", "dessous", "lingerie", "panties" |
+| 2026-11-02 | shapeweardeluxe.de | 1 | Lingerie rule | Home page category/nav "bh", "dessous", "panty", "thong" |
+| 2026-11-02 | sheego.de | 1 | Lingerie rule | Home page category/nav "bh", "dessous" |
+| 2026-11-02 | shop-klausmann-schuhe-sport.de | 1 | Thong/bikini rule | Home page category/nav "bikini" |
+| 2026-11-02 | shortstories.de | 1 | Thong/bikini rule | Home page category/nav "bikini" |
+| 2026-11-02 | shredstore.de | 1 | Thong/bikini rule | Home page category/nav "bikini" |
+| 2026-11-02 | sixty6.de | 1 | Lingerie rule | Home page category/nav "bikini", "dessous", "tanga" |
+| 2026-11-02 | skintwo.de | 1 | Lingerie rule | Home page category/nav "bras", "corset", "knickers", "lingerie" |
+| 2026-11-02 | sloggishop.com | 1 | Lingerie rule | Home page category/nav "bh", "bralette" |
+| 2026-11-02 | snocks.com | 1 | Lingerie rule | Home page category/nav "bh", "bralette", "panties", "tanga" |
+| 2026-11-02 | speidelshop.com | 1 | Lingerie rule | Home page category/nav "bh", "bikini", "panty", "tanga" |
+| 2026-11-02 | sport-ehnert.de | 1 | Lingerie rule | Home page category/nav "bh", "bikini" |
+| 2026-11-02 | sportaner.shop | 1 | Thong/bikini rule | Home page category/nav "bikini" |
+| 2026-11-02 | sportextreme24.de | 1 | Thong/bikini rule | Home page category/nav "bikini" |
+| 2026-11-02 | soyuar.de | 1 | Thong/bikini rule | Home page text "bikini" |
+| 2026-11-02 | roesch-fashion.com | 1 | Thong/bikini rule | Home page text "bikini" |
+| 2026-11-02 | simplyloveit.de | 1 | Lingerie rule | collections list "bikini", "bras" |
+| 2026-11-02 | princessetamtam.com | 1 | promoted from pending | Search result snippet: "French lingerie sector" (own domain, brand page) |
