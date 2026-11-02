@@ -896,3 +896,15 @@
 | 2026-11-02 | swimzip.com | 1 | rule T | home page |
 | 2026-11-02 | trashy.com | 1 | rule L | home page |
 | 2026-11-02 | uktights.com | 1 | rule L | home page |
+| 2026-11-02 | adoreme.ca | 1 | rule L [country site] | country site |
+| 2026-11-02 | adoreme.mx | 1 | rule L [country site] | country site |
+| 2026-11-02 | adoreme.se | 1 | rule L [country site] | country site |
+| 2026-11-02 | pantys.com | 1 | rule L [country site] | country site |
+| 2026-11-02 | ripcurl.ca | 1 | rule T [country site] | country site |
+| 2026-11-02 | ripcurl.jp | 1 | rule T [country site] | country site |
+| 2026-11-02 | pantiesparadise.eu | 1 | rule L [country site] | country site |
+| 2026-11-02 | elia-lingerie.fr | 1 | rule L [country site] | country site |
+| 2026-11-02 | sexymenunderwear.ca | 1 | rule L [country site] | country site |
+| 2026-11-02 | swimweargalore.com.au | 1 | rule T [country site] | country site |
+| 2026-11-02 | underwearexpert.us | 1 | rule L [country site] | country site |
+| 2026-11-02 | panty.co.uk | 1 | rule L [country site] | country site |

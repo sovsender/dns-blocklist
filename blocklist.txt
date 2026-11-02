@@ -6,7 +6,10 @@
 ||adameve.ca^
 ||adameve.com^
 ||adameve.fr^
+||adoreme.ca^
 ||adoreme.com^
+||adoreme.mx^
+||adoreme.se^
 ||agentprovocateur.com^
 ||aguabendita.com^
 ||aguadecoco.com.br^
@@ -253,6 +256,7 @@
 ||eberjey.com^
 ||elegando.de^
 ||elia-lingerie.com^
+||elia-lingerie.fr^
 ||elila.com^
 ||elilausa.com^
 ||elomi.com^
@@ -602,11 +606,14 @@
 ||panache-lingerie.com^
 ||panachelingerie.com^
 ||pantiesparadise.de^
+||pantiesparadise.eu^
 ||panty-place.com^
+||panty.co.uk^
 ||panty.com^
 ||pantydeal.com^
 ||pantynova.com^
 ||pantys.com.br^
+||pantys.com^
 ||pariser-mode.de^
 ||passion-deutschland.de^
 ||passionata.com^
@@ -643,9 +650,11 @@
 ||riellibrand.com^
 ||rigbyandpeller.com^
 ||riotswim.com^
+||ripcurl.ca^
 ||ripcurl.com.au^
 ||ripcurl.com.br^
 ||ripcurl.com^
+||ripcurl.jp^
 ||robinpiccone.com^
 ||rockabilly-clothing.de^
 ||rocknrollalley.de^
@@ -680,6 +689,7 @@
 ||selmarklingerie.com^
 ||sensual-fashion.de^
 ||sexylingeriestore.com^
+||sexymenunderwear.ca^
 ||sexymenunderwear.com^
 ||shan.ca^
 ||shapermint.com^
@@ -750,6 +760,7 @@
 ||swimco.com^
 ||swimoutlet.com^
 ||swimsuitsforall.com^
+||swimweargalore.com.au^
 ||swimweargalore.com^
 ||swimwearindia.com^
 ||swimwearworld.com^
@@ -801,6 +812,7 @@
 ||uktights.com^
 ||underwear-shopping.de^
 ||underwearexpert.com^
+||underwearexpert.us^
 ||underwearshop.gr^
 ||underwearshopping.de^
 ||undiz.com^
