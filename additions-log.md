@@ -925,3 +925,5 @@
 | 2026-11-02 | pantysalad.com | 1 | rule L | home page |
 | 2026-11-02 | pantiescollection.net | 1 | rule L | home page |
 | 2026-11-02 | bambaswim.ca | 1 | rule T [country site] | country site |
+| 2026-11-02 | pantyxart.com | 1 | rule L [retry limit] | domain name |
+| 2026-11-02 | lingeriebookmark.com | 1 | rule L [retry limit] | domain name |

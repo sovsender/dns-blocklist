@@ -478,6 +478,7 @@
 ||lingerie.co.uk^
 ||lingerie.com.br^
 ||lingerie.ua^
+||lingeriebookmark.com^
 ||lingeriediva.com^
 ||lingeriehuisonline.be^
 ||lingeriehuisonline.nl^
@@ -628,6 +629,7 @@
 ||pantys.com.br^
 ||pantys.com^
 ||pantysalad.com^
+||pantyxart.com^
 ||pariser-mode.de^
 ||passion-deutschland.de^
 ||passionata.com^
