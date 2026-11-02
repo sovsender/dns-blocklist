@@ -1,6 +1,7 @@
 ||1-9-7-9.com^
 ||1861.ca^
 ||247lingerie.co^
+||5starslingerie.com^
 ||aboutwaves.de^
 ||adamandeve.com^
 ||adameve.ca^
@@ -30,6 +31,7 @@
 ||ambiletics.com^
 ||amour-fou.at^
 ||amplebosom.com^
+||analingerie.net^
 ||andalous-dessous.de^
 ||andieswim.com.au^
 ||andieswim.com^
@@ -282,6 +284,7 @@
 ||everythingbutwater.com^
 ||everythingswimwear.com^
 ||exquisiteform.com^
+||extremeintimo.com^
 ||fabiofarini.de^
 ||fae.house^
 ||faithfullthebrand.com^
@@ -311,6 +314,7 @@
 ||freyerleben.de^
 ||frija-omina.com^
 ||frivolita.de^
+||froufrou-lingerie.com^
 ||fruit.com^
 ||fruitybooty.co.uk^
 ||fuerstenberg-fashion.de^
@@ -326,6 +330,7 @@
 ||gottex-swimwear.com^
 ||gottex.com^
 ||gottexswim.com^
+||gotyu-underwear.com^
 ||green-guerillas.de^
 ||gudswim.com.au^
 ||hanes.com^
@@ -371,7 +376,9 @@
 ||intimateportal.com^
 ||intimatestore.gr^
 ||intimissimi.com^
+||intimo.com.ua^
 ||intimoaltieri.it^
+||intimok.com^
 ||intimolida.it^
 ||intimorosa.com^
 ||iris-lingerie.be^
@@ -415,6 +422,7 @@
 ||lablanca.com^
 ||lace.de^
 ||lacorsetera.com^
+||ladanunderwear.com^
 ||ladybirdlingerie.com^
 ||lalilouche.com^
 ||lalingeriedesducs.fr^
@@ -433,6 +441,7 @@
 ||lemonadedolls.com^
 ||lemoni-shop.com^
 ||lenceria-mayorista.com^
+||lenceriaascen.com^
 ||lenceriacandy.com^
 ||lenceriacarnival.mx^
 ||lenceriaemi.com^
@@ -440,6 +449,7 @@
 ||lenceriaemi.eu^
 ||lencerialolas.com^
 ||lenceriamayorista.com.ar^
+||lenceriamoda.com^
 ||lenceriario.com^
 ||lennyniemeyer.com^
 ||leonisa-deutschland.de^
@@ -726,6 +736,7 @@
 ||snocks.com^
 ||solazulswimwear.com^
 ||solidandstriped.com^
+||sommaintimo.it^
 ||sommerswim.com.au^
 ||sommerswim.com^
 ||sophieolivia-lingerie.com^
@@ -753,6 +764,7 @@
 ||sunnybikinis.com^
 ||sunseekerswim.com.au^
 ||sunshine79.com^
+||superintimo.it^
 ||superstacy.de^
 ||susa-shop.de^
 ||suspirointimo.com.br^
@@ -772,6 +784,7 @@
 ||tattoobrands.de^
 ||tavik.com^
 ||tezenis.com^
+||the-bikini.com^
 ||thebikinishop.ie^
 ||thebrashop.com^
 ||thecoolhour.com^
