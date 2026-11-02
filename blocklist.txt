@@ -22,17 +22,21 @@
 ||annsummers.com^
 ||anyalust.com^
 ||araks.com^
+||ardene.com^
 ||arkswimwear.com^
+||ashleystewart.com^
 ||assemblylabel.com^
 ||astratex.de^
 ||aubade.co.uk^
 ||aubade.com^
 ||aubade.eu^
+||authentic.com^
 ||awaythatday.com^
 ||babylikestopony.com^
 ||baci.com^
 ||bademoden.com^
 ||bakuswimwear.com.au^
+||balibras.com^
 ||ballarina.de^
 ||bamboobasics.com^
 ||bananamoon.com^
@@ -51,6 +55,7 @@
 ||bellizima.de^
 ||bendon.com^
 ||bendonlingerie.com^
+||berlei.com.au^
 ||berlei.com^
 ||berlin-underwear.com^
 ||bestform.com^
@@ -70,6 +75,7 @@
 ||billabong.com^
 ||bimbyandroy.com.au^
 ||bjornborg.com^
+||blackboughswim.com^
 ||bluebella.com.au^
 ||bluebella.com^
 ||bluebella.us^
@@ -82,8 +88,12 @@
 ||bonbonlingerie.com^
 ||bond-eye.com^
 ||bondiborn.com^
+||bonds.com.au^
+||bonprix.co.uk^
+||bonprix.de^
 ||bonvenon.com^
 ||boochen.co^
+||boohoo.com^
 ||borneo-paris.com^
 ||bouxavenue.com^
 ||bracli-dessous.de^
@@ -96,6 +106,7 @@
 ||bravaria.de^
 ||bravissimo.com^
 ||brazilianbikinis.com^
+||brazilianbikinishop.com^
 ||brunobanani.com^
 ||brunotti.com^
 ||burlesque-dessous.de^
@@ -105,6 +116,7 @@
 ||cakematernity.com^
 ||calao-shop.de^
 ||calida.com^
+||calvinklein.com^
 ||calzedonia.com^
 ||camokoenig.de^
 ||campcoveswim.com^
@@ -185,6 +197,7 @@
 ||femique.com^
 ||femtis.de^
 ||fenzy.de^
+||figleaves.com^
 ||finaundliv.de^
 ||finelineslingerie.com.au^
 ||fischswim.com^
@@ -213,6 +226,8 @@
 ||gottexswim.com^
 ||green-guerillas.de^
 ||gudswim.com.au^
+||hanes.com^
+||hanesaustralasia.com^
 ||hankypanky.com^
 ||hanro.com^
 ||hapari.com^
@@ -224,6 +239,7 @@
 ||hertie.de^
 ||hey-honey.com^
 ||hirsefelt.de^
+||hollisterco.com^
 ||homebodii.com^
 ||honeybirdette.com^
 ||honeylove.com^
@@ -236,6 +252,7 @@
 ||hunzag.com^
 ||hurley.com^
 ||hw-shapes.de^
+||hyamsbeachswim.com^
 ||hypeneedz.com^
 ||i-miss-sophie.de^
 ||icone-lingerie.com^
@@ -252,7 +269,9 @@
 ||italian-design.nl^
 ||jaymes.com.au^
 ||jetsaustralia.com^
+||jockey.com^
 ||jockey.eu^
+||jolidon.com^
 ||jolynclothing.de^
 ||josea-surfwear.com^
 ||journelle.com^
@@ -270,6 +289,7 @@
 ||kisskill.com.au^
 ||kissmedeadly.co.uk^
 ||kleine-koerbchen.de^
+||klingel.de^
 ||knickey.com^
 ||knix.ca^
 ||kompressionsmieder-onlineshop.de^
@@ -281,6 +301,7 @@
 ||lablanca.com^
 ||lace.de^
 ||ladybirdlingerie.com^
+||lalilouche.com^
 ||lalulabel.com^
 ||lanebryant.com^
 ||laperla.com^
@@ -315,6 +336,7 @@
 ||londrebodywear.com^
 ||lonelylabel.com^
 ||lordoflabel.com^
+||lou-lingerie.fr^
 ||louisas-shop.de^
 ||lounge.com^
 ||loungeunderwear.com^
@@ -336,6 +358,7 @@
 ||marahoffman.com^
 ||maretoa.com^
 ||marikavera.com^
+||marksandspencer.com^
 ||marlies-dekkers.com^
 ||marliesdekkers.com^
 ||marliesdekkers.nl^
@@ -373,6 +396,7 @@
 ||my-new-bikini.de^
 ||mybrazilianshop.com^
 ||mykrines.com^
+||myla.com^
 ||mylorals.com^
 ||mymarini.com^
 ||myraswim.com^
@@ -405,6 +429,8 @@
 ||orchardcorset.com^
 ||oseree.com^
 ||ouhlala.co.uk^
+||outfits24.de^
+||outlet46.de^
 ||outletdessous.de^
 ||oxbowshop.com^
 ||paindesucre.com^
@@ -413,15 +439,18 @@
 ||palmswimwear.com^
 ||palorosabeachwear.co^
 ||panache-lingerie.com^
+||panachelingerie.com^
 ||pariser-mode.de^
 ||passion-deutschland.de^
 ||passionata.com^
 ||peachjohn.co.jp^
 ||playfulpromises.com^
+||playtexbras.com^
 ||pleasurestate.com^
 ||pokopano.com.br^
 ||pourmoi.co.uk^
 ||pqswim.com^
+||prettylittlething.com^
 ||princessetamtam.com^
 ||princesspolly.com^
 ||proswimwear.de^
@@ -429,10 +458,12 @@
 ||puravidaswim.com^
 ||raqapparel.com^
 ||redeve.de^
+||reischmann.de^
 ||renate-dessous.de^
 ||revolveswim.com^
 ||rhythmlivin.com^
 ||riellibrand.com^
+||rigbyandpeller.com^
 ||riotswim.com^
 ||ripcurl.com^
 ||robinpiccone.com^
@@ -442,6 +473,7 @@
 ||rohnisch.com^
 ||romanticdepot.com^
 ||romberg-underwear.com^
+||rosegal.com^
 ||roxy-germany.de^
 ||roxy.com^
 ||royal-lounge.eu^
@@ -451,7 +483,9 @@
 ||saltandripple.com^
 ||saltgypsy.com^
 ||saltymermaid.com^
+||savagex.co.uk^
 ||savagex.com^
+||savagex.de^
 ||scandale.com^
 ||scarlettgasque.com^
 ||schiesser.com^
@@ -557,6 +591,7 @@
 ||withjean.com^
 ||wolford.com^
 ||womensecret.com^
+||wonderbra.ca^
 ||wonderbra.co.uk^
 ||yamamay.com^
 ||yandy.com^
@@ -564,6 +599,7 @@
 ||youswim.com^
 ||yse-paris.com^
 ||yummie.com^
+||zaful.com^
 ||zimmerli.com^
 ||zimmermann.com^
 ||zulu-zephyr.com^

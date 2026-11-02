@@ -582,3 +582,39 @@
 | 2026-11-02 | roesch-fashion.com | 1 | Thong/bikini rule | Home page text "bikini" |
 | 2026-11-02 | simplyloveit.de | 1 | Lingerie rule | collections list "bikini", "bras" |
 | 2026-11-02 | princessetamtam.com | 1 | promoted from pending | Search result snippet: "French lingerie sector" (own domain, brand page) |
+| 2026-11-02 | brazilianbikinishop.com | 2 | promoted from pending - exception 2 decision (bikini-focused store) | Domain name and home page categories 'Swimwear, Cover-ups', alt text 'Women's swimwear' (home page); bikinis are the core range |
+| 2026-11-02 | zaful.com | 2 | promoted from pending - exception 2 decision (fast-fashion with bikini/intimates sections) | Home page categories 'Best Seller Bikini Sets', 'Bikini Tops', 'Bikini Bottoms', 'Intimates' |
+| 2026-11-02 | rosegal.com | 2 | promoted from pending - exception 2 decision (plus-size fast fashion) | Home page categories 'Plus Size Intimates', 'plus size bras', 'Lingerie' |
+| 2026-11-02 | boohoo.com | 2 | promoted from pending - exception 2 decision (fast fashion) | Home page categories 'Lingerie', 'Bras', 'Thongs', 'Corset Tops' |
+| 2026-11-02 | prettylittlething.com | 2 | promoted from pending - exception 2 decision (fast fashion) | Home page categories 'Lingerie', 'New In Nightwear & Lingerie', 'Corset Tops' |
+| 2026-11-02 | ardene.com | 2 | promoted from pending - exception 2 decision (young-women's fashion chain) | Home page categories 'Lingerie', 'Bikini Tops', 'Bikini Bottoms', 'Sports Bras' |
+| 2026-11-02 | bonprix.co.uk | 2 | promoted from pending - exception 2 decision (women's fashion mail-order, lingerie top-level) | Home page category 'Lingerie' |
+| 2026-11-02 | bonprix.de | 2 | promoted from pending - exception 2 decision (women's fashion mail-order, lingerie top-level) | Home page 'Dessous', 'Lingerie', 'Bikini' |
+| 2026-11-02 | ashleystewart.com | 2 | promoted from pending - exception 2 decision (plus-size fashion chain) | Home page nav 'INTIMATES', 'BRAS', 'Bra & Panty Sets' |
+| 2026-11-02 | authentic.com | 2 | promoted from pending - exception 2 decision (bras/lingerie top-level nav) | Home page nav 'Bras', 'Panties', 'Lingerie' |
+| 2026-11-02 | marksandspencer.com | 2 | promoted from pending - exception 2 decision (lingerie top-level menu) | Home page nav 'Lingerie & Nightwear', 'Bras', 'Knickers', 'Thongs' |
+| 2026-11-02 | klingel.de | 2 | promoted from pending - exception 2 decision (women's fashion mail-order) | Sitemap page 'damen-bh' filter; earlier home page 'Dessous', 'Bikini', 'BH' |
+| 2026-11-02 | reischmann.de | 2 | promoted from pending - exception 2 decision (fashion house, lingerie/bikini sections) | Home page 'Wäsche & Dessous', 'Bikinis', 'BHs' |
+| 2026-11-02 | outfits24.de | 2 | promoted from pending - exception 2 decision (fashion-only marketplace) | Home page 'Dessous' (earlier check; site now unavailable) |
+| 2026-11-02 | outlet46.de | 2 | promoted from pending - exception 2 decision (fashion-only outlet) | Home page 'BH', 'Panty' (earlier check) |
+| 2026-11-02 | hollisterco.com | 2 | promoted from pending - exception 2 decision (young fashion brand) - third-party evidence | Search result snippet: own-brand site page 'womens swimwear'; asos.com brand page 'Hollister co-ord underwire bikini top'; shop-eat-surf.com 'Hollister Ramps Up Swim Focus' |
+| 2026-11-02 | panachelingerie.com | 1 | promoted from pending - third-party evidence | herroom.com brand page 'Panache' bras; braforme.com collection 'Panache'; journelle.com 'panache lingerie' - British lingerie brand specialising in bras |
+| 2026-11-02 | hanes.com | 1 | promoted from pending - third-party evidence | ir.hanesbrands.com / fashionunited.in: 'Hanes focusing on women's intimate wear'; powerretail.com.au Hanes owns Bras N Things; Hanes sells bras, panties, shapewear |
+| 2026-11-02 | hanesaustralasia.com | 1 | promoted from pending - third-party evidence | wikipedia.com Hanes Australasia: brands Bonds, Berlei, Bras N Things; smartcompany.com.au 'Bonds, Bras N Things, Berlei' deal; own page 'Our Brands' |
+| 2026-11-02 | bonds.com.au | 1 | promoted from pending - third-party evidence | Search result snippet from own domain: product page 'Be By Berlei' bra; sportsbrasdirect.com.au brand page 'Bonds'; wikipedia.com Hanes Australasia |
+| 2026-11-02 | berlei.com.au | 1 | promoted from pending - third-party evidence | sportsbrasdirect.com.au 'Brand in Focus - Berlei' bras; wikipedia.com Hanes Australasia 'Berlei, founded 1917, known for its bras' |
+| 2026-11-02 | jockey.com | 1 | promoted from pending - third-party evidence | Search result snippet from own domain: product page 'Jockey women's forever fit full coverage molded cup bra'; herroom.com brand page 'Jockey' |
+| 2026-11-02 | wonderbra.ca | 1 | promoted from pending - third-party evidence | en.wikipedia.org 'Wonderbra' push-up bra brand; underpinningsmuseum.com 'Hello boys: how Wonderbra survived the bra wars'; own 'our story' page |
+| 2026-11-02 | playtexbras.com | 1 | promoted from pending - third-party evidence | en.wikipedia.org 'Wonderbra' (Playtex bras); balibras.com promo emails on milled.com list Playtex bras; domain name 'bras' |
+| 2026-11-02 | rigbyandpeller.com | 1 | promoted from pending - third-party evidence | en.wikipedia.org 'Rigby & Peller' lingerie brand; countryandtownhouse.com Great British Brands 'Rigby & Peller' lingerie |
+| 2026-11-02 | balibras.com | 1 | promoted from pending - third-party evidence | en.wikipedia.org 'Bali (lingerie)'; businesswire.com 'Bali America's number one national bra brand ... BaliBras.com' |
+| 2026-11-02 | calvinklein.com | 1 | promoted from pending - third-party evidence | marksandspencer.com 'Calvin Klein Women's Briefs' (bras, thongs); zalando.ie catalog 'Calvin Klein underwear' bras; calvinklein.us 'Women's and Men's Underwear' thongs, bras |
+| 2026-11-02 | savagex.co.uk | 1 | promoted from pending - third-party evidence | foxnews.com 'Rihanna is launching a lingerie line'; wmagazine.com 'Savage Fenty lingerie'; own preview page 'Bodysuits & Teddies' under lingerie |
+| 2026-11-02 | savagex.de | 1 | promoted from pending - third-party evidence | foxnews.com 'Rihanna is launching a lingerie line'; fashionunited.com 'Savage x Fenty ... lingerie market' |
+| 2026-11-02 | figleaves.com | 1 | promoted from pending - third-party evidence | wikipedia.com 'Figleaves' UK online lingerie retailer; asos.com brand page 'figleaves plunge bra', 'Brazilian briefs' |
+| 2026-11-02 | myla.com | 1 | promoted from pending - third-party evidence | fashionnetwork.com 'Myla unveils flagship store and new website' lingerie brand; theindustry.fashion 'Myla relaunches in the UK' luxury lingerie |
+| 2026-11-02 | lalilouche.com | 1 | promoted from pending - third-party evidence | newswire.com 'La Lilouche Lingerie Brand Launches New Online Store'; thelingerieaddict.com tag 'la lilouche' |
+| 2026-11-02 | jolidon.com | 1 | promoted from pending - third-party evidence | lingeriebriefs.com 'Coming to America ~ Jolidon Lingerie'; vivo-shopping.com 'Jolidon, underwear shop, swimwear' |
+| 2026-11-02 | hyamsbeachswim.com | 1 | promoted from pending - third-party evidence | illawarramercury.com.au 'Illawarra swimwear business Hyams Beach unveils second collection' (bikinis); advertiserlaketimes.com.au 'Wollongong best friends launch swimwear label Hyams Beach Swim' (bikinis) |
+| 2026-11-02 | blackboughswim.com | 1 | promoted from pending - third-party evidence | pacsun.com product page 'Blackbough Swim ... underwire bikini top'; mega-asia.com 'Blackbough Swim' bikinis; own press page |
+| 2026-11-02 | lou-lingerie.fr | 1 | promoted from pending - third-party evidence | modz.fr 'Lou soutien-gorges femme'; topito.com 'meilleures marques lingerie femme'; hosting.fluidbook.com 'Lou Catalogue' lingerie fine |

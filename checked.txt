@@ -11,6 +11,7 @@ abercrombie.com 2026-11-01
 abraxas-online.de 2026-11-02
 adidas.com 2026-11-01
 adornedinarmor.com 2026-11-01
+aeo.eu 2026-11-02
 aerie.com 2026-11-01
 aexaeswim.com 2026-11-02
 agonswim.com 2026-11-02
@@ -71,6 +72,7 @@ biomoda.de 2026-11-02
 blackcomb-shop.eu 2026-11-02
 blue-aqua-sports.de 2026-11-02
 blue-flamingo-fashion.com 2026-11-02
+blue-tomato.com 2026-11-02
 bluebuck.net 2026-11-02
 bodyandwear.de 2026-11-02
 bodyrocksport.com 2026-11-02
@@ -137,6 +139,7 @@ ellesse.com 2026-11-01
 ellos.de 2026-11-02
 elomode.de 2026-11-02
 emonholiday.com 2026-11-02
+engelhorn.de 2026-11-02
 enjoy-your-dessous.de 2026-11-02
 eresparis.com 2026-11-02
 erodies.de 2026-11-02
@@ -224,6 +227,7 @@ jns.de 2026-11-02
 jogarbola.com 2026-11-02
 jollyroom.de 2026-11-02
 joviva.de 2026-11-02
+kastner-oehler.de 2026-11-02
 kaufdichgluecklich-shop.de 2026-11-02
 kaufring-muenchen.de 2026-11-02
 kayser-roth.com 2026-11-02
@@ -251,6 +255,8 @@ levistrauss.com 2026-11-01
 liewood.de 2026-11-02
 lilado.de 2026-11-02
 lilalaemmchen-shop.de 2026-11-02
+limango-outlet.de 2026-11-02
+limango.de 2026-11-02
 linkedin.com 2026-11-02
 linksynergy.com 2026-11-02
 linvosges.de 2026-11-02
@@ -290,9 +296,11 @@ muskelkatersport.de 2026-11-02
 musterheld.de 2026-11-02
 mw-store.de 2026-11-02
 mybikinishop.de 2026-11-02
+myshop-online24.de 2026-11-02
 myshreddies.com 2026-11-02
 napo-shop.de 2026-11-02
 nautica.com 2026-11-02
+net-a-porter.com 2026-11-02
 nisicollective.com 2026-11-02
 nixon.com 2026-11-01
 noni-mode.de 2026-11-02
@@ -312,6 +320,7 @@ oniverse.it 2026-11-01
 orca.com 2026-11-01
 orlebarbrown.com 2026-11-01
 ortuseight.id 2026-11-01
+otto.de 2026-11-02
 outdoor-broker.de 2026-11-02
 outfitfabrik.de 2026-11-02
 pacificbrands.com.au 2026-11-02
@@ -322,6 +331,7 @@ paradeorganics.com 2026-11-02
 parfait.com 2026-11-01
 patagonia.com 2026-11-01
 pckd.de 2026-11-02
+peek-cloppenburg.de 2026-11-02
 pei-corporateapparel.com 2026-11-02
 peixoto.com 2026-11-01
 penalty.com.br 2026-11-01
@@ -341,6 +351,7 @@ protorio.de 2026-11-02
 quiksilver.com 2026-11-01
 ralphlauren.com 2026-11-01
 reddit.com 2026-11-02
+reebok.com 2026-11-02
 rehaland.com 2026-11-02
 restposten.de 2026-11-02
 revengethelabel.com 2026-11-02
@@ -359,6 +370,7 @@ scandic-shop.de 2026-11-02
 schluepfer-elli.de 2026-11-02
 schuerzenmarkt.de 2026-11-02
 schwimmshop-hausmann.de 2026-11-02
+selfridges.com 2026-11-02
 shemademe.com.au 2026-11-02
 shop4swimming.com 2026-11-02
 shop4swimming.de 2026-11-02
@@ -387,6 +399,7 @@ sporthaus.de 2026-11-02
 sportkind.de 2026-11-02
 stance.com 2026-11-01
 stanfields.com 2026-11-02
+sunkissedcoconut.com 2026-11-02
 sunsetswimwear.com 2026-11-01
 superdry.com 2026-11-01
 tena.com 2026-11-02
