@@ -927,3 +927,44 @@
 | 2026-11-02 | bambaswim.ca | 1 | rule T [country site] | country site |
 | 2026-11-02 | pantyxart.com | 1 | rule L [retry limit] | domain name |
 | 2026-11-02 | lingeriebookmark.com | 1 | rule L [retry limit] | domain name |
+| 2026-11-02 | boody.com.au | 1 | rule L | home page |
+| 2026-11-02 | candyskin.com | 1 | rule L | home page |
+| 2026-11-02 | christineleduc.nl | 1 | rule L | home page |
+| 2026-11-02 | culpritunderwear.com | 1 | rule L | home page |
+| 2026-11-02 | dansmaculotte.com | 1 | rule L | home page |
+| 2026-11-02 | dessus-dessous.fr | 1 | rule L | home page |
+| 2026-11-02 | hiddenagendalingerie.co.uk | 1 | rule L | home page |
+| 2026-11-02 | hopelingerie.com.br | 1 | rule L | home page |
+| 2026-11-02 | hopeoficial.com.br | 1 | rule L | home page |
+| 2026-11-02 | hotmilklingerie.com | 1 | rule L | home page |
+| 2026-11-02 | illusionslingerie.com.au | 1 | rule L | home page |
+| 2026-11-02 | lingeriebestellen.nl | 1 | rule L | home page |
+| 2026-11-02 | lingerielechat.com | 1 | rule L | home page |
+| 2026-11-02 | lingeriematterhorn.fr | 1 | rule L | home page |
+| 2026-11-02 | lingerieunderworld.com | 1 | rule L | home page |
+| 2026-11-02 | losangeles-lingerie.com | 1 | rule L | home page |
+| 2026-11-02 | mademoiselle-lingerie.com | 1 | rule L | home page |
+| 2026-11-02 | maisonsl.com | 1 | rule L | home page |
+| 2026-11-02 | ottolinger.com | 1 | rule L | home page |
+| 2026-11-02 | papercatscorsets.pl | 1 | rule L | home page |
+| 2026-11-02 | parfaitlingerie.com | 1 | rule L | home page |
+| 2026-11-02 | sexylingerie.nl | 1 | rule L | home page |
+| 2026-11-02 | shyaway.com | 1 | rule L | home page |
+| 2026-11-02 | smoon-lingerie.com | 1 | rule L | home page |
+| 2026-11-02 | swimsuitsdirect.com | 1 | rule L | home page |
+| 2026-11-02 | tkdlingerie.com | 1 | rule L | home page |
+| 2026-11-02 | truecorset.ca | 1 | rule L | home page |
+| 2026-11-02 | truecorset.com | 1 | rule L | home page |
+| 2026-11-02 | vanityfairlingerie.com | 1 | rule L | home page |
+| 2026-11-02 | venus-swimwear.net | 1 | rule L | home page |
+| 2026-11-02 | wamaunderwear.com | 1 | rule L | home page |
+| 2026-11-02 | yourunderwearstore.nl | 1 | rule L | home page |
+| 2026-11-02 | australiaswimwear.com | 1 | rule T | home page |
+| 2026-11-02 | bydee.co.uk | 1 | rule T | home page |
+| 2026-11-02 | jadeswim.com | 1 | rule T | home page |
+| 2026-11-02 | missbikini.com | 1 | rule T | home page |
+| 2026-11-02 | missbikini.it | 1 | rule T | home page |
+| 2026-11-02 | mlybikini.com | 1 | rule T | home page |
+| 2026-11-02 | roxy-uk.co.uk | 1 | rule T | home page |
+| 2026-11-02 | sheathunderwear.com | 1 | rule T | home page |
+| 2026-11-02 | underweardistrict.nl | 1 | rule T | home page |

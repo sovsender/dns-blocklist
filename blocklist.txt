@@ -66,6 +66,7 @@
 ||aubade.fr^
 ||aubade.uk^
 ||aubade.us^
+||australiaswimwear.com^
 ||authentic.com^
 ||avalingerie.pl^
 ||awaythatday.com^
@@ -158,6 +159,7 @@
 ||bonprix.de^
 ||bonvenon.com^
 ||boochen.co^
+||boody.com.au^
 ||boohoo.com^
 ||bordelle.co.uk^
 ||borneo-paris.com^
@@ -184,6 +186,7 @@
 ||brunotti.com^
 ||burlesque-dessous.de^
 ||busenfreundin-dessous.de^
+||bydee.co.uk^
 ||bydeeaus.com^
 ||cadolle.com^
 ||cakematernity.com^
@@ -193,6 +196,7 @@
 ||calzedonia.com^
 ||camokoenig.de^
 ||campcoveswim.com^
+||candyskin.com^
 ||cantikswimwear.com^
 ||caosintimo.it^
 ||capittana.com^
@@ -205,6 +209,7 @@
 ||chantelle.com^
 ||cheekicollection.com^
 ||chouchouintimates.com^
+||christineleduc.nl^
 ||ciamaritima.com.br^
 ||classicshapewear.com^
 ||cleonie.com^
@@ -222,6 +227,7 @@
 ||cortexpower.de^
 ||cosabella.com^
 ||coucouintimates.com^
+||culpritunderwear.com^
 ||cultgaia.com^
 ||cupshe.com^
 ||curveswear.com^
@@ -229,6 +235,7 @@
 ||dahmenmode.de^
 ||damselcorsets.com^
 ||danlove-dessous.de^
+||dansmaculotte.com^
 ||daraintimoecorredi.it^
 ||darjeeling.fr^
 ||davidnieper.de^
@@ -243,6 +250,7 @@
 ||dessousfeminins.eu^
 ||dessousforyou.de^
 ||dessousunddu-shop.de^
+||dessus-dessous.fr^
 ||dessus-lingerie.com^
 ||dexer.de^
 ||diceunderwear.com^
@@ -348,12 +356,16 @@
 ||herroom.com^
 ||hertie.de^
 ||hey-honey.com^
+||hiddenagendalingerie.co.uk^
 ||hirsefelt.de^
 ||hollisterco.com^
 ||homebodii.com^
 ||honeybirdette.com^
 ||honeylove.com^
+||hopelingerie.com.br^
+||hopeoficial.com.br^
 ||hotandcold69.de^
+||hotmilklingerie.com^
 ||hourglassangel.com^
 ||hunkemoller.com^
 ||hunkemoller.de^
@@ -367,6 +379,7 @@
 ||i-miss-sophie.de^
 ||icone-lingerie.com^
 ||igvonderlinde.de^
+||illusionslingerie.com.au^
 ||ilovebikini.it^
 ||inamorataswim.com^
 ||inamoratawoman.com^
@@ -387,6 +400,7 @@
 ||iris-lingerie.com^
 ||ismeswim.com^
 ||italian-design.nl^
+||jadeswim.com^
 ||jaymes.com.au^
 ||jetsaustralia.com^
 ||jockey.com^
@@ -478,20 +492,25 @@
 ||lingerie.co.uk^
 ||lingerie.com.br^
 ||lingerie.ua^
+||lingeriebestellen.nl^
 ||lingeriebookmark.com^
 ||lingeriediva.com^
 ||lingeriehuisonline.be^
 ||lingeriehuisonline.nl^
 ||lingerielanouvelle.com^
 ||lingerielanouvelle.fr^
+||lingerielechat.com^
+||lingeriematterhorn.fr^
 ||lingeriepakistan.com^
 ||lingeriestore.ro^
+||lingerieunderworld.com^
 ||lisecharmel.com^
 ||londi.com^
 ||londrebodywear.ca^
 ||londrebodywear.com^
 ||lonelylabel.com^
 ||lordoflabel.com^
+||losangeles-lingerie.com^
 ||lou-lingerie.fr^
 ||louisas-shop.de^
 ||lounge.com^
@@ -507,12 +526,14 @@
 ||luxenoir.com^
 ||maaji.co^
 ||madeleine.com^
+||mademoiselle-lingerie.com^
 ||mademoiselleculotte.com^
 ||maedchenflohmarkt.de^
 ||maidenform.com^
 ||maison-close.com^
 ||maisonlejaby.com^
 ||maisonrogue.com^
+||maisonsl.com^
 ||mama-tobe.de^
 ||marahoffman.com^
 ||maretoa.com^
@@ -541,8 +562,11 @@
 ||minimaleanimale.com^
 ||miraclesuit.com^
 ||miss-perfect.shop^
+||missbikini.com^
+||missbikini.it^
 ||misseskisses.com^
 ||mixkini.com^
+||mlybikini.com^
 ||mocestic.de^
 ||mode-grosse-groessen.de^
 ||mode-kraeft.de^
@@ -605,6 +629,7 @@
 ||ookioh.com^
 ||orchardcorset.com^
 ||oseree.com^
+||ottolinger.com^
 ||ouhlala.co.uk^
 ||outfits24.de^
 ||outlet46.de^
@@ -630,6 +655,8 @@
 ||pantys.com^
 ||pantysalad.com^
 ||pantyxart.com^
+||papercatscorsets.pl^
+||parfaitlingerie.com^
 ||pariser-mode.de^
 ||passion-deutschland.de^
 ||passionata.com^
@@ -680,6 +707,7 @@
 ||romberg-underwear.com^
 ||rosegal.com^
 ||roxy-germany.de^
+||roxy-uk.co.uk^
 ||roxy.com^
 ||royal-lounge.eu^
 ||royce-lingerie.co.uk^
@@ -704,6 +732,7 @@
 ||secrets-dessous.de^
 ||selmarklingerie.com^
 ||sensual-fashion.de^
+||sexylingerie.nl^
 ||sexylingeriestore.com^
 ||sexymenunderwear.ca^
 ||sexymenunderwear.com^
@@ -712,6 +741,7 @@
 ||shapesinthesand.com.au^
 ||shapeweardeluxe.de^
 ||shbikinis.com^
+||sheathunderwear.com^
 ||sheego.de^
 ||sheerlingerie.com^
 ||sheilathelabel.com^
@@ -724,6 +754,7 @@
 ||shortstories.de^
 ||showpo.com^
 ||shredstore.de^
+||shyaway.com^
 ||sieswim.com^
 ||simone-perele.com.au^
 ||simone-perele.com^
@@ -777,6 +808,7 @@
 ||swaens.de^
 ||swimco.com^
 ||swimoutlet.com^
+||swimsuitsdirect.com^
 ||swimsuitsforall.com^
 ||swimweargalore.com.au^
 ||swimweargalore.com^
@@ -810,6 +842,7 @@
 ||titlenine.com^
 ||tizzandtonic.com^
 ||tjswim.com^
+||tkdlingerie.com^
 ||to-the-top.com^
 ||tomboyx.com^
 ||tonathelabel.com^
@@ -825,11 +858,14 @@
 ||tropicalmood.shop^
 ||tropicofc.com^
 ||trueandco.com^
+||truecorset.ca^
+||truecorset.com^
 ||tuttirouge.com^
 ||ubras.com^
 ||uiaraintimates.com.br^
 ||uktights.com^
 ||underwear-shopping.de^
+||underweardistrict.nl^
 ||underwearexpert.com^
 ||underwearexpert.us^
 ||underwearshop.gr^
@@ -846,11 +882,13 @@
 ||valisere.com.br^
 ||vandevelde.eu^
 ||vandortmode.de^
+||vanityfairlingerie.com^
 ||vatter-fashion.com^
 ||vbikini.com.ua^
 ||vedettestore.com^
 ||vends-ta-culotte.com^
 ||vends-ta-culotte.fr^
+||venus-swimwear.net^
 ||venus.com^
 ||verameyer.de^
 ||verdelimon.co^
@@ -878,6 +916,7 @@
 ||waescherost.de^
 ||waescheshoppy.de^
 ||waescheweiber.de^
+||wamaunderwear.com^
 ||warehouse-one.de^
 ||warners.com^
 ||wearlively.com^
@@ -902,6 +941,7 @@
 ||yandy.com^
 ||yasmine-eslami.com^
 ||yourhealthfit.de^
+||yourunderwearstore.nl^
 ||youswim.com^
 ||yse-paris.com^
 ||yummie.com^
