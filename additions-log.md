@@ -325,3 +325,57 @@
 | 2026-11-02 | vedettestore.com | 1 | Shapewear brand | Nav "Bras", "Panty", "Nadine Bodysuit (Thong Back)" (home page) |
 | 2026-11-02 | inamorataswim.com | 1 | Swimwear brand (redirects to inamoratawoman.com) | Redirects to inamoratawoman.com: nav "Bikinis", "Shop Bikini Tops" (home page) |
 | 2026-11-02 | misseskisses.com | 1 | Bra accessory brand | Nav "Bra Kit", "Interchangeable Bra Bars" (home page) |
+| 2026-11-02 | assemblylabel.com | 1 | Fashion label | Nav product "The Riley Thong" (home page) |
+| 2026-11-02 | faithfullthebrand.com | 1 | Swimwear/fashion brand | Products list: "Ombra Bikini Top Sotto" (products list) |
+| 2026-11-02 | aubade.com | 1 | Lingerie brand | Title "French Luxury Lingerie"; nav "Half cup bras", "Bandeau bras" (aubade.co.uk home page) |
+| 2026-11-02 | aubade.co.uk | 1 | Lingerie brand (redirects to aubade.com) | Title "Aubade Official Store: French Luxury Lingerie"; nav "Push-up bras" (home page) |
+| 2026-11-02 | aubade.eu | 1 | Lingerie brand (redirects to aubade.com) | Title "Aubade Boutique officielle | Lingerie de séduction"; nav "Strings/Tangas" (home page) |
+| 2026-11-02 | lounge.com | 1 | Underwear and intimates brand | Title "Lounge | Underwear & Apparel"; nav "Intimates" (aus.lounge.com home page) |
+| 2026-11-02 | barenecessities.co.uk | 1 | Lingerie shop | Title "Bare Necessities | Staffordshire | Lingerie & ..." (home page) |
+| 2026-11-02 | bayoffireswim.com | 1 | Swimwear brand | Sitemap: "sunstone-bikini-top-burgundy" (sitemap) |
+| 2026-11-02 | bimbyandroy.com.au | 1 | Bralette brand | Nav "Bralettes", "Cotton Bralettes" (home page) |
+| 2026-11-02 | bond-eye.com | 1 | Swimwear brand | Sitemap: "triangle-bikini-tops", "bikini-seperates" (sitemap) |
+| 2026-11-02 | bondiborn.com | 1 | Swimwear brand | Nav "Bikini Tops", "Bikini Bottoms" (home page) |
+| 2026-11-02 | cadolle.com | 1 | Couture lingerie brand | Title "Lingerie de luxe & haute couture"; nav "Tous les Corsets" (home page) |
+| 2026-11-02 | campcoveswim.com | 1 | Swimwear brand | Sitemap: "taylor-recycled-mid-rise-bikini-bottom-hibiscus-digi" (sitemap) |
+| 2026-11-02 | chouchouintimates.com | 1 | Lingerie brand | Nav "Bras", "Bralettes", "Thongs" (home page) |
+| 2026-11-02 | cleonie.com | 1 | Swim and resort brand | Sitemap: "kai-linen-bralette-ivory", "the-thong-brief-white" (sitemap) |
+| 2026-11-02 | duskii.com.au | 1 | Swimwear brand | Collections list: "Bikinis", "Girls bikinis" (collections list) |
+| 2026-11-02 | empreinte.eu | 1 | Lingerie brand | Title "Empreinte Official Store: High-end lingerie"; nav "bras", "Panty & stocking" (home page) |
+| 2026-11-02 | maisonlejaby.com | 1 | Lingerie brand | Title "Maison Lejaby | Fine - high-end lingerie"; page text "bra", "thong", "corset" (en.maisonlejaby.com home page) |
+| 2026-11-02 | ephemeraresort.com | 1 | Resort/swim brand | Nav products "Classic Gingham Balconette Bra" (ephemeralive.com redirects here; home page) |
+| 2026-11-02 | ephemeralive.com | 1 | Resort/swim brand (redirects to ephemeraresort.com) | Redirects to ephemeraresort.com: "Atlantis Gingham Balconette Bra" (home page) |
+| 2026-11-02 | etam.co.uk | 1 | Lingerie brand | Title "Etam Paris | Ultimate Lingerie and Nightwear"; nav "Bras", "Knickers" (home page) |
+| 2026-11-02 | gudswim.com.au | 1 | Swimwear brand | Nav "ALL BIKINIS", "Bandeau Bikini Tops" (home page) |
+| 2026-11-02 | homebodii.com | 1 | Sleepwear and intimates brand | Nav "INTIMATES", "Bridal Intimates" (us.homebodii.com home page) |
+| 2026-11-02 | icone-lingerie.com | 1 | Lingerie shop | Title "Icone Lingerie | Lingerie Femme"; nav "LINGERIE" (home page) |
+| 2026-11-02 | li-vy.com | 1 | Lingerie brand | Title "Livy, French luxury lingerie" (int.li-vy.com home page) |
+| 2026-11-02 | jaymes.com.au | 1 | Underwear brand | Nav "All Panties", "BRALETTES" (home page) |
+| 2026-11-02 | lalulabel.com | 1 | Swimwear brand | Nav "BIKINI TOPS", "BIKINI BRIEFS" (home page) |
+| 2026-11-02 | lebuns.com.au | 1 | Underwear and swim brand | Nav "Organic Cotton Intimates", "Multiway Bikinis", "bralette" (home page) |
+| 2026-11-02 | liandra.com.au | 1 | Fashion/swim brand (liandraswim.com redirects here) | Collections list: "Bikini Bottoms", "Bikini Sets" (collections list) |
+| 2026-11-02 | liandraswim.com | 1 | Fashion/swim brand (redirects to liandra.com.au) | Redirects to liandra.com.au: collections "Bikini Sets" (collections list) |
+| 2026-11-02 | lisecharmel.com | 1 | Lingerie brand | Nav "LINGERIE", "BRAS", "THONGS & TANGAS" (home page) |
+| 2026-11-02 | marvell-lane.com | 1 | Lingerie brand | Nav "D+ Lingerie", "everyday bra" (home page) |
+| 2026-11-02 | mimiholliday.com | 1 | Lingerie brand | Title "Lingerie | Luxury & Sexy Designer Bras, Knickers"; nav "Thongs" (home page) |
+| 2026-11-02 | monteandlou.com | 1 | Swimwear brand | Sitemap: "ml-separates-cross-front-bralette", "balconette-bra" (sitemap) |
+| 2026-11-02 | nenes-paris.com | 1 | Lingerie brand | Title "Nénés Paris - Lingerie et maillot éco-responsable"; nav "LINGERIE" (home page) |
+| 2026-11-02 | ouhlala.co.uk | 1 | Lingerie shop | Title "Luxury Lingerie, Swimwear & Nightwear"; nav "Bras", "Bralette" (home page) |
+| 2026-11-02 | paindesucre.com | 1 | Swimwear and lingerie brand | Nav "LINGERIE" (home page) |
+| 2026-11-02 | paire.com | 1 | Underwear brand | Products "GlowTint Travel Bra", "BioTracker Classic Bikini" (paire.com.au home page) |
+| 2026-11-02 | paire.com.au | 1 | Underwear brand (redirects to paire.com) | Products "GlowTint Travel Bra" (home page) |
+| 2026-11-02 | palmswimwear.com | 1 | Swimwear brand | Collections list: "Bikini Bottoms", "Bikini Tops" (collections list) |
+| 2026-11-02 | raqapparel.com | 1 | Bra brand | Title "RAQ | D CUP & UP"; nav "BRAS" (home page) |
+| 2026-11-02 | saltandripple.com | 1 | Swim/activewear brand | Nav "REMMI UNDERWIRE BIKINI TOP" (saltandripple.com.au home page) |
+| 2026-11-02 | saltgypsy.com | 1 | Surf and swim brand | Collections list: "Bralette", "deadstock-bikini-set" (collections list) |
+| 2026-11-02 | shapesinthesand.com.au | 1 | Swimwear brand | Collections list: "Bikini Bottoms", "Bikini Tops & Rashguards" (collections list) |
+| 2026-11-02 | sheilathelabel.com | 1 | Swimwear brand | Nav "Bikini Tops", "Bikini Bottoms", "Bikini Briefs" (home page) |
+| 2026-11-02 | simoneperele.com | 1 | Lingerie brand (US site of simone-perele.com) | Nav "BRAS", "Bralettes", "Thongs & Tangas" (home page) |
+| 2026-11-02 | sommerswim.com.au | 1 | Swimwear brand | Nav "Bralette Tops", "Thongs" (home page) |
+| 2026-11-02 | sueurswim.com | 1 | Swimwear brand | Nav "Bikinis" (home page) |
+| 2026-11-02 | theonetwo.com | 1 | Bra brand | Title "The ONE TWO — bras built from hundreds of bodies"; nav "Shop bras" (theonetwo.com.au home page) |
+| 2026-11-02 | theonetwo.com.au | 1 | Bra brand (redirects to theonetwo.com) | Redirects to theonetwo.com: nav "Shop bras" (home page) |
+| 2026-11-02 | tjswim.com | 1 | Swimwear brand | Nav "BIKINI TOPS", "BIKINI BOTTOMS" (home page) |
+| 2026-11-02 | wearnala.com | 1 | Bra brand | Title "Comfortable Bras & Underwear | Nala"; nav "Wirefree Bralette" (home page) |
+| 2026-11-02 | yse-paris.com | 1 | Lingerie brand | Nav "Lingerie Discover" (home page) |
+| 2026-11-02 | zuluandzephyr.com | 1 | Swimwear brand | Nav "Bikinis", "Bikini Tops" (home page) |
