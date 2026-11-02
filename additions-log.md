@@ -908,19 +908,19 @@
 | 2026-11-02 | swimweargalore.com.au | 1 | rule T [country site] | country site |
 | 2026-11-02 | underwearexpert.us | 1 | rule L [country site] | country site |
 | 2026-11-02 | panty.co.uk | 1 | rule L [country site] | country site |
-| 2026-11-02 | froufrou-lingerie.com | 1 | rule L | none yet |
-| 2026-11-02 | gotyu-underwear.com | 1 | rule L | none yet |
-| 2026-11-02 | intimo.com.ua | 1 | rule L | none yet |
-| 2026-11-02 | intimok.com | 1 | rule L | none yet |
-| 2026-11-02 | lenceriaascen.com | 1 | rule L | none yet |
-| 2026-11-02 | lenceriamoda.com | 1 | rule L | none yet |
-| 2026-11-02 | sommaintimo.it | 1 | rule L | none yet |
-| 2026-11-02 | superintimo.it | 1 | rule L | none yet |
-| 2026-11-02 | analingerie.net | 1 | rule L | none yet |
-| 2026-11-02 | extremeintimo.com | 1 | rule L | none yet |
-| 2026-11-02 | the-bikini.com | 1 | rule T | none yet |
-| 2026-11-02 | 5starslingerie.com | 1 | rule L | none yet |
-| 2026-11-02 | ladanunderwear.com | 1 | rule L | none yet |
+| 2026-11-02 | froufrou-lingerie.com | 1 | rule L | domain name |
+| 2026-11-02 | gotyu-underwear.com | 1 | rule L | domain name |
+| 2026-11-02 | intimo.com.ua | 1 | rule L | domain name |
+| 2026-11-02 | intimok.com | 1 | rule L | domain name |
+| 2026-11-02 | lenceriaascen.com | 1 | rule L | domain name |
+| 2026-11-02 | lenceriamoda.com | 1 | rule L | domain name |
+| 2026-11-02 | sommaintimo.it | 1 | rule L | domain name |
+| 2026-11-02 | superintimo.it | 1 | rule L | domain name |
+| 2026-11-02 | analingerie.net | 1 | rule L | domain name |
+| 2026-11-02 | extremeintimo.com | 1 | rule L | domain name |
+| 2026-11-02 | the-bikini.com | 1 | rule T | domain name |
+| 2026-11-02 | 5starslingerie.com | 1 | rule L | domain name |
+| 2026-11-02 | ladanunderwear.com | 1 | rule L | domain name |
 | 2026-11-02 | boudoir.es | 1 | rule L | home page |
 | 2026-11-02 | pantysalad.com | 1 | rule L | home page |
 | 2026-11-02 | pantiescollection.net | 1 | rule L | home page |
