@@ -160,6 +160,7 @@
 ||boohoo.com^
 ||bordelle.co.uk^
 ||borneo-paris.com^
+||boudoir.es^
 ||boutiquedescorsets.com^
 ||boutiquedescorsets.eu^
 ||boutiquedescorsets.it^
@@ -615,6 +616,7 @@
 ||palorosabeachwear.co^
 ||panache-lingerie.com^
 ||panachelingerie.com^
+||pantiescollection.net^
 ||pantiesparadise.de^
 ||pantiesparadise.eu^
 ||panty-place.com^
@@ -624,6 +626,7 @@
 ||pantynova.com^
 ||pantys.com.br^
 ||pantys.com^
+||pantysalad.com^
 ||pariser-mode.de^
 ||passion-deutschland.de^
 ||passionata.com^

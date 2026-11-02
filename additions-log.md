@@ -921,3 +921,6 @@
 | 2026-11-02 | the-bikini.com | 1 | rule T | none yet |
 | 2026-11-02 | 5starslingerie.com | 1 | rule L | none yet |
 | 2026-11-02 | ladanunderwear.com | 1 | rule L | none yet |
+| 2026-11-02 | boudoir.es | 1 | rule L | home page |
+| 2026-11-02 | pantysalad.com | 1 | rule L | home page |
+| 2026-11-02 | pantiescollection.net | 1 | rule L | home page |
