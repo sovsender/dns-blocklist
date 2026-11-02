@@ -178,6 +178,7 @@
 ||oneill.com^
 ||onewithswim.com^
 ||onia.com^
+||ookioh.com^
 ||orchardcorset.com^
 ||panache-lingerie.com^
 ||passionata.com^
@@ -190,6 +191,7 @@
 ||princesspolly.com^
 ||revolveswim.com^
 ||rhythmlivin.com^
+||riotswim.com^
 ||ripcurl.com^
 ||robinpiccone.com^
 ||romanticdepot.com^

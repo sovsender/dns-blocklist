@@ -273,3 +273,5 @@
 | 2026-11-01 | whatkatiedid.com | 1 | Vintage-style lingerie shop | Title "Vintage Lingerie, Shapewear & Dresses"; nav "Bras", "Knickers", "Corsets" (home page) |
 | 2026-11-01 | wickedweasel.com | 1 | Bikini and lingerie brand | Nav "Bikinis", "Thong", "Lingerie", "Bralette", "Panties" (home page) |
 | 2026-11-01 | zimmerli.com | 1 | Luxury underwear brand | Title "Underwear, Nightwear & Loungewear"; nav "Panties" (home page) |
+| 2026-11-02 | riotswim.com | 1 | promoted from pending: Swimwear brand with thong styles, promoted from pending | Products list: "Jace Thong One Piece" (riotswim.com products list) |
+| 2026-11-02 | ookioh.com | 1 | promoted from pending: Swimwear brand with bikini items, promoted from pending | Products list: "Surfrider Bikini Bottom", "Como Bikini Top" (ookioh.com products list) |

@@ -18,9 +18,7 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 | 2026-10-30 | eres.com | 1 | Lingerie and swimwear brand; site blocked reading | HTTP 403 |
 | 2026-10-30 | myla.com | 1 | Lingerie brand; evidence weak, no readable product text | Title "myla" (home page) |
 | 2026-10-30 | mikoh.com | 1 | Swimwear brand; site shows only a login page | Title "Please Log In" |
-| 2026-10-30 | riotswim.com | 2 | Mainstream: swimwear plus dresses and apparel | Title "Swimwear, Dresses & Apparel | RIOT"; alt text "Woman wearing the Carter Halter Top and Reese High Waisted Bottom in Coconut" (home page) |
 | 2026-10-30 | lalilouche.com | 1 | Lingerie brand; page gave no readable text | Empty page |
-| 2026-10-30 | ookioh.com | 1 | Swimwear brand; evidence weak, no revealing item text | Title "Women's Modern & Fun Swimwear Destination" (home page) |
 | 2026-10-30 | bfyne.com | 1 | Swim and resort-wear brand; evidence weak | Description "contemporary swim and resort-wear brand" (home page) |
 | 2026-10-30 | maidenform.com | 1 | Intimates brand; site blocked reading | HTTP 403 |
 | 2026-10-30 | bikinibirds.com | 1 | Swimwear retailer also selling clothing and accessories; evidence weak | Search result snippet: "Trendy Swimwear, Clothing, and Accessories"; site blocked reading (HTTP 403) |
