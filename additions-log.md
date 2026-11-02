@@ -275,3 +275,39 @@
 | 2026-11-01 | zimmerli.com | 1 | Luxury underwear brand | Title "Underwear, Nightwear & Loungewear"; nav "Panties" (home page) |
 | 2026-11-02 | riotswim.com | 1 | promoted from pending: Swimwear brand with thong styles, promoted from pending | Products list: "Jace Thong One Piece" (riotswim.com products list) |
 | 2026-11-02 | ookioh.com | 1 | promoted from pending: Swimwear brand with bikini items, promoted from pending | Products list: "Surfrider Bikini Bottom", "Como Bikini Top" (ookioh.com products list) |
+| 2026-11-02 | brunobanani.com | 1 | Underwear/lingerie brand | Nav "Panties", "Bikinis" (home page) |
+| 2026-11-02 | cakematernity.com | 1 | Maternity lingerie shop | Title "Maternity Lingerie & Nursing Wear"; nav "Bras", "Nursing Bra" (home page) |
+| 2026-11-02 | inamoratawoman.com | 1 | Bikini/thong swimwear shop (inamorataswim.com redirects here) | Nav "Bikinis", "Shop Bikini Tops"; sitemap "the-thong-caraiva", "lingerie" (home page, sitemap) |
+| 2026-11-02 | bjornborg.com | 1 | Underwear and sportswear brand | Nav "Thongs", "Bras", "Underwear" (home page) |
+| 2026-11-02 | aguabendita.com | 1 | Swimwear shop | Product names "Cherry Bikini Top", "Alexis Bikini Bottom" (home page) |
+| 2026-11-02 | almamiaswimwear.us | 1 | Swimwear shop | Nav "Bikini", "Bikinis" (home page) |
+| 2026-11-02 | babylikestopony.com | 1 | Lingerie brand | Title "luxury lingerie & designer..."; product "Form thong" (home page) |
+| 2026-11-02 | bluebella.com.au | 1 | Lingerie shop (AU site of bluebella.com) | Nav "Bras & Bralettes", "Knickers", "Lingerie Sets" (home page) |
+| 2026-11-02 | capittana.com | 1 | Bikini brand | Title "Bikinis, Swimwear, Activewear"; products "Cala Brown Bikini Top" (home page) |
+| 2026-11-02 | carinegilson.com | 1 | Couture lingerie brand | Nav "Lingerie", "Exclusive Lingerie" (home page) |
+| 2026-11-02 | doralarsen.com | 1 | Lingerie brand | Title "Colourful Lingerie, Sleep & ..."; nav "BRALETTES", "KNICKERS" (home page) |
+| 2026-11-02 | fae.house | 1 | Swim/fashion brand | Collections list: "Bandeau Bikini Tops"; page text "thong", "bralette" (collections list, home page) |
+| 2026-11-02 | harperwilde.com | 1 | Bra and underwear brand | Title "Comfortable Everyday Bras & ..."; nav "All Bras", "Thong" (home page) |
+| 2026-11-02 | heartofsun.shop | 1 | Swimwear brand (heartofsunswim.com redirects here) | Products "Le Soliel Bikini Top | Pinstripe", "Amour Lace Up Corset" (home page) |
+| 2026-11-02 | indahclothing.com | 1 | Clothing and swim brand | Nav "Bikinis" (home page) |
+| 2026-11-02 | kisskill.com.au | 1 | Lingerie shop | Title "Lingerie, Intimates, Sleepwear & ..."; nav "Bras & Bustiers" (home page) |
+| 2026-11-02 | londrebodywear.com | 1 | Bodywear brand | Sitemap: "the-corset-one-piece", "the-bralette-top" (sitemap) |
+| 2026-11-02 | marysia.com | 1 | Swim and resort brand | Nav "Bikinis", "SHOP Bikinis" (home page) |
+| 2026-11-02 | medinaswimwear.com | 1 | Swimwear brand | Products list: "Isola - bikini - Top - Jungle green" (products list) |
+| 2026-11-02 | melissasimoneswim.com | 1 | Swimwear brand | Nav "Bikini Tops", "Bikini Bottoms" (home page) |
+| 2026-11-02 | midoribikinis.com | 1 | Bikini brand | Title "Brazilian & Cheeky Bikinis for Surfing"; nav "All Bikinis"; alt text "Thin side string black thong bikini bottom" (home page) |
+| 2026-11-02 | palorosabeachwear.co | 1 | Beachwear brand | Products "ALEGRIA BIKINI", "BOSSA HIGH-WAIST BIKINI" (home page) |
+| 2026-11-02 | puravidaswim.com | 1 | Swimwear brand | Products list: "Goose Bikini Black" (products list) |
+| 2026-11-02 | riellibrand.com | 1 | Swimwear brand | Nav "BIKINIS" (home page) |
+| 2026-11-02 | sieswim.com | 1 | Swimwear brand | Products "MOSS BIKINI BOTTOM - NOIR" (home page) |
+| 2026-11-02 | simone-perele.com.au | 1 | Lingerie brand (AU site) | Title "Simone Pérèle | French Lingerie"; nav "BRAS", "Thongs & Tangas" (home page) |
+| 2026-11-02 | sirthelabel.com | 1 | Fashion and intimates brand | Title "Separates, Intimates and Ready-to-wear"; sitemap "ingrid-lace-bralette-black" (home page, sitemap) |
+| 2026-11-02 | solazulswimwear.com | 1 | Swimwear brand | Nav "BIKINIS"; product "Aruba Coral Bikini" (home page) |
+| 2026-11-02 | valeriaanastasia.com | 1 | Underwear/swim brand | Nav "UNDERWEAR", "TRAMP STAMP THONG" (home page) |
+| 2026-11-02 | shopbtemptd.com | 1 | Bra and panty brand (wearlively.com redirects here) | Title "Best Selling Bras, Bralettes & Panties"; nav "bras", "panties" (home page) |
+| 2026-11-02 | wearlively.com | 1 | Bra and panty brand (redirects to shopbtemptd.com) | Redirects to shopbtemptd.com: title "Best Selling Bras, Bralettes & Panties" (home page) |
+| 2026-11-02 | withjean.com | 1 | Clothing and intimates brand | Nav "INTIMATES" (home page) |
+| 2026-11-02 | yasmine-eslami.com | 1 | Lingerie and swimwear brand | Title "Lingerie and swimwear brand"; nav "Bras", "Panties", "Bikini tops" (home page) |
+| 2026-11-02 | youswim.com | 1 | Swimwear brand | Nav "Bikinis", "All Bikinis" (home page) |
+| 2026-11-02 | oseree.com | 1 | Swimwear brand | Nav "Lingerie" (home page) |
+| 2026-11-02 | alpinebutterflyswim.com | 1 | Swimwear brand | Sitemap: "haze-bikini-bottom-in-lavender", "the-corset-top" (sitemap) |
