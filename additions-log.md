@@ -384,3 +384,14 @@
 | 2026-11-02 | bonaparteshop.com | 1 | approved by user from pending | user decision in chat |
 | 2026-11-02 | herroom.com | 1 | approved by user from pending | user decision in chat |
 | 2026-11-02 | lindex.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | leftonfriday.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | mybrazilianshop.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | mikoh.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | bfyne.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | maidenform.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | bikinibirds.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | bikiniluxe.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | bouxavenue.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | lanebryant.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | beyondyoga.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | fashionnova.com | 1 | approved by user from pending | user decision in chat |

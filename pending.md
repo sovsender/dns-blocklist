@@ -4,21 +4,10 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 | Date found | Domain | Tier | Reason | Evidence (quoted page text + URL) |
 |---|---|---|---|---|
 | 2026-10-30 | brazilianbikinishop.com | 2 | Multi-brand store also selling shoes, beauty, men, kids, home; no model text, not photo-checked | Alt text "Women's swimwear"; categories "Swimwear, Cover-ups, Shoes, Beauty, Men, Kids, Home" (domain per search result; homepage URL not confirmed) |
-| 2026-10-30 | leftonfriday.com | 2 | Active swimwear brand also selling dresses and shirts; no revealing evidence | Title "Left On Friday - Premium Active Swimwear"; alt text "Woman in Getaway Shirt Dress in Coconut" (home page) |
-| 2026-10-30 | mybrazilianshop.com | 1 | Bikini shop; evidence weak, product photo checked was flat lay | Categories "BIKINIS", "Bikini Bottoms", "Bikini Tops"; alt text "Cacau Brown Seashore Textured Triangle Bikini Top" (home page); image checked - no model |
 | 2026-10-30 | figleaves.com | 1 | Multi-brand lingerie retailer; site blocked reading | HTTP 403 |
 | 2026-10-30 | myla.com | 1 | Lingerie brand; evidence weak, no readable product text | Title "myla" (home page) |
-| 2026-10-30 | mikoh.com | 1 | Swimwear brand; site shows only a login page | Title "Please Log In" |
 | 2026-10-30 | lalilouche.com | 1 | Lingerie brand; page gave no readable text | Empty page |
-| 2026-10-30 | bfyne.com | 1 | Swim and resort-wear brand; evidence weak | Description "contemporary swim and resort-wear brand" (home page) |
-| 2026-10-30 | maidenform.com | 1 | Intimates brand; site blocked reading | HTTP 403 |
-| 2026-10-30 | bikinibirds.com | 1 | Swimwear retailer also selling clothing and accessories; evidence weak | Search result snippet: "Trendy Swimwear, Clothing, and Accessories"; site blocked reading (HTTP 403) |
-| 2026-10-30 | bikiniluxe.com | 1 | Bikini brand; evidence weak, no readable product text | Title "Bikini Luxe - fashion & lifestyle" (home page) |
 | 2026-10-30 | panachelingerie.com | 1 | Lingerie brand; site blocked reading | HTTP 403; no search result |
-| 2026-10-30 | bouxavenue.com | 1 | Lingerie brand; site blocked reading | HTTP 403; no search result |
-| 2026-10-30 | lanebryant.com | 2 | Mainstream: plus-size fashion chain (Cacique intimates is a subcategory; cacique.com redirects here) | Categories "Cacique Intimates", "Sexy Lingerie", "Swim" (home page) |
-| 2026-10-30 | beyondyoga.com | 2 | Mainstream: activewear | Title "Yoga Clothes & Activewear for Men & Women"; alt text "A woman wearing a bright red athletic sports bra and matching high-waisted leggings" (home page) |
-| 2026-10-30 | fashionnova.com | 2 | Mainstream: general fashion | Title "Fashion Nova | Trendy Clothes for Women, Men & Plus Sizes"; category "Lingerie & Sleep" (home page) |
 | 2026-10-30 | zaful.com | 2 | Mainstream: general fashion marketplace | Title "Women and Men's Fashion Clothing"; categories "Best Seller Bikini Sets" (home page) |
 | 2026-10-30 | rosegal.com | 2 | Mainstream: plus-size general fashion | Title "Plus Size Clothing, Plus Size Dress Online Store"; categories "Lingerie", "Swimwear" (home page) |
 | 2026-10-30 | sunkissedcoconut.com | 2 | Mainstream: loungewear brand | Search result snippet: homepage describes brand as "high-quality loungewear with a coastal feel" |
