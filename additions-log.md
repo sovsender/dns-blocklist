@@ -686,3 +686,7 @@
 | 2026-11-02 | wenz.de | 2 | rule T (exception 2 decision) | home page |
 | 2026-11-02 | heine.de | 2 | rule T (exception 2 decision) | home page |
 | 2026-11-02 | wolfordshop.de | 1 | rule T | home page |
+| 2026-11-02 | tif-shop24.de | 1 | rule L | home page |
+| 2026-11-02 | wodstore.de | 1 | rule L | home page, category page |
+| 2026-11-02 | lincherie.nl | 1 | rule L [third-party evidence] | third-party sources |
+| 2026-11-02 | dessousforyou.de | 1 | rule L | own site |

@@ -159,6 +159,7 @@
 ||dessous-strumpfhosen-shop.de^
 ||dessous-xxl.com^
 ||dessousdeluxe.de^
+||dessousforyou.de^
 ||dessousunddu-shop.de^
 ||dessus-lingerie.com^
 ||dexer.de^
@@ -330,6 +331,7 @@
 ||liberte.co^
 ||liebeslust.de^
 ||like-it-pants.com^
+||lincherie.nl^
 ||lindex.com^
 ||lineaintima.ca^
 ||lingerie-alley.com^
@@ -579,6 +581,7 @@
 ||thirdlove.com^
 ||this-belongs-to.com^
 ||thistleandspire.com^
+||tif-shop24.de^
 ||tigerlily.com.au^
 ||tigermist.com^
 ||titlenine.com^
@@ -651,6 +654,7 @@
 ||windsorstore.com^
 ||withjean.com^
 ||witt-weiden.de^
+||wodstore.de^
 ||woehrl.de^
 ||wolford.com^
 ||wolfordshop.de^
