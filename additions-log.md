@@ -924,3 +924,4 @@
 | 2026-11-02 | boudoir.es | 1 | rule L | home page |
 | 2026-11-02 | pantysalad.com | 1 | rule L | home page |
 | 2026-11-02 | pantiescollection.net | 1 | rule L | home page |
+| 2026-11-02 | bambaswim.ca | 1 | rule T [country site] | country site |
