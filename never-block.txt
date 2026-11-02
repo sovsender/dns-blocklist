@@ -23,3 +23,6 @@ cloudflare.com
 akamaized.net
 cloudfront.net
 shopmentionables.com
+tyr.com
+dolfinswimwear.com
+delfinasport.com

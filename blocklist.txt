@@ -57,12 +57,10 @@
 ||curvykate.com^
 ||darjeeling.fr^
 ||dearkates.com^
-||delfinasport.com^
 ||demillus.com.br^
 ||dim.com^
 ||dim.fr^
 ||dippindaisys.com^
-||dolfinswimwear.com^
 ||dollskill.com^
 ||eberjey.com^
 ||elila.com^
@@ -240,7 +238,6 @@
 ||tropicofc.com^
 ||trueandco.com^
 ||tuttirouge.com^
-||tyr.com^
 ||ubras.com^
 ||undiz.com^
 ||valisere.com.br^
