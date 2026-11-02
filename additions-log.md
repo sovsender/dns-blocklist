@@ -862,3 +862,4 @@
 | 2026-11-02 | royce-lingerie.uk | 1 | rule L [country site] | country site |
 | 2026-11-02 | smoon-lingerie.fr | 1 | rule L [country site] | country site |
 | 2026-11-02 | vends-ta-culotte.fr | 1 | rule L [country site] | country site |
+| 2026-11-02 | rebdolls.com | 1 | rule T [approved by user] | third-party sources |
