@@ -878,3 +878,21 @@
 | 2026-11-02 | intimorosa.com | 1 | rule L | collections list |
 | 2026-11-02 | belle-lingerie.co.uk | 1 | rule L | search snippet |
 | 2026-11-02 | lacorsetera.com | 1 | rule L [third-party evidence] | third-party sources |
+| 2026-11-02 | annecole.com | 1 | rule T | home page |
+| 2026-11-02 | bikinisports.com | 1 | rule T | home page |
+| 2026-11-02 | gottex-swimwear.com | 1 | rule T | home page |
+| 2026-11-02 | mgpremium.com | 1 | rule L | home page |
+| 2026-11-02 | naked-underwear.com | 1 | rule L | home page |
+| 2026-11-02 | pantiesparadise.de | 1 | rule L | home page |
+| 2026-11-02 | panty-place.com | 1 | rule L | home page |
+| 2026-11-02 | panty.com | 1 | rule L | home page |
+| 2026-11-02 | pantydeal.com | 1 | rule L | home page |
+| 2026-11-02 | pantynova.com | 1 | rule L | home page |
+| 2026-11-02 | ripcurl.com.au | 1 | rule T | home page |
+| 2026-11-02 | ripcurl.com.br | 1 | rule T | home page |
+| 2026-11-02 | seafolly.com.au | 1 | rule T | home page |
+| 2026-11-02 | sexymenunderwear.com | 1 | rule T | home page |
+| 2026-11-02 | swimco.com | 1 | rule T | home page |
+| 2026-11-02 | swimzip.com | 1 | rule T | home page |
+| 2026-11-02 | trashy.com | 1 | rule L | home page |
+| 2026-11-02 | uktights.com | 1 | rule L | home page |

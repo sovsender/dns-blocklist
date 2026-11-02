@@ -35,6 +35,7 @@
 ||anita.ch^
 ||anita.com^
 ||anita.de^
+||annecole.com^
 ||annsummers.com^
 ||anyalust.com^
 ||araks.com^
@@ -123,6 +124,7 @@
 ||bikiniluxe.com^
 ||bikinis.com^
 ||bikinis.de^
+||bikinisports.com^
 ||bikinivillage.com^
 ||bikyni.com^
 ||billabong.com^
@@ -317,6 +319,7 @@
 ||gooseberryintimates.com^
 ||gorillawear.com^
 ||gossard.com^
+||gottex-swimwear.com^
 ||gottex.com^
 ||gottexswim.com^
 ||green-guerillas.de^
@@ -512,6 +515,7 @@
 ||meundies.com^
 ||mewa24.de^
 ||mey.com^
+||mgpremium.com^
 ||midoribikinis.com^
 ||mikoh.com^
 ||mimiholliday.com^
@@ -546,6 +550,7 @@
 ||myraswim.com^
 ||nadinlenceria.com^
 ||naja.co^
+||naked-underwear.com^
 ||naniswimwear.com^
 ||narahsoleigh.com^
 ||natori.com^
@@ -596,6 +601,11 @@
 ||palorosabeachwear.co^
 ||panache-lingerie.com^
 ||panachelingerie.com^
+||pantiesparadise.de^
+||panty-place.com^
+||panty.com^
+||pantydeal.com^
+||pantynova.com^
 ||pantys.com.br^
 ||pariser-mode.de^
 ||passion-deutschland.de^
@@ -633,6 +643,8 @@
 ||riellibrand.com^
 ||rigbyandpeller.com^
 ||riotswim.com^
+||ripcurl.com.au^
+||ripcurl.com.br^
 ||ripcurl.com^
 ||robinpiccone.com^
 ||rockabilly-clothing.de^
@@ -661,12 +673,14 @@
 ||schiesser.com^
 ||schlankstuetz.de^
 ||schmatzepuffer.com^
+||seafolly.com.au^
 ||seafolly.com^
 ||sealevelaustralia.com.au^
 ||secrets-dessous.de^
 ||selmarklingerie.com^
 ||sensual-fashion.de^
 ||sexylingeriestore.com^
+||sexymenunderwear.com^
 ||shan.ca^
 ||shapermint.com^
 ||shapesinthesand.com.au^
@@ -733,12 +747,14 @@
 ||susa-shop.de^
 ||suspirointimo.com.br^
 ||swaens.de^
+||swimco.com^
 ||swimoutlet.com^
 ||swimsuitsforall.com^
 ||swimweargalore.com^
 ||swimwearindia.com^
 ||swimwearworld.com^
 ||swimwithmi.com^
+||swimzip.com^
 ||syrn.com^
 ||ta3swim.com^
 ||tallulahlove.com^
@@ -772,6 +788,7 @@
 ||toripraverswimwear.com^
 ||trachten.de^
 ||trachtenoutlet24.de^
+||trashy.com^
 ||traumwaesche.shop^
 ||triangl.com^
 ||triumph.com^
@@ -781,6 +798,7 @@
 ||tuttirouge.com^
 ||ubras.com^
 ||uiaraintimates.com.br^
+||uktights.com^
 ||underwear-shopping.de^
 ||underwearexpert.com^
 ||underwearshop.gr^
