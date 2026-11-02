@@ -17,6 +17,7 @@
 ||albert-kreuz.fr^
 ||albert-kreuz.it^
 ||albionfit.com^
+||allensswimwear.co.uk^
 ||almamiaswimwear.com^
 ||almamiaswimwear.us^
 ||alpinebutterflyswim.com^
@@ -100,6 +101,7 @@
 ||beginningboutique.com.au^
 ||beginningboutique.com^
 ||belezaconceptstore.com^
+||belle-lingerie.co.uk^
 ||bellizima.de^
 ||bendon.com^
 ||bendonlingerie.co.nz^
@@ -248,6 +250,7 @@
 ||e-marilyn.de^
 ||eberjey.com^
 ||elegando.de^
+||elia-lingerie.com^
 ||elila.com^
 ||elilausa.com^
 ||elomi.com^
@@ -355,6 +358,7 @@
 ||inamoratawoman.com^
 ||inaska.com^
 ||indahclothing.com^
+||inintimo.gr^
 ||inpetto-dessous.de^
 ||insilk-seide.de^
 ||intimateportal.com^
@@ -362,6 +366,7 @@
 ||intimissimi.com^
 ||intimoaltieri.it^
 ||intimolida.it^
+||intimorosa.com^
 ||iris-lingerie.be^
 ||iris-lingerie.com^
 ||ismeswim.com^
@@ -381,6 +386,7 @@
 ||kalimeratzis-underwear.com^
 ||karolinalaskowska.com^
 ||katthelabel.com^
+||kayserlingerie.com.au^
 ||kerstins-landhausmode.de^
 ||kikidm.com^
 ||kilobrava.com^
@@ -401,6 +407,7 @@
 ||la-mesma.com^
 ||lablanca.com^
 ||lace.de^
+||lacorsetera.com^
 ||ladybirdlingerie.com^
 ||lalilouche.com^
 ||lalingeriedesducs.fr^
@@ -457,6 +464,8 @@
 ||lingeriehuisonline.nl^
 ||lingerielanouvelle.com^
 ||lingerielanouvelle.fr^
+||lingeriepakistan.com^
+||lingeriestore.ro^
 ||lisecharmel.com^
 ||londi.com^
 ||londrebodywear.ca^
@@ -524,6 +533,7 @@
 ||mondayswimwear.com^
 ||montce.com^
 ||monteandlou.com^
+||montelleintimates.com^
 ||morangobrasil.com.br^
 ||mr-mrs-love.de^
 ||my-kleidung.de^
@@ -586,6 +596,7 @@
 ||palorosabeachwear.co^
 ||panache-lingerie.com^
 ||panachelingerie.com^
+||pantys.com.br^
 ||pariser-mode.de^
 ||passion-deutschland.de^
 ||passionata.com^
@@ -724,6 +735,7 @@
 ||swaens.de^
 ||swimoutlet.com^
 ||swimsuitsforall.com^
+||swimweargalore.com^
 ||swimwearindia.com^
 ||swimwearworld.com^
 ||swimwithmi.com^
@@ -756,6 +768,7 @@
 ||tomboyx.com^
 ||tonathelabel.com^
 ||topsport-shop.de^
+||topvintage.de^
 ||toripraverswimwear.com^
 ||trachten.de^
 ||trachtenoutlet24.de^
@@ -769,12 +782,14 @@
 ||ubras.com^
 ||uiaraintimates.com.br^
 ||underwear-shopping.de^
+||underwearexpert.com^
 ||underwearshop.gr^
 ||underwearshopping.de^
 ||undiz.com^
 ||unepiece.com^
 ||unterwaeschedeluxe.de^
 ||unterwaeschen.de^
+||upliftedlingerie.co.uk^
 ||upperty.com^
 ||upperty.de^
 ||urbanoutfitters.com^

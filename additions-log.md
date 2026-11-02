@@ -863,3 +863,18 @@
 | 2026-11-02 | smoon-lingerie.fr | 1 | rule L [country site] | country site |
 | 2026-11-02 | vends-ta-culotte.fr | 1 | rule L [country site] | country site |
 | 2026-11-02 | rebdolls.com | 1 | rule T [approved by user] | third-party sources |
+| 2026-11-02 | allensswimwear.co.uk | 1 | rule T | home page |
+| 2026-11-02 | elia-lingerie.com | 1 | rule L | home page |
+| 2026-11-02 | inintimo.gr | 1 | rule L | home page |
+| 2026-11-02 | kayserlingerie.com.au | 1 | rule L | home page |
+| 2026-11-02 | lingeriepakistan.com | 1 | rule L | home page |
+| 2026-11-02 | lingeriestore.ro | 1 | rule L | home page |
+| 2026-11-02 | montelleintimates.com | 1 | rule L | home page |
+| 2026-11-02 | pantys.com.br | 1 | rule L | home page |
+| 2026-11-02 | swimweargalore.com | 1 | rule T | home page |
+| 2026-11-02 | underwearexpert.com | 1 | rule T | home page |
+| 2026-11-02 | upliftedlingerie.co.uk | 1 | rule L | home page |
+| 2026-11-02 | topvintage.de | 1 | rule L | own site |
+| 2026-11-02 | intimorosa.com | 1 | rule L | collections list |
+| 2026-11-02 | belle-lingerie.co.uk | 1 | rule L | search snippet |
+| 2026-11-02 | lacorsetera.com | 1 | rule L [third-party evidence] | third-party sources |

@@ -124,6 +124,7 @@ depend.com 2026-11-02
 depop.com 2026-11-02
 descente.co.jp 2026-11-02
 devilish-moments.com 2026-11-02
+dia.com 2026-11-02
 diesel.com 2026-11-01
 dirndl-versand.de 2026-11-02
 diskret-bitte.de 2026-11-02
@@ -183,6 +184,7 @@ fleur-dessous.de 2026-11-02
 floandfrankie.com.au 2026-11-02
 footlocker.com 2026-11-02
 formandfold.com 2026-11-02
+formswim.com 2026-11-02
 fourchette-et-bikini.fr 2026-11-02
 fraeuleinsuza-shop.de 2026-11-02
 frogavenue.com 2026-11-02
@@ -242,6 +244,7 @@ inneslauren.com 2026-11-02
 insider-sportshop.com 2026-11-02
 instantswimwear.com 2026-11-02
 intheswim.com 2026-11-02
+intimatesecret.ru 2026-11-02
 intimopervoi.it 2026-11-02
 iranswimmers.com 2026-11-02
 italist.com 2026-11-02
@@ -472,10 +475,12 @@ suldex.de 2026-11-02
 sun-side-store.de 2026-11-02
 sunkissedcoconut.com 2026-11-02
 sunsetswimwear.com 2026-11-01
+super-shop.com 2026-11-02
 superdry.com 2026-11-01
 superdry.de 2026-11-02
 surfshop-kiel.de 2026-11-02
 surfundski.de 2026-11-02
+swim-total.de 2026-11-02
 swim.de 2026-11-02
 swim.net.ua 2026-11-02
 swim.or.jp 2026-11-02
@@ -516,6 +521,8 @@ turboswim.com 2026-11-02
 ubuy.al 2026-11-02
 ultimo.co.uk 2026-11-01
 unterwear-shopping.de 2026-11-02
+urbanclassics.com 2026-11-02
+uv-fashions.de 2026-11-02
 vannina-vesperini.com 2026-11-02
 vassarette.com 2026-11-02
 vilgain.de 2026-11-02
