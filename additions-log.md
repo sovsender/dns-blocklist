@@ -460,3 +460,42 @@
 | 2026-11-02 | bramone.de | 1 | lingerie/thong/bikini rule | Home page title "Sport-BHs & BHs ohne Bügel" |
 | 2026-11-02 | awaythatday.com | 1 | lingerie/thong/bikini rule | Products list: bikini and thong titles; collections list "thong" |
 | 2026-11-02 | bblingerie.de | 1 | lingerie/thong/bikini rule | Sitemap: "lingerie" product pages |
+| 2026-11-02 | elegando.de | 1 | lingerie/thong/bikini rule | Home page "Bikini" (women's fashion shop) |
+| 2026-11-02 | waescherost.de | 1 | lingerie/thong/bikini rule | Home page title "Wäschemode Rost - aufregende Dessous, bequeme BHs" (effenberg-dessous.de redirects here) |
+| 2026-11-02 | e-marilyn.de | 1 | lingerie/thong/bikini rule | Home page title "Shop eines Herstellers für sinnliche Dessous"; "Lingerie", "Bikinis" |
+| 2026-11-02 | emilie-dessous.de | 1 | lingerie/thong/bikini rule | Home page text "Dessous" (shop in maintenance mode) |
+| 2026-11-02 | epoxy-shop.de | 1 | lingerie/thong/bikini rule | Home page "Bikinis" (streetwear and surf shop) |
+| 2026-11-02 | erotiko.de | 1 | lingerie/thong/bikini rule | Home page "Dessous", "Panty" |
+| 2026-11-02 | etam.de | 1 | lingerie/thong/bikini rule | Home page title "Etam: Unterwäsche Boutique"; "Dessous", "Bikini", "Lingerie" |
+| 2026-11-02 | fabiofarini.de | 1 | lingerie/thong/bikini rule | Home page title "Unterwäsche online kaufen"; "Panty" |
+| 2026-11-02 | fannyswelt.de | 1 | lingerie/thong/bikini rule | Home page "Bikinis" |
+| 2026-11-02 | femina-shop.de | 1 | lingerie/thong/bikini rule | Home page title "EXKLUSIVE DESSOUS für große Größen"; "Corset", "Bikini" (felinashop.de redirects here) |
+| 2026-11-02 | fischswim.com | 1 | lingerie/thong/bikini rule | Home page "Bikinis", "Thong" |
+| 2026-11-02 | femtis.de | 1 | lingerie/thong/bikini rule | Home page title "Periodenunterwäsche"; "Panty", "Tanga", "Thong" |
+| 2026-11-02 | fenzy.de | 1 | lingerie/thong/bikini rule | Home page "Bikini" |
+| 2026-11-02 | finaundliv.de | 1 | lingerie/thong/bikini rule | Home page "Dessous" (boutique) |
+| 2026-11-02 | frivolita.de | 1 | lingerie/thong/bikini rule | Home page "Dessous", "Thong", "Lingerie", "Corset" |
+| 2026-11-02 | frija-omina.com | 1 | lingerie/thong/bikini rule | Home page "Panty", "Bikini", "Bikinis" |
+| 2026-11-02 | frauleinannie.com | 1 | lingerie/thong/bikini rule | Home page title "Fräulein Annie - Lingerie & Swimwear" |
+| 2026-11-02 | fuerstenberg-fashion.de | 1 | lingerie/thong/bikini rule | Home page "Bikinis", "Bikini" |
+| 2026-11-02 | freyerleben.de | 1 | lingerie/thong/bikini rule | Home page "Bikinis" |
+| 2026-11-02 | green-guerillas.de | 1 | lingerie/thong/bikini rule | Home page "Bikinis" |
+| 2026-11-02 | hautnah-dessous.de | 1 | lingerie/thong/bikini rule | Home page title "HAUTNAH Dessous & Bademoden München" |
+| 2026-11-02 | ginaya.de | 1 | lingerie/thong/bikini rule | Home page "Tanga", "Dessous", "Thongs" |
+| 2026-11-02 | hertie.de | 1 | lingerie/thong/bikini rule | Home page title "Damenunterwäsche mit Komfort"; "Panty", "Bralette" |
+| 2026-11-02 | hirsefelt.de | 1 | lingerie/thong/bikini rule | Home page title "Wäsche Shop für Damen und Herren"; "Knickers" |
+| 2026-11-02 | hotandcold69.de | 1 | lingerie/thong/bikini rule | Home page "Dessous", "Corset", "Tanga", "Thong" |
+| 2026-11-02 | i-miss-sophie.de | 1 | lingerie/thong/bikini rule | Home page "Tanga", "Thong", "Bra" |
+| 2026-11-02 | hw-shapes.de | 1 | lingerie/thong/bikini rule | Home page "Bikini", "Bikinis" (surf shop) |
+| 2026-11-02 | hypeneedz.com | 1 | lingerie/thong/bikini rule | Home page categories "Bikinis", "Bras" |
+| 2026-11-02 | igvonderlinde.de | 1 | lingerie/thong/bikini rule | Home page "BH 75C ohne Bügel", product "Mey Spacer-BH"; "Lingerie" |
+| 2026-11-02 | inaska.com | 1 | lingerie/thong/bikini rule | Home page "Bikini" (178 mentions) |
+| 2026-11-02 | ismeswim.com | 1 | lingerie/thong/bikini rule | Home page title "Textured Brazilian Swimwear & Statement Bikinis" |
+| 2026-11-02 | inpetto-dessous.de | 1 | lingerie/thong/bikini rule | Home page title "Dessous | Lingerie und Brautdessous" |
+| 2026-11-02 | insilk-seide.de | 1 | lingerie/thong/bikini rule | Home page category "Seiden-Dessous" |
+| 2026-11-02 | italian-design.nl | 1 | lingerie/thong/bikini rule | Home page title "Dames: lingerie badmode panty kousen" |
+| 2026-11-02 | jockey.eu | 1 | lingerie/thong/bikini rule | Home page title "JOCKEY Germany | Unterwäsche"; "Bras", "Bralette", "Bikinis" |
+| 2026-11-02 | jolynclothing.de | 1 | lingerie/thong/bikini rule | Home page title "Schwimmsachen"; "Bikini", "Tanga" |
+| 2026-11-02 | josea-surfwear.com | 1 | lingerie/thong/bikini rule | Home page title "JOSEA SURFWEAR SURF BIKINI" |
+| 2026-11-02 | gorillawear.com | 1 | lingerie/thong/bikini rule | Home page category "Sports Bras" |
+| 2026-11-02 | hey-honey.com | 1 | lingerie/thong/bikini rule | Home page collection "Sport Bra's" (hey-honey.fr redirects here) |

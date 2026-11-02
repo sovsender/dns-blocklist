@@ -39,3 +39,4 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 | 2026-11-02 | aeo.eu | 2 | Mainstream: large international general fashion chain (American Eagle) | Home page "Bras", "Bralette", "Thong", "Bikini" |
 | 2026-11-02 | bonprix.de | 2 | Mainstream: large international general fashion retailer | Home page "Dessous", "Lingerie" |
 | 2026-11-02 | blue-tomato.com | 2 | Mainstream: large boardsport/fashion retailer | Home page "Bikinis" |
+| 2026-11-02 | engelhorn.de | 2 | Mainstream: department store | Home page "Lingerie" |
