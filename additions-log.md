@@ -950,7 +950,6 @@
 | 2026-11-02 | parfaitlingerie.com | 1 | rule L | home page |
 | 2026-11-02 | sexylingerie.nl | 1 | rule L | home page |
 | 2026-11-02 | shyaway.com | 1 | rule L | home page |
-| 2026-11-02 | smoon-lingerie.com | 1 | rule L | home page |
 | 2026-11-02 | swimsuitsdirect.com | 1 | rule L | home page |
 | 2026-11-02 | tkdlingerie.com | 1 | rule L | home page |
 | 2026-11-02 | truecorset.ca | 1 | rule L | home page |
