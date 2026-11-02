@@ -311,3 +311,17 @@
 | 2026-11-02 | youswim.com | 1 | Swimwear brand | Nav "Bikinis", "All Bikinis" (home page) |
 | 2026-11-02 | oseree.com | 1 | Swimwear brand | Nav "Lingerie" (home page) |
 | 2026-11-02 | alpinebutterflyswim.com | 1 | Swimwear brand | Sitemap: "haze-bikini-bottom-in-lavender", "the-corset-top" (sitemap) |
+| 2026-11-02 | triumph.com | 1 | Lingerie brand | Title "Triumph BHs & Dessous"; nav "Bralette", "Dessous", "Bikinis" (ch.triumph.com home page) |
+| 2026-11-02 | oneill.com | 1 | Surf brand | Nav "Bikinis", "Bikini sets", "Bikini tops" (eu.oneill.com home page) |
+| 2026-11-02 | lasenza.ca | 1 | Lingerie shop | Title "Women's Underwear - Bras, Panties, Lingerie"; nav "Bras", "Panties", "Lingerie" (home page) |
+| 2026-11-02 | lasenza.com | 1 | Lingerie shop (lasenza.ca redirects here) | Title "Women's Underwear - Bras, Panties, Lingerie"; nav "Thongs" (home page) |
+| 2026-11-02 | londi.com | 1 | Lingerie/loungewear brand | Nav "All lingerie", "Bra & Bralettes", "Thongs" (home page) |
+| 2026-11-02 | mylorals.com | 1 | Underwear brand | Nav "Protection Bikinis in Black", "Pleasure Bikinis in Sheer" (home page) |
+| 2026-11-02 | oxbowshop.com | 1 | Surf brand | Nav "Maillot de bain, Bikini" (home page) |
+| 2026-11-02 | syrn.com | 1 | Lingerie brand | Nav "Bras", "Bralettes", "Panties", "Lingerie"; product "Beloved Mid Rise Thong" (home page) |
+| 2026-11-02 | ta3swim.com | 1 | Shapewear and swim brand | Nav "Thong", "ULTRA SUPPORTIVE LIFT & LOCK BRAS" (home page) |
+| 2026-11-02 | titlenine.com | 1 | Women's activewear brand | Nav "Bikinis", "Bikini Tops", "Bikini Bottoms", "Bra Tops" (home page) |
+| 2026-11-02 | unepiece.com | 1 | Swimwear and lingerie brand | Nav "Bikinis", "Lingerie", "Lace Bralette in White" (home page) |
+| 2026-11-02 | vedettestore.com | 1 | Shapewear brand | Nav "Bras", "Panty", "Nadine Bodysuit (Thong Back)" (home page) |
+| 2026-11-02 | inamorataswim.com | 1 | Swimwear brand (redirects to inamoratawoman.com) | Redirects to inamoratawoman.com: nav "Bikinis", "Shop Bikini Tops" (home page) |
+| 2026-11-02 | misseskisses.com | 1 | Bra accessory brand | Nav "Bra Kit", "Interchangeable Bra Bars" (home page) |

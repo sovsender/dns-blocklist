@@ -118,6 +118,7 @@
 ||hunkemoller.nl^
 ||hunzag.com^
 ||hurley.com^
+||inamorataswim.com^
 ||inamoratawoman.com^
 ||indahclothing.com^
 ||intimateportal.com^
@@ -143,6 +144,7 @@
 ||laperla.com^
 ||lascana.co.uk^
 ||lascana.com^
+||lasenza.ca^
 ||lasenza.com^
 ||lasette.shop^
 ||lavieenrose.com^
@@ -155,6 +157,7 @@
 ||lineaintima.ca^
 ||lingerie.co.uk^
 ||lingeriediva.com^
+||londi.com^
 ||londrebodywear.ca^
 ||londrebodywear.com^
 ||lonelylabel.com^
@@ -184,10 +187,12 @@
 ||minimale-animale.com^
 ||minimaleanimale.com^
 ||miraclesuit.com^
+||misseskisses.com^
 ||modibodi.com^
 ||mondayswimwear.com^
 ||montce.com^
 ||morangobrasil.com.br^
+||mylorals.com^
 ||mymarini.com^
 ||naja.co^
 ||natori.com^
@@ -203,6 +208,7 @@
 ||ookioh.com^
 ||orchardcorset.com^
 ||oseree.com^
+||oxbowshop.com^
 ||palorosabeachwear.co^
 ||panache-lingerie.com^
 ||passionata.com^
@@ -254,6 +260,8 @@
 ||sunshine79.com^
 ||swimoutlet.com^
 ||swimsuitsforall.com^
+||syrn.com^
+||ta3swim.com^
 ||tallulahlove.com^
 ||tavik.com^
 ||tezenis.com^
@@ -264,6 +272,7 @@
 ||thistleandspire.com^
 ||tigerlily.com.au^
 ||tigermist.com^
+||titlenine.com^
 ||tomboyx.com^
 ||toripraverswimwear.com^
 ||triangl.com^
@@ -273,9 +282,11 @@
 ||tuttirouge.com^
 ||ubras.com^
 ||undiz.com^
+||unepiece.com^
 ||valeriaanastasia.com^
 ||valisere.com.br^
 ||vandevelde.eu^
+||vedettestore.com^
 ||venus.com^
 ||victoireboutique.com^
 ||victoriassecret.com^
