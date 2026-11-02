@@ -395,3 +395,6 @@
 | 2026-11-02 | lanebryant.com | 1 | approved by user from pending | user decision in chat |
 | 2026-11-02 | beyondyoga.com | 1 | approved by user from pending | user decision in chat |
 | 2026-11-02 | fashionnova.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | arkswimwear.com | 1 | promoted from pending | Products list: bikini, bralette and thong product titles |
+| 2026-11-02 | maaji.co | 1 | promoted from pending | Collections list "Bikinis"; products list bikini, bralette, panty titles |
+| 2026-11-02 | andieswim.com.au | 1 | promoted from pending | Home page nav "Bikinis", "$20 Bikini Tops", bralette products |
