@@ -17,8 +17,6 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 | 2026-10-30 | bonprix.co.uk | 2 | Mainstream: large international general fashion retailer | Category "Lingerie" (home page) |
 | 2026-11-01 | ashleystewart.com | 2 | Mainstream: national plus-size fashion chain | Nav "INTIMATES", "BRAS", "Bra & Panty Sets" (home page) |
 | 2026-11-01 | authentic.com | 2 | Mainstream: multi-brand store, also kids | Nav "Bras", "Panties", "Lingerie" (home page) |
-| 2026-11-01 | nike.com | 2 | Mainstream: large international sportswear brand | Nav "Bras", "Sports Bras" (home page) |
-| 2026-11-01 | puma.com | 2 | Mainstream: large international sportswear brand | Nav "Sports Bras" (home page) |
 | 2026-11-01 | reebok.com | 2 | Mainstream: large international sportswear brand | Nav "Sports Bras" (home page) |
 | 2026-11-01 | jolidon.com | 1 | Lingerie brand; site blocked reading | HTTP 403 |
 | 2026-11-01 | bonds.com.au | 1 | Underwear brand; site blocked reading | HTTP 403 |
