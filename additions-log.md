@@ -618,3 +618,71 @@
 | 2026-11-02 | hyamsbeachswim.com | 1 | promoted from pending - third-party evidence | illawarramercury.com.au 'Illawarra swimwear business Hyams Beach unveils second collection' (bikinis); advertiserlaketimes.com.au 'Wollongong best friends launch swimwear label Hyams Beach Swim' (bikinis) |
 | 2026-11-02 | blackboughswim.com | 1 | promoted from pending - third-party evidence | pacsun.com product page 'Blackbough Swim ... underwire bikini top'; mega-asia.com 'Blackbough Swim' bikinis; own press page |
 | 2026-11-02 | lou-lingerie.fr | 1 | promoted from pending - third-party evidence | modz.fr 'Lou soutien-gorges femme'; topito.com 'meilleures marques lingerie femme'; hosting.fluidbook.com 'Lou Catalogue' lingerie fine |
+| 2026-11-02 | sportklahsen.de | 1 | Thong/bikini rule | Home page nav 'Bikinis' |
+| 2026-11-02 | sportnahrung-engel.de | 1 | Lingerie rule | Home page nav 'Sport-BH' |
+| 2026-11-02 | starksoul.com | 1 | Lingerie rule | Home page words: bra |
+| 2026-11-02 | strumpfoase.eu | 1 | Lingerie rule | Home page words: bikini, panty, tanga |
+| 2026-11-02 | sued-west.com | 1 | Lingerie rule | Home page nav 'Sport BH´s', 'Adidas Damen BH OPT ESS MS BRA', 'Adidas Damen Bikini 3S BLD BIK' |
+| 2026-11-02 | sunbleachedswim.com | 1 | Lingerie rule | Home page nav 'Bahrain (BH $)' |
+| 2026-11-02 | superstacy.de | 1 | Lingerie rule | Home page nav 'Rhea Sport-BH nahtlosPreis24,9' |
+| 2026-11-02 | susa-shop.de | 1 | Lingerie rule | Home page nav 'Bügel BH', 'BH ohne Bügel', 'Entlastungs BH' |
+| 2026-11-02 | swaens.de | 1 | Lingerie rule | Home page nav 'Tanga Schwarz' |
+| 2026-11-02 | swimwithmi.com | 1 | Lingerie rule | Own machine-readable files: /products.json:bikini,string,strings |
+| 2026-11-02 | tattoobrands.de | 1 | Lingerie rule | Home page nav 'Lolitta Dessous' |
+| 2026-11-02 | thinxgreen.de | 1 | Lingerie rule | Home page nav 'Hipster & Panties', 'Strings' |
+| 2026-11-02 | this-belongs-to.com | 1 | Lingerie rule | Own machine-readable files: /sitemap.xml:bikini,bra,bralette,knickers,thong,underwear |
+| 2026-11-02 | tizzandtonic.com | 1 | Lingerie rule | Home page nav 'BRAZILIAN PANTY', 'CHEEKY PANTY', 'HIPSTER PANTY' |
+| 2026-11-02 | to-the-top.com | 1 | Lingerie rule | Home page nav 'Seamless Sports Bra Black', 'Seamless Sports Bra Slate Blue', 'Seamless Sports Bra Anthracite' |
+| 2026-11-02 | tonathelabel.com | 1 | Thong/bikini rule | Home page nav 'All Bikinis', 'Bikini Tops', 'Bikini Bottoms' |
+| 2026-11-02 | topsport-shop.de | 1 | Lingerie rule | Home page nav 'Bikini' |
+| 2026-11-02 | trachten.de | 1 | Lingerie rule | Home page nav 'Dirndl-BH' |
+| 2026-11-02 | trachtenoutlet24.de | 1 | Lingerie rule | Home page nav 'Dirndl-BH / Dessous' |
+| 2026-11-02 | traumwaesche.shop | 1 | Lingerie rule | Home page nav 'LOUIE Vollschalen-BH Spacer', 'AVERO Unterlegter BH Herzform', 'JANE Balconette-BH horizontale' |
+| 2026-11-02 | tropicalmood.shop | 1 | Thong/bikini rule | Own machine-readable files: /collections.json:bikini; /products.json:bh,bikini |
+| 2026-11-02 | underwear-shopping.de | 1 | Lingerie rule | Home page nav 'BH + Bustier mit Cups', 'Dessous und Lingerie' |
+| 2026-11-02 | underwearshopping.de | 1 | Lingerie rule | Home page nav 'Panty Emotion    19,95 €', 'BH ohne Bügel Micro Fun    19,', 'UnderwearShopping DE' |
+| 2026-11-02 | unterwaeschedeluxe.de | 1 | Lingerie rule | Home page nav 'Chantelle Lingerie', 'Freya Lingerie', 'Lingerie von Chantelle' |
+| 2026-11-02 | vandortmode.de | 1 | Lingerie rule | Own machine-readable files: /sitemap.xml:bh,bikini,bra,dessous,lingerie,panty |
+| 2026-11-02 | vatter-fashion.com | 1 | Lingerie rule | Home page nav 'Bikini Slip', 'Triangle Bra', 'Bikini Slip "Steady Suzie" Zeb' |
+| 2026-11-02 | verameyer.de | 1 | Lingerie rule | Own machine-readable files: /collections.json:bh; /products.json:bh |
+| 2026-11-02 | verdelimon.co | 1 | Thong/bikini rule | Home page nav 'Bikinis' |
+| 2026-11-02 | viabella-dessous.de | 1 | Lingerie rule | Home page nav 'BH-Beratung', 'BH-Termin', 'BH-Termin buchen' |
+| 2026-11-02 | vianiashop.com | 1 | Lingerie rule | Home page nav 'BH-Hemden', 'Strings', 'Bikini-Slips' |
+| 2026-11-02 | vintage-style-bodensee.de | 1 | Lingerie rule | Home page nav 'Vintage Dessous' |
+| 2026-11-02 | vitego-shop.de | 1 | Lingerie rule | Home page nav 'Epithesen Dessous' |
+| 2026-11-02 | vplstore.com | 1 | Lingerie rule | Home page nav 'BRAS', 'Bra Size' |
+| 2026-11-02 | vrsh-ambition.de | 1 | Lingerie rule | Home page nav 'Bras', 'Seamless Rib Sport BH', 'Pulse Seamless Sport BH' |
+| 2026-11-02 | waeschefieber.de | 1 | Lingerie rule | Home page nav 'Sport-BH', 'Still-BH', 'BH-Hemden' |
+| 2026-11-02 | waeschefrei.com | 1 | Lingerie rule | Home page nav 'String', 'BH - Zubehör' |
+| 2026-11-02 | waescheshoppy.de | 1 | Lingerie rule | Home page nav 'Bügel BH', 'Soft BH', 'Minimizer BH' |
+| 2026-11-02 | waescheweiber.de | 1 | Lingerie rule | Home page nav 'Dessous', 'Zur Kategorie Dessous' |
+| 2026-11-02 | warehouse-one.de | 1 | Lingerie rule | Home page nav 'Underwear', 'Bikinis' |
+| 2026-11-02 | witt-weiden.de | 2 | Lingerie rule - exception 2 decision | Home page nav 'Bikinihosen', 'Bikinis', 'Dessous' |
+| 2026-11-02 | woehrl.de | 2 | Lingerie rule - exception 2 decision | Home page nav 'Slips & Panties', 'Bikinis' |
+| 2026-11-02 | wundercurves.de | 1 | Lingerie rule | Home page nav 'Bikini', 'Dessous für Mollige', 'verführerische Dessous' |
+| 2026-11-02 | yourhealthfit.de | 1 | Lingerie rule | Home page nav 'Kompressions BH´s' |
+| 2026-11-02 | zecplus.de | 1 | Lingerie rule | Home page nav 'Sport-BH' |
+| 2026-11-02 | zizzi.de | 1 | Lingerie rule | Home page nav 'Dessous', '3 für 2   Auf alles Dessous*', 'BH-Größenguide' |
+| 2026-11-02 | braforme.com | 1 | Lingerie rule | Home page nav 'Bra Size Chart', 'All Bras', 'Sexy Lingerie' |
+| 2026-11-02 | thefoundation.com.au | 1 | Lingerie rule | Home page nav 'Lingerie', 'Bras 328', 'Full Cup Bras 86' |
+| 2026-11-02 | shescience.com.au | 1 | Lingerie rule | Home page nav 'Sports Bras', 'A Cup Sports Bras', 'B Cup Sports Bras' |
+| 2026-11-02 | debras.com.au | 1 | Lingerie rule | Home page nav 'Bras', 'Bralettes', 'Sports Bras' |
+| 2026-11-02 | lingerie-alley.com | 1 | Lingerie rule | Home page nav 'LINGERIEALLEY' |
+| 2026-11-02 | modz.fr | 2 | Lingerie rule - exception 2 decision | Home page nav 'Lingerie, Nuit & Bain', 'Toute la lingerie', 'Soutiens-gorge' |
+| 2026-11-02 | bordelle.co.uk | 1 | Lingerie rule | Home page nav 'Bras', 'Thongs', 'Neda Multi-Style Bodice Bra' |
+| 2026-11-02 | sugarshape.de | 1 | Lingerie rule | Home page nav 'BH-Finder', 'BH Guide', 'Bralettes' |
+| 2026-11-02 | thecoolhour.com | 2 | Lingerie rule - exception 2 decision | Home page nav 'Lingerie & Intimates' |
+| 2026-11-02 | madeleine.com | 2 | Thong/bikini rule - exception 2 decision | Home page nav 'Bikinis' |
+| 2026-11-02 | sportofino.com | 1 | Lingerie rule | Search result snippets from own domain: product pages 'sports bra adidas by stella mccartney', 'pe nation in play sports bra' |
+| 2026-11-02 | sunflair.de | 1 | Lingerie rule - third-party evidence | Third-party evidence: decathlon.de brand page 'Sunflair' bikinis; baur.de brand page 'Sunflair' swimwear; yopi.de 'Sunflair Bügel Bikini' |
+| 2026-11-02 | urbanoutfitters.com | 2 | Lingerie rule - exception 2 decision (young fashion, intimates top-level) | Search result snippets from own domain: 'Women's Intimates: Bras, Undies & Loungewear', 'Out From Under Corinne Seamless Knit V-Neck Bralette'; brit.co 'urban outfitters lingerie and swim sale' |
+| 2026-11-02 | sportsbrasdirect.com.au | 1 | Lingerie rule | Search result snippets from own domain: brand pages 'Panache', 'Berlei', 'Bonds' (sports bras); blog 'Brand in Focus - Berlei' |
+| 2026-11-02 | unterwaeschen.de | 1 | Lingerie rule | Redirects to profi-bra.de; maintenance page nav 'Bikini', 'Sport-BH', 'Sport-Panty' |
+| 2026-11-02 | profi-bra.de | 1 | Thong/bikini rule | Final domain of unterwaeschen.de; nav 'Bikini', 'Sport-BH', 'Sport-Panty' |
+| 2026-11-02 | upperty.de | 1 | Lingerie rule | Redirects to upperty.com; nav 'Bügel-BH', 'T-Shirt-BH', 'Soft BH' |
+| 2026-11-02 | upperty.com | 1 | Thong/bikini rule | Final domain of upperty.de; nav 'Bügel-BH', 'T-Shirt-BH', 'Soft BH' |
+| 2026-11-02 | vickysnylons.de | 1 | Lingerie rule | Redirects to vickys-nylons.de; nav 'Vicky´s Dessous', 'Accessoires und Dessous' |
+| 2026-11-02 | vickys-nylons.de | 1 | Thong/bikini rule | Final domain of vickysnylons.de; nav 'Vicky´s Dessous', 'Accessoires und Dessous' |
+| 2026-11-02 | wenz.de | 2 | Thong/bikini rule - exception 2 decision (women's fashion mail-order) | Redirects to heine.de (women's fashion mail-order); nav 'Bandeau-Bikinis', 'Push-Up-Bikinis' |
+| 2026-11-02 | heine.de | 2 | Thong/bikini rule - exception 2 decision (women's fashion mail-order) | Final domain of wenz.de; nav 'Bandeau-Bikinis', 'Push-Up-Bikinis' |
+| 2026-11-02 | wolfordshop.de | 1 | Lingerie rule | Redirects to wolford.com; nav 'Lingerie', 'String-Bodys', 'Lingerie und Bademode' |
