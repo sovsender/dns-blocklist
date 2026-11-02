@@ -2,4 +2,4 @@
 AdGuard Home blocklist. Subscribe: https://raw.githubusercontent.com/sovsender/dns-blocklist/main/blocklist.txt
 Licence: CC0 1.0 (see LICENSE).
 
-Working files: candidates.txt (found, not yet checked), checked.txt (checked, not a match; re-checked after 90 days).
+Working files: candidates.txt (found, not yet checked), checked.txt (checked, not a match; re-checked after 90 days), dead-watch.txt (blocked domains seen dead once), removals-log.md (dead domains removed in quarterly clean-ups).
