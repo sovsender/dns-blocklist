@@ -379,3 +379,8 @@
 | 2026-11-02 | wearnala.com | 1 | Bra brand | Title "Comfortable Bras & Underwear | Nala"; nav "Wirefree Bralette" (home page) |
 | 2026-11-02 | yse-paris.com | 1 | Lingerie brand | Nav "Lingerie Discover" (home page) |
 | 2026-11-02 | zuluandzephyr.com | 1 | Swimwear brand | Nav "Bikinis", "Bikini Tops" (home page) |
+| 2026-11-02 | annsummers.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | agentprovocateur.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | bonaparteshop.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | herroom.com | 1 | approved by user from pending | user decision in chat |
+| 2026-11-02 | lindex.com | 1 | approved by user from pending | user decision in chat |

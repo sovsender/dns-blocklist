@@ -3,19 +3,10 @@ Mainstream or weak-evidence candidates. Approved in chat before moving to blockl
 
 | Date found | Domain | Tier | Reason | Evidence (quoted page text + URL) |
 |---|---|---|---|---|
-| 2026-10-30 | agentprovocateur.com | 1 | Lingerie shop; site blocked reading | HTTP 403 |
-| 2026-10-30 | ae.com | 2 | Mainstream: Aerie is part of American Eagle; blocking ae.com blocks all of American Eagle | Categories "Women, Men, Jeans, Loungewear & PJs, Aerie" |
 | 2026-10-30 | brazilianbikinishop.com | 2 | Multi-brand store also selling shoes, beauty, men, kids, home; no model text, not photo-checked | Alt text "Women's swimwear"; categories "Swimwear, Cover-ups, Shoes, Beauty, Men, Kids, Home" (domain per search result; homepage URL not confirmed) |
-| 2026-10-30 | coutille.com | 1 | Lingerie brand; evidence weak | Title "Coutille | Official Store"; no product or model text on homepage, only logo alt text |
 | 2026-10-30 | leftonfriday.com | 2 | Active swimwear brand also selling dresses and shirts; no revealing evidence | Title "Left On Friday - Premium Active Swimwear"; alt text "Woman in Getaway Shirt Dress in Coconut" (home page) |
 | 2026-10-30 | mybrazilianshop.com | 1 | Bikini shop; evidence weak, product photo checked was flat lay | Categories "BIKINIS", "Bikini Bottoms", "Bikini Tops"; alt text "Cacau Brown Seashore Textured Triangle Bikini Top" (home page); image checked - no model |
-| 2026-10-30 | annsummers.com | 1 | Lingerie shop; site blocked reading | HTTP 403 |
-| 2026-10-30 | cheekyswim.com | 1 | Swimwear brand; evidence weak, page gave no readable product text | Title "Cheeky Swim" (home page) |
-| 2026-10-30 | bonaparteshop.com | 2 | Mainstream: general fashion webshop with swimwear section | Title "BON'A PARTE's Official Webshop | Fashion for the Modern Woman"; nav "Swimwear" (home page) |
-| 2026-10-30 | herroom.com | 1 | Multi-brand lingerie retailer; site blocked reading | HTTP 403 |
 | 2026-10-30 | figleaves.com | 1 | Multi-brand lingerie retailer; site blocked reading | HTTP 403 |
-| 2026-10-30 | lindex.com | 2 | Mainstream: general clothing retailer; site blocked reading | HTTP 403 |
-| 2026-10-30 | eres.com | 1 | Lingerie and swimwear brand; site blocked reading | HTTP 403 |
 | 2026-10-30 | myla.com | 1 | Lingerie brand; evidence weak, no readable product text | Title "myla" (home page) |
 | 2026-10-30 | mikoh.com | 1 | Swimwear brand; site shows only a login page | Title "Please Log In" |
 | 2026-10-30 | lalilouche.com | 1 | Lingerie brand; page gave no readable text | Empty page |
