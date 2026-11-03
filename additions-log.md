@@ -1135,3 +1135,260 @@
 | 2026-11-03 | defacto.com.eg | 2 | rule T [exception 2 decision] | search snippet |
 | 2026-11-03 | corsettery.com | 1 | rule L | home page |
 | 2026-11-03 | meshki.us | 2 | rule T [exception 2 decision] | search snippet |
+| 2026-11-03 | amorana.at | 1 | rule T [country site] | country site |
+| 2026-11-03 | amorana.co.uk | 1 | rule T [country site] | country site |
+| 2026-11-03 | amorana.com | 1 | rule T [country site] | country site |
+| 2026-11-03 | amorana.es | 1 | rule T [country site] | country site |
+| 2026-11-03 | amorana.eu | 1 | rule T [country site] | country site |
+| 2026-11-03 | amorana.fr | 1 | rule T [country site] | country site |
+| 2026-11-03 | amorana.it | 1 | rule T [country site] | country site |
+| 2026-11-03 | amorana.us | 1 | rule T [country site] | country site |
+| 2026-11-03 | bonprix.ca | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | bonprix.com | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | bonprix.es | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | bonprix.eu | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | bonprix.it | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | bonprix.jp | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | bonprix.uk | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | bonprix.us | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | bonvenon.de | 1 | rule T [country site] | country site |
+| 2026-11-03 | boochen.eu | 1 | rule T [country site] | country site |
+| 2026-11-03 | boochen.us | 1 | rule T [country site] | country site |
+| 2026-11-03 | boody.be | 1 | rule L [country site] | country site |
+| 2026-11-03 | boody.ch | 1 | rule L [country site] | country site |
+| 2026-11-03 | boody.co.jp | 1 | rule L [country site] | country site |
+| 2026-11-03 | boody.com | 1 | rule L [country site] | country site |
+| 2026-11-03 | boody.dk | 1 | rule L [country site] | country site |
+| 2026-11-03 | boody.es | 1 | rule L [country site] | country site |
+| 2026-11-03 | boody.eu | 1 | rule L [country site] | country site |
+| 2026-11-03 | boody.jp | 1 | rule L [country site] | country site |
+| 2026-11-03 | boody.se | 1 | rule L [country site] | country site |
+| 2026-11-03 | boohoo.at | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.be | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.ca | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.co.nz | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.co.uk | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.com.au | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.com.br | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.de | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.es | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.fi | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.fr | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.ie | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.it | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.jp | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.mx | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.nl | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.no | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | boohoo.se | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | borneo-paris.eu | 1 | rule T [country site] | country site |
+| 2026-11-03 | borneo-paris.fr | 1 | rule T [country site] | country site |
+| 2026-11-03 | bouxavenue.be | 1 | rule L [country site] | country site |
+| 2026-11-03 | bouxavenue.ch | 1 | rule L [country site] | country site |
+| 2026-11-03 | bouxavenue.co.uk | 1 | rule L [country site] | country site |
+| 2026-11-03 | bouxavenue.es | 1 | rule L [country site] | country site |
+| 2026-11-03 | bouxavenue.fr | 1 | rule L [country site] | country site |
+| 2026-11-03 | bouxavenue.jp | 1 | rule L [country site] | country site |
+| 2026-11-03 | bouxavenue.mx | 1 | rule L [country site] | country site |
+| 2026-11-03 | bouxavenue.nl | 1 | rule L [country site] | country site |
+| 2026-11-03 | bouxavenue.pl | 1 | rule L [country site] | country site |
+| 2026-11-03 | bouxavenue.uk | 1 | rule L [country site] | country site |
+| 2026-11-03 | bouxavenue.us | 1 | rule L [country site] | country site |
+| 2026-11-03 | bracli-dessous.com | 1 | rule T [country site] | country site |
+| 2026-11-03 | bracli.co | 1 | rule T [country site] | country site |
+| 2026-11-03 | bracli.es | 1 | rule T [country site] | country site |
+| 2026-11-03 | bracli.fr | 1 | rule T [country site] | country site |
+| 2026-11-03 | bracli.us | 1 | rule T [country site] | country site |
+| 2026-11-03 | bramone.com | 1 | rule T [country site] | country site |
+| 2026-11-03 | brashop.de | 1 | rule T [country site] | country site |
+| 2026-11-03 | brasnthings.com.au | 1 | rule T [country site] | country site |
+| 2026-11-03 | bravaria.eu | 1 | rule T [country site] | country site |
+| 2026-11-03 | bravissimo.co.uk | 1 | rule L [country site] | country site |
+| 2026-11-03 | bravissimo.eu | 1 | rule L [country site] | country site |
+| 2026-11-03 | bravissimo.uk | 1 | rule L [country site] | country site |
+| 2026-11-03 | bravissimo.us | 1 | rule L [country site] | country site |
+| 2026-11-03 | brazilianbikinishop.at | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | brazilianbikinishop.be | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | brazilianbikinishop.ch | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | brazilianbikinishop.co.uk | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | brazilianbikinishop.de | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | brazilianbikinishop.dk | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | brazilianbikinishop.es | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | brazilianbikinishop.fi | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | brazilianbikinishop.fr | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | brazilianbikinishop.it | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | brazilianbikinishop.nl | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | brazilianbikinishop.pl | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | brazilianbikinishop.se | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | brazilianbikinishop.us | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | brightswimwear.ca | 1 | rule T [country site] | country site |
+| 2026-11-03 | brightswimwear.co.uk | 1 | rule T [country site] | country site |
+| 2026-11-03 | brightswimwear.de | 1 | rule T [country site] | country site |
+| 2026-11-03 | brightswimwear.nl | 1 | rule T [country site] | country site |
+| 2026-11-03 | brightswimwear.us | 1 | rule T [country site] | country site |
+| 2026-11-03 | brunobanani.de | 1 | rule T [country site] | country site |
+| 2026-11-03 | brunotti.at | 1 | rule T [country site] | country site |
+| 2026-11-03 | brunotti.be | 1 | rule T [country site] | country site |
+| 2026-11-03 | brunotti.ch | 1 | rule T [country site] | country site |
+| 2026-11-03 | brunotti.de | 1 | rule T [country site] | country site |
+| 2026-11-03 | brunotti.eu | 1 | rule T [country site] | country site |
+| 2026-11-03 | burlesque-dessous.at | 1 | rule T [country site] | country site |
+| 2026-11-03 | burlesque-dessous.ch | 1 | rule T [country site] | country site |
+| 2026-11-03 | burlesque-dessous.com | 1 | rule T [country site] | country site |
+| 2026-11-03 | bydee.co.nz | 1 | rule T [country site] | country site |
+| 2026-11-03 | bydee.com.au | 1 | rule T [country site] | country site |
+| 2026-11-03 | bydeeaus.co.nz | 1 | rule T [country site] | country site |
+| 2026-11-03 | bydeeaus.co.uk | 1 | rule T [country site] | country site |
+| 2026-11-03 | bydeeaus.com.au | 1 | rule T [country site] | country site |
+| 2026-11-03 | cakematernity.eu | 1 | rule L [country site] | country site |
+| 2026-11-03 | calida.at | 1 | rule L [country site] | country site |
+| 2026-11-03 | calida.be | 1 | rule L [country site] | country site |
+| 2026-11-03 | calida.ch | 1 | rule L [country site] | country site |
+| 2026-11-03 | calida.com.br | 1 | rule L [country site] | country site |
+| 2026-11-03 | calida.de | 1 | rule L [country site] | country site |
+| 2026-11-03 | calida.dk | 1 | rule L [country site] | country site |
+| 2026-11-03 | calida.fi | 1 | rule L [country site] | country site |
+| 2026-11-03 | calida.fr | 1 | rule L [country site] | country site |
+| 2026-11-03 | calida.ie | 1 | rule L [country site] | country site |
+| 2026-11-03 | calida.it | 1 | rule L [country site] | country site |
+| 2026-11-03 | calida.mx | 1 | rule L [country site] | country site |
+| 2026-11-03 | calida.nl | 1 | rule L [country site] | country site |
+| 2026-11-03 | calida.no | 1 | rule L [country site] | country site |
+| 2026-11-03 | calida.pl | 1 | rule L [country site] | country site |
+| 2026-11-03 | calida.us | 1 | rule L [country site] | country site |
+| 2026-11-03 | chantellelingerie.be | 1 | rule L [country site] | country site |
+| 2026-11-03 | chantellelingerie.ch | 1 | rule L [country site] | country site |
+| 2026-11-03 | chantellelingerie.co.uk | 1 | rule L [country site] | country site |
+| 2026-11-03 | chantellelingerie.com.au | 1 | rule L [country site] | country site |
+| 2026-11-03 | chantellelingerie.de | 1 | rule L [country site] | country site |
+| 2026-11-03 | chantellelingerie.es | 1 | rule L [country site] | country site |
+| 2026-11-03 | chantellelingerie.fr | 1 | rule L [country site] | country site |
+| 2026-11-03 | chantellelingerie.it | 1 | rule L [country site] | country site |
+| 2026-11-03 | chantellelingerie.jp | 1 | rule L [country site] | country site |
+| 2026-11-03 | chantellelingerie.se | 1 | rule L [country site] | country site |
+| 2026-11-03 | erlich-textil.at | 1 | rule L [country site] | country site |
+| 2026-11-03 | erlich-textil.ch | 1 | rule L [country site] | country site |
+| 2026-11-03 | erlich-textil.de | 1 | rule L [country site] | country site |
+| 2026-11-03 | femtis.be | 1 | rule T [country site] | country site |
+| 2026-11-03 | femtis.dk | 1 | rule T [country site] | country site |
+| 2026-11-03 | femtis.es | 1 | rule T [country site] | country site |
+| 2026-11-03 | femtis.fi | 1 | rule T [country site] | country site |
+| 2026-11-03 | femtis.it | 1 | rule T [country site] | country site |
+| 2026-11-03 | femtis.pl | 1 | rule T [country site] | country site |
+| 2026-11-03 | femtis.se | 1 | rule T [country site] | country site |
+| 2026-11-03 | femtis.us | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.at | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.be | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.ca | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.ch | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.co.uk | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.de | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.dk | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.es | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.eu | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.fi | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.fr | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.ie | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.it | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.jp | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.nl | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.no | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.pl | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.se | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.uk | 1 | rule T [country site] | country site |
+| 2026-11-03 | gudrunsjoden.us | 1 | rule T [country site] | country site |
+| 2026-11-03 | hos-versand.com | 1 | rule L [country site] | country site |
+| 2026-11-03 | hunkemoller.be | 1 | rule L [country site] | country site |
+| 2026-11-03 | hunkemoller.co.uk | 1 | rule L [country site] | country site |
+| 2026-11-03 | hunkemoller.dk | 1 | rule L [country site] | country site |
+| 2026-11-03 | hunkemoller.es | 1 | rule L [country site] | country site |
+| 2026-11-03 | hunkemoller.eu | 1 | rule L [country site] | country site |
+| 2026-11-03 | hunkemoller.fi | 1 | rule L [country site] | country site |
+| 2026-11-03 | hunkemoller.it | 1 | rule L [country site] | country site |
+| 2026-11-03 | hunkemoller.no | 1 | rule L [country site] | country site |
+| 2026-11-03 | hunkemoller.pl | 1 | rule L [country site] | country site |
+| 2026-11-03 | hunkemoller.se | 1 | rule L [country site] | country site |
+| 2026-11-03 | hunkemoller.uk | 1 | rule L [country site] | country site |
+| 2026-11-03 | intimo.com.au | 1 | rule L [country site] | country site |
+| 2026-11-03 | isa-shop.com | 1 | rule L [country site] | country site |
+| 2026-11-03 | item-m6.ch | 1 | rule L [country site] | country site |
+| 2026-11-03 | klingel.com | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | klingel.eu | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | lafilledo.be | 1 | rule L [country site] | country site |
+| 2026-11-03 | lascana.be | 1 | rule T [country site] | country site |
+| 2026-11-03 | lascana.ca | 1 | rule T [country site] | country site |
+| 2026-11-03 | lascana.com.au | 1 | rule T [country site] | country site |
+| 2026-11-03 | lascana.com.br | 1 | rule T [country site] | country site |
+| 2026-11-03 | lascana.de | 1 | rule T [country site] | country site |
+| 2026-11-03 | lascana.dk | 1 | rule T [country site] | country site |
+| 2026-11-03 | lascana.es | 1 | rule T [country site] | country site |
+| 2026-11-03 | lascana.eu | 1 | rule T [country site] | country site |
+| 2026-11-03 | lascana.fi | 1 | rule T [country site] | country site |
+| 2026-11-03 | lascana.mx | 1 | rule T [country site] | country site |
+| 2026-11-03 | lascana.nl | 1 | rule T [country site] | country site |
+| 2026-11-03 | lascana.no | 1 | rule T [country site] | country site |
+| 2026-11-03 | lascana.pl | 1 | rule T [country site] | country site |
+| 2026-11-03 | lascana.se | 1 | rule T [country site] | country site |
+| 2026-11-03 | lascana.uk | 1 | rule T [country site] | country site |
+| 2026-11-03 | lascana.world | 1 | rule T [country site] | country site |
+| 2026-11-03 | lenceria.es | 1 | rule L | home page |
+| 2026-11-03 | leslipfrancais.ch | 1 | rule L [country site] | country site |
+| 2026-11-03 | leslipfrancais.co.uk | 1 | rule L [country site] | country site |
+| 2026-11-03 | leslipfrancais.de | 1 | rule L [country site] | country site |
+| 2026-11-03 | lunasplendida.es | 1 | rule L [country site] | country site |
+| 2026-11-03 | lunasplendida.it | 1 | rule L [country site] | country site |
+| 2026-11-03 | lunasplendida.nl | 1 | rule L [country site] | country site |
+| 2026-11-03 | magic-x.at | 1 | rule L [country site] | country site |
+| 2026-11-03 | magic-x.com | 1 | rule L [country site] | country site |
+| 2026-11-03 | magic-x.fr | 1 | rule L [country site] | country site |
+| 2026-11-03 | magic-x.it | 1 | rule L [country site] | country site |
+| 2026-11-03 | maryanmehlhorn.at | 1 | rule T [country site] | country site |
+| 2026-11-03 | maryanmehlhorn.ch | 1 | rule T [country site] | country site |
+| 2026-11-03 | maryanmehlhorn.co.uk | 1 | rule T [country site] | country site |
+| 2026-11-03 | maryanmehlhorn.de | 1 | rule T [country site] | country site |
+| 2026-11-03 | maryanmehlhorn.es | 1 | rule T [country site] | country site |
+| 2026-11-03 | maryanmehlhorn.eu | 1 | rule T [country site] | country site |
+| 2026-11-03 | maryanmehlhorn.fr | 1 | rule T [country site] | country site |
+| 2026-11-03 | maryanmehlhorn.it | 1 | rule T [country site] | country site |
+| 2026-11-03 | maryanmehlhorn.nl | 1 | rule T [country site] | country site |
+| 2026-11-03 | maryanmehlhorn.us | 1 | rule T [country site] | country site |
+| 2026-11-03 | meshki.com | 1 | rule L [country site] | country site |
+| 2026-11-03 | missmary.be | 1 | rule L [country site] | country site |
+| 2026-11-03 | missmary.ch | 1 | rule L [country site] | country site |
+| 2026-11-03 | missmary.co.uk | 1 | rule L [country site] | country site |
+| 2026-11-03 | missmary.de | 1 | rule L [country site] | country site |
+| 2026-11-03 | missmary.dk | 1 | rule L [country site] | country site |
+| 2026-11-03 | missmary.es | 1 | rule L [country site] | country site |
+| 2026-11-03 | missmary.fi | 1 | rule L [country site] | country site |
+| 2026-11-03 | missmary.fr | 1 | rule L [country site] | country site |
+| 2026-11-03 | missmary.it | 1 | rule L [country site] | country site |
+| 2026-11-03 | missmary.mx | 1 | rule L [country site] | country site |
+| 2026-11-03 | missmary.nl | 1 | rule L [country site] | country site |
+| 2026-11-03 | monamoda.de | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | monamoda.nl | 2 | rule T [country site, exception 2 decision] | country site |
+| 2026-11-03 | mystic-store.de | 1 | rule L [country site] | country site |
+| 2026-11-03 | ny-form.de | 1 | rule T [country site] | country site |
+| 2026-11-03 | ny-form.dk | 1 | rule T [country site] | country site |
+| 2026-11-03 | peruvianconnection.co.uk | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | peruvianconnection.de | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | rock-your-body-dessous.com | 1 | rule L [country site] | country site |
+| 2026-11-03 | rock-your-body-dessous.eu | 1 | rule L [country site] | country site |
+| 2026-11-03 | sedusia.com | 1 | rule L [country site] | country site |
+| 2026-11-03 | sedusia.de | 1 | rule L [country site] | country site |
+| 2026-11-03 | shoplikeyougiveadamn.nl | 1 | rule T [country site] | country site |
+| 2026-11-03 | twilfit.com | 1 | rule L [country site] | country site |
+| 2026-11-03 | underverker.dk | 1 | rule T [country site] | country site |
+| 2026-11-03 | veromoda.be | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | veromoda.ch | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | veromoda.com | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | veromoda.de | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | veromoda.dk | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | veromoda.eu | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | veromoda.fi | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | veromoda.fr | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | veromoda.ie | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | veromoda.nl | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | veromoda.no | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | veromoda.se | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-03 | zizzi.be | 1 | rule L [country site] | country site |
+| 2026-11-03 | zizzi.se | 1 | rule L [country site] | country site |
