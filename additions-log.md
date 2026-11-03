@@ -1050,3 +1050,88 @@
 | 2026-11-03 | klingel.nl | 2 | rule T [brand consistency] | brand decision |
 | 2026-11-03 | calvinklein.co.uk | 1 | rule T [brand consistency] | brand decision |
 | 2026-11-03 | rigbyandpeller.co.uk | 1 | rule L [brand consistency] | brand decision |
+| 2026-11-03 | angelafriedman.com | 1 | rule L | home page |
+| 2026-11-03 | amorana.ch | 1 | rule T | home page |
+| 2026-11-03 | ale-bielizna.pl | 1 | rule L | home page |
+| 2026-11-03 | bimoni.de | 1 | rule T | home page |
+| 2026-11-03 | bikinicool.com | 1 | rule T | home page |
+| 2026-11-03 | boody.co.nz | 1 | rule L | home page |
+| 2026-11-03 | bromeliaswimwear.com | 1 | rule T | home page |
+| 2026-11-03 | bogemalingerie.com | 1 | rule L | home page |
+| 2026-11-03 | clovia.com | 1 | rule L | home page |
+| 2026-11-03 | chantellelingerie.com | 1 | rule L [brand consistency] | brand decision |
+| 2026-11-03 | cherieamour.com | 1 | rule L | home page |
+| 2026-11-03 | condomshop.ch | 1 | rule L | home page |
+| 2026-11-03 | dessous-danielle.de | 1 | rule L | home page |
+| 2026-11-03 | dollhousebikinis.com | 1 | rule T | home page |
+| 2026-11-03 | erlich-textil.com | 1 | rule L | home page |
+| 2026-11-03 | magic-x.ch | 1 | rule L | home page |
+| 2026-11-03 | femtis.ch | 1 | rule L | home page |
+| 2026-11-03 | drunterwelt-dessous.de | 1 | rule L | home page |
+| 2026-11-03 | hunkemoller.ch | 1 | rule L [brand consistency] | brand decision |
+| 2026-11-03 | hunkemoller.at | 1 | rule L [brand consistency] | brand decision |
+| 2026-11-03 | heidiklein.com | 1 | rule T | home page |
+| 2026-11-03 | intimo.dk | 1 | rule L | home page |
+| 2026-11-03 | 1a-dessous.de | 1 | rule L | home page |
+| 2026-11-03 | hks-dessous.de | 1 | rule L | home page |
+| 2026-11-03 | hos-versand.de | 1 | rule L | home page |
+| 2026-11-03 | isa-shop.de | 1 | rule L | home page |
+| 2026-11-03 | juststyle.ch | 1 | rule L | home page |
+| 2026-11-03 | item-m6.com | 1 | rule L | home page |
+| 2026-11-03 | klingel.at | 2 | rule T [brand consistency] | brand decision |
+| 2026-11-03 | kyrialingerie.com | 1 | rule L | home page |
+| 2026-11-03 | lafilledo.com | 1 | rule L | home page |
+| 2026-11-03 | ladolcevita.ch | 1 | rule L | home page |
+| 2026-11-03 | lasperlitas.ch | 1 | rule L | home page |
+| 2026-11-03 | lenceria.cl | 1 | rule L | home page |
+| 2026-11-03 | lingerie-lineos.com | 1 | rule L | home page |
+| 2026-11-03 | lingerie-leptig.de | 1 | rule L | home page |
+| 2026-11-03 | lingeriefox.com.au | 1 | rule L | home page |
+| 2026-11-03 | lascana.ch | 1 | rule L [brand consistency] | brand decision |
+| 2026-11-03 | lascana.at | 1 | rule L [brand consistency] | brand decision |
+| 2026-11-03 | leslipfrancais.fr | 1 | rule L | home page |
+| 2026-11-03 | linatorres.shop | 1 | rule L | home page |
+| 2026-11-03 | lovecovera.com | 1 | rule T | home page |
+| 2026-11-03 | lingeriemodhla.com | 1 | rule L | home page |
+| 2026-11-03 | maindesign.ch | 1 | rule T | home page |
+| 2026-11-03 | maryanmehlhorn.com | 1 | rule T | search snippet |
+| 2026-11-03 | marife.ch | 1 | rule L | home page |
+| 2026-11-03 | missmary.com | 1 | rule L | home page |
+| 2026-11-03 | nadelspitze.net | 1 | rule L | home page |
+| 2026-11-03 | monamoda.at | 2 | rule T [exception 2 decision] | home page |
+| 2026-11-03 | naiabeach.com | 1 | rule T | home page |
+| 2026-11-03 | lunasplendida.com | 1 | rule L | home page |
+| 2026-11-03 | nicdelmar.com | 1 | rule T | home page |
+| 2026-11-03 | shoplikeyougiveadamn.com | 1 | rule T | home page |
+| 2026-11-03 | naughtyknickers.com | 1 | rule L | home page |
+| 2026-11-03 | ny-form.com | 1 | rule T | home page |
+| 2026-11-03 | underverker.no | 1 | rule T | home page |
+| 2026-11-03 | lingeriextc.com | 1 | rule L | home page |
+| 2026-11-03 | peruvianconnection.com | 2 | rule L [exception 2 decision] | home page |
+| 2026-11-03 | mystic-store.com | 1 | rule L | home page |
+| 2026-11-03 | palmers.at | 1 | rule L | home page |
+| 2026-11-03 | rock-your-body-dessous.de | 1 | rule L | home page |
+| 2026-11-03 | retro-stage.de | 1 | rule L | home page |
+| 2026-11-03 | sewlocalph.com | 1 | rule T | home page |
+| 2026-11-03 | simple-dress.de | 1 | rule L | home page |
+| 2026-11-03 | sedusia.ch | 1 | rule L | home page |
+| 2026-11-03 | s-world.at | 1 | rule L | home page |
+| 2026-11-03 | simonastyl.at | 1 | rule L | home page |
+| 2026-11-03 | sofiagodinho.com | 1 | rule T | home page |
+| 2026-11-03 | spaceoutsister.com | 1 | rule L | home page |
+| 2026-11-03 | stefanie-dessous.de | 1 | rule L | home page |
+| 2026-11-03 | thebeachcompany.in | 1 | rule T | home page |
+| 2026-11-03 | soma.com | 1 | rule L | home page |
+| 2026-11-03 | u-r-so.com | 1 | rule T | home page |
+| 2026-11-03 | change.com | 1 | rule L | home page |
+| 2026-11-03 | twilfit.se | 1 | rule L | home page |
+| 2026-11-03 | vamplingerie.ie | 1 | rule L | home page |
+| 2026-11-03 | zizzi.at | 2 | rule L [brand consistency] | brand decision |
+| 2026-11-03 | veromoda.in | 2 | rule L [exception 2 decision] | home page |
+| 2026-11-03 | gudrunsjoden.com | 1 | rule T | search snippet |
+| 2026-11-03 | heinrichs.shop | 1 | rule L | home page |
+| 2026-11-03 | esmina-deluxe-wear.com | 1 | rule L | home page |
+| 2026-11-03 | amorevida.ch | 1 | rule L | home page |
+| 2026-11-03 | defacto.com.eg | 2 | rule T [exception 2 decision] | search snippet |
+| 2026-11-03 | corsettery.com | 1 | rule L | home page |
+| 2026-11-03 | meshki.us | 2 | rule T [exception 2 decision] | search snippet |
