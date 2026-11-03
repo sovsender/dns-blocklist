@@ -1040,3 +1040,13 @@
 | 2026-11-02 | yourhealthfit.nl | 1 | rule L [country site] | country site |
 | 2026-11-02 | zizzi.nl | 1 | rule L [country site] | country site |
 | 2026-11-02 | zizzi.pl | 1 | rule L [country site] | country site |
+| 2026-11-03 | aubade.ch | 1 | rule L [brand consistency] | brand decision |
+| 2026-11-03 | aubade.nl | 1 | rule L [brand consistency] | brand decision |
+| 2026-11-03 | bamboobasics.de | 1 | rule T [brand consistency] | brand decision |
+| 2026-11-03 | bonbonlingerie.de | 1 | rule T [brand consistency] | brand decision |
+| 2026-11-03 | hey-honey.fr | 1 | rule T [brand consistency] | brand decision |
+| 2026-11-03 | hautnah-dessous.com | 1 | rule T [brand consistency] | brand decision |
+| 2026-11-03 | bambaswim.com | 1 | rule T [brand consistency] | brand decision |
+| 2026-11-03 | klingel.nl | 2 | rule T [brand consistency] | brand decision |
+| 2026-11-03 | calvinklein.co.uk | 1 | rule T [brand consistency] | brand decision |
+| 2026-11-03 | rigbyandpeller.co.uk | 1 | rule L [brand consistency] | brand decision |

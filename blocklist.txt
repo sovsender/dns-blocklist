@@ -58,12 +58,14 @@
 ||astratex.nl^
 ||astratex.pl^
 ||aubade.at^
+||aubade.ch^
 ||aubade.co.uk^
 ||aubade.com^
 ||aubade.de^
 ||aubade.dk^
 ||aubade.eu^
 ||aubade.fr^
+||aubade.nl^
 ||aubade.uk^
 ||aubade.us^
 ||australiaswimwear.com^
@@ -82,10 +84,12 @@
 ||bambaswim.co.nz^
 ||bambaswim.co.uk^
 ||bambaswim.com.au^
+||bambaswim.com^
 ||bambaswim.mx^
 ||bamboobasics.be^
 ||bamboobasics.ch^
 ||bamboobasics.com^
+||bamboobasics.de^
 ||bamboobasics.es^
 ||bamboobasics.eu^
 ||bamboobasics.fr^
@@ -166,6 +170,7 @@
 ||bodywear-online.de^
 ||bonaparteshop.com^
 ||bonbonlingerie.com^
+||bonbonlingerie.de^
 ||bond-eye.com^
 ||bondiborn.com^
 ||bonds.com.au^
@@ -218,6 +223,7 @@
 ||calao-shop.de^
 ||calida.com^
 ||calvinklein.co.nz^
+||calvinklein.co.uk^
 ||calvinklein.com.au^
 ||calvinklein.com^
 ||calzedonia.com^
@@ -385,12 +391,14 @@
 ||hapari.com^
 ||harperwilde.com^
 ||hauteflair.com^
+||hautnah-dessous.com^
 ||hautnah-dessous.de^
 ||heartofsun.shop^
 ||heine.de^
 ||herroom.com^
 ||hertie.de^
 ||hey-honey.com^
+||hey-honey.fr^
 ||hiddenagendalingerie.co.uk^
 ||hirsefelt.de^
 ||hollisterco.com^
@@ -461,6 +469,7 @@
 ||kissmedeadly.co.uk^
 ||kleine-koerbchen.de^
 ||klingel.de^
+||klingel.nl^
 ||knickey.com^
 ||knix.ca^
 ||kompressionsmieder-onlineshop.de^
@@ -730,7 +739,6 @@
 ||princessetamtam.com^
 ||princesspolly.com^
 ||profi-bra.de^
-||proswimwear.de^
 ||protreksport.de^
 ||puravidaswim.com^
 ||queenlingerie.lv^
@@ -746,6 +754,7 @@
 ||revolveswim.com^
 ||rhythmlivin.com^
 ||riellibrand.com^
+||rigbyandpeller.co.uk^
 ||rigbyandpeller.com^
 ||riotswim.com^
 ||ripcurl.ca^
