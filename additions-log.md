@@ -1402,3 +1402,9 @@
 | 2026-11-06 | 2sexybikini.com | 1 | rule T [retry limit] | domain name |
 | 2026-11-06 | wolfordshop.ch | 1 | rule T [brand consistency] | brand decision |
 | 2026-11-06 | topvintage.nl | 1 | rule L [brand consistency] | brand decision |
+| 2026-11-06 | sultangaziescortgo.xyz | 1 | rule A [adult re-check] | home page |
+| 2026-11-06 | pornoklinge.com | 1 | rule A [adult re-check] | home page |
+| 2026-11-06 | storerotica.com | 1 | rule A [adult re-check] | home page |
+| 2026-11-06 | lingeriexxxtubes.com | 1 | rule A [adult re-check] | domain name |
+| 2026-11-06 | intimatesextoys.co.uk | 1 | rule A [adult re-check] | domain name |
+| 2026-11-06 | sexshop-lingerie-sexy.com | 1 | rule A [adult re-check] | domain name |
