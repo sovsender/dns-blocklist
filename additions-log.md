@@ -1392,3 +1392,11 @@
 | 2026-11-03 | veromoda.se | 2 | rule L [country site, exception 2 decision] | country site |
 | 2026-11-03 | zizzi.be | 1 | rule L [country site] | country site |
 | 2026-11-03 | zizzi.se | 1 | rule L [country site] | country site |
+| 2026-11-06 | esotiq.com | 1 | rule L | collections list |
+| 2026-11-06 | sawren.pl | 1 | rule L | sitemap |
+| 2026-11-06 | torrid.com | 2 | rule L [exception 2 decision] | collections list |
+| 2026-11-06 | primadonna.com | 1 | rule L | search snippet |
+| 2026-11-06 | underprotection.com | 1 | rule L [third-party evidence] | third-party sources |
+| 2026-11-06 | flirtylingerie.com | 1 | rule L [retry limit] | domain name |
+| 2026-11-06 | lingerie-heaven.nl | 1 | rule L [retry limit] | domain name |
+| 2026-11-06 | 2sexybikini.com | 1 | rule T [retry limit] | domain name |
