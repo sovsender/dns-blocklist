@@ -1400,3 +1400,5 @@
 | 2026-11-06 | flirtylingerie.com | 1 | rule L [retry limit] | domain name |
 | 2026-11-06 | lingerie-heaven.nl | 1 | rule L [retry limit] | domain name |
 | 2026-11-06 | 2sexybikini.com | 1 | rule T [retry limit] | domain name |
+| 2026-11-06 | wolfordshop.ch | 1 | rule T [brand consistency] | brand decision |
+| 2026-11-06 | topvintage.nl | 1 | rule L [brand consistency] | brand decision |

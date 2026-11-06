@@ -1245,6 +1245,7 @@
 ||tonathelabel.com^
 ||topsport-shop.de^
 ||topvintage.de^
+||topvintage.nl^
 ||toripraverswimwear.com^
 ||torrid.com^
 ||trachten.de^
@@ -1356,6 +1357,7 @@
 ||wodstore.it^
 ||woehrl.de^
 ||wolford.com^
+||wolfordshop.ch^
 ||wolfordshop.de^
 ||womensecret.com^
 ||wonderbra.ca^
