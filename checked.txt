@@ -1,4 +1,3 @@
-/tmp/claude-0/-home-user-dns-blocklist/3df1a894-28de-50bd-9d4c-6ba7094f56d5/scratchpad/chk.sh: 2026-11-06
 0ww.z0403tr.com 2026-11-02
 1pantyhose.com 2026-11-02
 247pantyhose.com 2026-11-02
@@ -15,7 +14,6 @@
 7thspace.com 2026-11-02
 973fm.com.au 2026-11-02
 99designs.com 2026-11-02
-Mexico 2026-11-06
 a-dam.com 2026-11-02
 aabne-samlinger.dk 2026-11-02
 aandeslinger.nl 2026-11-02
@@ -557,7 +555,6 @@ drulingen.fr 2026-11-02
 dryandcool.de 2026-11-02
 dsjswim.com 2026-11-02
 dsoskotanganjuk.org 2026-11-06
-due 2026-11-06
 dumaldu.de 2026-11-02
 duolingo.cn 2026-11-06
 duolingo.com 2026-11-06
@@ -2322,6 +2319,19 @@ vatangame.com 2026-11-02
 vcreporter.com 2026-11-02
 vellinge.se 2026-11-02
 venta-luftwaescher.de 2026-11-02
+veromoda.be 2026-11-06
+veromoda.ch 2026-11-06
+veromoda.com 2026-11-06
+veromoda.de 2026-11-06
+veromoda.dk 2026-11-06
+veromoda.eu 2026-11-06
+veromoda.fi 2026-11-06
+veromoda.fr 2026-11-06
+veromoda.ie 2026-11-06
+veromoda.in 2026-11-06
+veromoda.nl 2026-11-06
+veromoda.no 2026-11-06
+veromoda.se 2026-11-06
 vertexplayarena.it 2026-11-06
 vestringen.com 2026-11-06
 vexplayapp.com 2026-11-06
@@ -2452,4 +2462,3 @@ zoke.cn 2026-11-02
 zollinger.bio 2026-11-02
 zoologischemededelingen.nl 2026-11-02
 zproxy.org 2026-11-06
-| 2026-11-06
