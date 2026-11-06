@@ -360,10 +360,12 @@
 ||calida.no^
 ||calida.pl^
 ||calida.us^
+||calvinklein.ca^
 ||calvinklein.co.nz^
 ||calvinklein.co.uk^
 ||calvinklein.com.au^
 ||calvinklein.com^
+||calvinklein.us^
 ||calzedonia.com^
 ||camokoenig.de^
 ||campcoveswim.com^
@@ -379,7 +381,13 @@
 ||change.com^
 ||chantal-thomass.com^
 ||chantaldessous.de^
+||chantelle.ch^
+||chantelle.co.uk^
 ||chantelle.com^
+||chantelle.eu^
+||chantelle.jp^
+||chantelle.mx^
+||chantelle.uk^
 ||chantellelingerie.be^
 ||chantellelingerie.ch^
 ||chantellelingerie.co.uk^
@@ -394,9 +402,15 @@
 ||cheekicollection.com^
 ||cherieamour.com^
 ||chouchouintimates.com^
+||christineleduc.be^
+||christineleduc.co.uk^
+||christineleduc.de^
 ||christineleduc.nl^
+||christineleduc.pl^
+||christineleduc.uk^
 ||ciamaritima.com.br^
 ||classicshapewear.com^
+||cleonie.com.au^
 ||cleonie.com^
 ||cloudyasexy.com^
 ||clovia.com^
@@ -494,6 +508,7 @@
 ||erotiko.de^
 ||esmina-deluxe-wear.com^
 ||esotiq.com^
+||esotiq.pl^
 ||etam.co.uk^
 ||etam.com^
 ||etam.de^
@@ -687,6 +702,7 @@
 ||jaymes.com.au^
 ||jetsaustralia.com^
 ||jfsexy.com.br^
+||jmpthelabel.com^
 ||jockey.com^
 ||jockey.eu^
 ||jolidon.com^
@@ -805,6 +821,7 @@
 ||lindex.com^
 ||lineaintima.ca^
 ||lingerie-alley.com^
+||lingerie-carrade.com^
 ||lingerie-carrade.fr^
 ||lingerie-heaven.nl^
 ||lingerie-leptig.de^
@@ -870,6 +887,7 @@
 ||lunasplendida.nl^
 ||lunya.co^
 ||lupo.com.br^
+||luvahuva.co.uk^
 ||luxenoir.com^
 ||maaji.co^
 ||madeleine.com^
@@ -912,6 +930,7 @@
 ||maryanmehlhorn.nl^
 ||maryanmehlhorn.us^
 ||marysia.com^
+||matethelabel.com^
 ||medinaswimwear.com^
 ||melissasimoneswim.com^
 ||mensunderwearstore.com^
@@ -927,6 +946,9 @@
 ||mgpremium.com^
 ||midoribikinis.com^
 ||mikoh.com^
+||milanoo.com^
+||milanoo.de^
+||milanoo.jp^
 ||mimiholliday.com^
 ||mimoli-dessous.de^
 ||minimale-animale.com^
@@ -1027,12 +1049,14 @@
 ||odabash.com^
 ||ohmoon.de^
 ||ohpolly.com^
+||oliviapaisley.com^
 ||oneill.com^
 ||onewithswim.com^
 ||onia.com^
 ||onmyskin.de^
 ||ookioh.com^
 ||orchardcorset.com^
+||organicbasics.com^
 ||oseree.com^
 ||ottolinger.com^
 ||ouhlala.co.uk^
@@ -1085,6 +1109,7 @@
 ||pqswim.com^
 ||prestigeintimo.it^
 ||prettylittlething.com^
+||prettylittlething.us^
 ||primadonna.com^
 ||princessetamtam.com^
 ||princesspolly.com^
@@ -1142,6 +1167,8 @@
 ||savagex.co.uk^
 ||savagex.com^
 ||savagex.de^
+||sawren.eu^
+||sawren.fr^
 ||sawren.pl^
 ||scandale.com^
 ||scarlettgasque.com^
@@ -1302,6 +1329,7 @@
 ||stefanie-dessous.de^
 ||storerotica.com^
 ||storminadcup.com.au^
+||stripeandstare.com^
 ||strumpfoase.eu^
 ||sued-west.com^
 ||sueurswim.com^
@@ -1390,7 +1418,16 @@
 ||ukrainie.sexy^
 ||uksexybabes.com^
 ||uktights.com^
+||underprotection.ch^
+||underprotection.co.uk^
 ||underprotection.com^
+||underprotection.de^
+||underprotection.dk^
+||underprotection.eu^
+||underprotection.fr^
+||underprotection.nl^
+||underprotection.pl^
+||underprotection.se^
 ||underverker.dk^
 ||underverker.no^
 ||underwear-shopping.com^
@@ -1467,6 +1504,8 @@
 ||wamaunderwear.com^
 ||warehouse-one.de^
 ||warners.com^
+||wearembrace.ca^
+||wearembrace.com^
 ||wearlively.com^
 ||wearnala.com^
 ||wenz.de^
@@ -1493,6 +1532,7 @@
 ||yandy.com^
 ||yasmine-eslami.com^
 ||yespornplease.sexy^
+||yourbrastore.com^
 ||yourhealthfit.at^
 ||yourhealthfit.de^
 ||yourhealthfit.nl^

@@ -1528,3 +1528,43 @@
 | 2026-11-06 | sexyvideo.fans | 1 | rule A | home page |
 | 2026-11-06 | malibustrings.com | 1 | rule T | home page |
 | 2026-11-06 | lingerie-carrade.fr | 1 | rule L | home page |
+| 2026-11-06 | luvahuva.co.uk | 1 | rule L | home page |
+| 2026-11-06 | oliviapaisley.com | 1 | rule L | home page |
+| 2026-11-06 | stripeandstare.com | 1 | rule T | home page |
+| 2026-11-06 | yourbrastore.com | 1 | rule L | home page |
+| 2026-11-06 | wearembrace.com | 1 | rule L | products list |
+| 2026-11-06 | organicbasics.com | 1 | rule L | home page |
+| 2026-11-06 | matethelabel.com | 1 | rule L | home page |
+| 2026-11-06 | jmpthelabel.com | 1 | rule T | products list |
+| 2026-11-06 | prettylittlething.us | 2 | rule L [exception 2 decision] | home page |
+| 2026-11-06 | milanoo.com | 2 | rule L [exception 2 decision] | home page |
+| 2026-11-06 | underprotection.co.uk | 1 | rule L [country site] | country site |
+| 2026-11-06 | underprotection.ch | 1 | rule L [country site] | country site |
+| 2026-11-06 | underprotection.eu | 1 | rule L [country site] | country site |
+| 2026-11-06 | underprotection.fr | 1 | rule L [country site] | country site |
+| 2026-11-06 | underprotection.nl | 1 | rule L [country site] | country site |
+| 2026-11-06 | underprotection.dk | 1 | rule L [country site] | country site |
+| 2026-11-06 | underprotection.pl | 1 | rule L [country site] | country site |
+| 2026-11-06 | underprotection.se | 1 | rule L [country site] | country site |
+| 2026-11-06 | underprotection.de | 1 | rule L [country site] | country site |
+| 2026-11-06 | chantelle.ch | 1 | rule L [country site] | country site |
+| 2026-11-06 | chantelle.co.uk | 1 | rule L [country site] | country site |
+| 2026-11-06 | chantelle.eu | 1 | rule L [country site] | country site |
+| 2026-11-06 | chantelle.mx | 1 | rule L [country site] | country site |
+| 2026-11-06 | chantelle.jp | 1 | rule L [country site] | country site |
+| 2026-11-06 | chantelle.uk | 1 | rule L [country site] | country site |
+| 2026-11-06 | christineleduc.be | 1 | rule L [country site] | country site |
+| 2026-11-06 | christineleduc.co.uk | 1 | rule L [country site] | country site |
+| 2026-11-06 | christineleduc.pl | 1 | rule L [country site] | country site |
+| 2026-11-06 | christineleduc.de | 1 | rule L [country site] | country site |
+| 2026-11-06 | christineleduc.uk | 1 | rule L [country site] | country site |
+| 2026-11-06 | cleonie.com.au | 1 | rule T [country site] | country site |
+| 2026-11-06 | esotiq.pl | 1 | rule L [country site] | country site |
+| 2026-11-06 | lingerie-carrade.com | 1 | rule L [country site] | country site |
+| 2026-11-06 | milanoo.de | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-06 | milanoo.jp | 2 | rule L [country site, exception 2 decision] | country site |
+| 2026-11-06 | sawren.fr | 1 | rule L [country site] | country site |
+| 2026-11-06 | sawren.eu | 1 | rule L [country site] | country site |
+| 2026-11-06 | wearembrace.ca | 1 | rule L [country site] | country site |
+| 2026-11-06 | calvinklein.ca | 1 | rule T [country site] | country site |
+| 2026-11-06 | calvinklein.us | 1 | rule T [country site] | country site |
