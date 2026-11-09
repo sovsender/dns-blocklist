@@ -1614,3 +1614,49 @@
 | 2026-11-09 | picxsexy.com | 1 | rule A [adult re-check] | domain name |
 | 2026-11-09 | sexy-datings.com | 1 | rule A [adult re-check] | domain name |
 | 2026-11-09 | sexy-spodni-pradlo.cz | 1 | rule L [adult re-check] | home page |
+| 2026-11-09 | adinareay.com | 1 | rule L | home page |
+| 2026-11-09 | cloudblvd.com.au | 1 | rule L | home page |
+| 2026-11-09 | divasboudoir.com | 1 | rule L | home page |
+| 2026-11-09 | dreamdessous.com | 1 | rule L | home page |
+| 2026-11-09 | dutchdesignersoutlet.com | 1 | rule L | home page |
+| 2026-11-09 | emma-harris.com | 1 | rule L | home page |
+| 2026-11-09 | envyher.com.sg | 1 | rule L | home page |
+| 2026-11-09 | evelynbobbie.com | 1 | rule L | home page |
+| 2026-11-09 | getheyshape.com | 1 | rule L | home page |
+| 2026-11-09 | gildapearl.co.uk | 1 | rule L | home page |
+| 2026-11-09 | gunderwear.ch | 1 | rule L | home page |
+| 2026-11-09 | iminxx.com | 1 | rule L | home page |
+| 2026-11-09 | juemwoman.com | 1 | rule L | home page |
+| 2026-11-09 | michelangelo.ch | 1 | rule L | home page |
+| 2026-11-09 | natvbasics.com | 1 | rule L | home page |
+| 2026-11-09 | oneempire.com.au | 1 | rule L | home page |
+| 2026-11-09 | rubynz.com | 1 | rule L | home page |
+| 2026-11-09 | sliponline.nl | 1 | rule L | home page |
+| 2026-11-09 | syrupunderwear.com | 1 | rule L | home page |
+| 2026-11-09 | underlena.com | 1 | rule L | home page |
+| 2026-11-09 | underwearforhumanity.com.au | 1 | rule L | home page |
+| 2026-11-09 | veeunderwear.com | 1 | rule L | home page |
+| 2026-11-09 | wisteriaandwillow.com.au | 1 | rule L | home page |
+| 2026-11-09 | brastory.pl | 1 | rule L | home page |
+| 2026-11-09 | breakoutbras.com | 1 | rule L | home page |
+| 2026-11-09 | sugarshapewear.com | 1 | rule L | home page |
+| 2026-11-09 | curvyswimwear.com.au | 1 | rule T | home page |
+| 2026-11-09 | rioswimshop.com | 1 | rule T | home page |
+| 2026-11-09 | cantonswimsuit.com | 1 | rule T | home page |
+| 2026-11-09 | chromat.co | 1 | rule T | home page |
+| 2026-11-09 | ceaceaswimwear.com | 1 | rule T | home page |
+| 2026-11-09 | getdrezzed.nl | 1 | rule L | home page, search snippet |
+| 2026-11-09 | darkgarden.com | 1 | rule L | sitemap, collections list |
+| 2026-11-09 | bra-indo.com | 1 | rule L | sitemap, collections list |
+| 2026-11-09 | lazywaist.com | 1 | rule L | collections list |
+| 2026-11-09 | victoriassecret.pl | 1 | rule L [brand consistency] | brand decision |
+| 2026-11-09 | sexy-bhabhi-porn.com | 1 | rule A | home page |
+| 2026-11-09 | sexymixlist.top | 1 | rule A | home page |
+| 2026-11-09 | sexykahani.com | 1 | rule A | home page |
+| 2026-11-09 | sexy-more.com | 1 | rule A | home page |
+| 2026-11-09 | sexy6tube.com | 1 | rule A | home page |
+| 2026-11-09 | strongsoftsexy.com | 1 | rule A | home page |
+| 2026-11-09 | phimsexy.pro | 1 | rule A | home page |
+| 2026-11-09 | heo69.tube | 1 | rule A | home page |
+| 2026-11-09 | ryslinge.net | 1 | rule A | home page |
+| 2026-11-09 | sexytoonporn.com | 1 | rule A | domain name |
