@@ -254,7 +254,6 @@
 | 2026-11-01 | kissmedeadly.co.uk | 1 | rule L | home page |
 | 2026-11-01 | lasette.shop | 1 | rule L | home page |
 | 2026-11-01 | liberte.co | 1 | rule T | home page |
-| 2026-11-01 | marliesdekkers.com | 1 | rule T | home page |
 | 2026-11-01 | marliesdekkers.nl | 1 | rule T | home page |
 | 2026-11-01 | nubianskin.com | 1 | rule L | home page |
 | 2026-11-01 | nudebarre.com | 1 | rule T | home page |
@@ -311,10 +310,7 @@
 | 2026-11-02 | youswim.com | 1 | rule T | home page |
 | 2026-11-02 | oseree.com | 1 | rule L | home page |
 | 2026-11-02 | alpinebutterflyswim.com | 1 | rule T | sitemap |
-| 2026-11-02 | triumph.com | 1 | rule T | home page |
-| 2026-11-02 | oneill.com | 1 | rule T | home page |
 | 2026-11-02 | lasenza.ca | 1 | rule L | home page |
-| 2026-11-02 | lasenza.com | 1 | rule T | home page |
 | 2026-11-02 | londi.com | 1 | rule T | home page |
 | 2026-11-02 | mylorals.com | 1 | rule T | home page |
 | 2026-11-02 | oxbowshop.com | 1 | rule T | home page |
@@ -327,14 +323,11 @@
 | 2026-11-02 | misseskisses.com | 1 | rule L | home page |
 | 2026-11-02 | assemblylabel.com | 1 | rule T | home page |
 | 2026-11-02 | faithfullthebrand.com | 1 | rule T | products list |
-| 2026-11-02 | aubade.com | 1 | rule L | home page |
 | 2026-11-02 | aubade.co.uk | 1 | rule L | home page |
 | 2026-11-02 | aubade.eu | 1 | rule T | home page |
-| 2026-11-02 | lounge.com | 1 | rule L | home page |
 | 2026-11-02 | barenecessities.co.uk | 1 | rule L | home page |
 | 2026-11-02 | bayoffireswim.com | 1 | rule T | sitemap |
 | 2026-11-02 | bimbyandroy.com.au | 1 | rule L | home page |
-| 2026-11-02 | bond-eye.com | 1 | rule T | sitemap |
 | 2026-11-02 | bondiborn.com | 1 | rule T | home page |
 | 2026-11-02 | cadolle.com | 1 | rule L | home page |
 | 2026-11-02 | campcoveswim.com | 1 | rule T | sitemap |
@@ -342,7 +335,6 @@
 | 2026-11-02 | cleonie.com | 1 | rule T | sitemap |
 | 2026-11-02 | duskii.com.au | 1 | rule T | collections list |
 | 2026-11-02 | empreinte.eu | 1 | rule L | home page |
-| 2026-11-02 | maisonlejaby.com | 1 | rule T | home page |
 | 2026-11-02 | ephemeraresort.com | 1 | rule L | home page |
 | 2026-11-02 | ephemeralive.com | 1 | rule L | home page |
 | 2026-11-02 | etam.co.uk | 1 | rule L | home page |
