@@ -1573,3 +1573,4 @@
 | 2026-11-09 | brasnthings.co.nz | 1 | rule L [promoted from pending, third-party evidence] | search snippet, third-party sources |
 | 2026-11-09 | hipsandcurves.com | 1 | rule L [promoted from pending, third-party evidence] | third-party sources |
 | 2026-11-09 | intimorosa.it | 1 | rule L [promoted from pending, retry limit] | domain name |
+| 2026-11-09 | balibras.us | 1 | rule L [brand consistency] | brand decision |
