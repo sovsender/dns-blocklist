@@ -1568,3 +1568,8 @@
 | 2026-11-06 | wearembrace.ca | 1 | rule L [country site] | country site |
 | 2026-11-06 | calvinklein.ca | 1 | rule T [country site] | country site |
 | 2026-11-06 | calvinklein.us | 1 | rule T [country site] | country site |
+| 2026-11-09 | lingeriemart.com | 1 | rule L [promoted from pending] | home page |
+| 2026-11-09 | simplybe.co.uk | 2 | rule L [promoted from pending, exception 2 decision] | search snippet |
+| 2026-11-09 | brasnthings.co.nz | 1 | rule L [promoted from pending, third-party evidence] | search snippet, third-party sources |
+| 2026-11-09 | hipsandcurves.com | 1 | rule L [promoted from pending, third-party evidence] | third-party sources |
+| 2026-11-09 | intimorosa.it | 1 | rule L [promoted from pending, retry limit] | domain name |
