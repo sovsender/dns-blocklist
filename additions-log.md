@@ -1660,3 +1660,41 @@
 | 2026-11-09 | heo69.tube | 1 | rule A | home page |
 | 2026-11-09 | ryslinge.net | 1 | rule A | home page |
 | 2026-11-09 | sexytoonporn.com | 1 | rule A | domain name |
+| 2026-11-09 | cosabella.fr | 1 | rule L [country site] | country site |
+| 2026-11-09 | cosabella.co.uk | 1 | rule L [country site] | country site |
+| 2026-11-09 | cosabella.es | 1 | rule L [country site] | country site |
+| 2026-11-09 | corsetdeal.co.uk | 1 | rule L [country site] | country site |
+| 2026-11-09 | curvyswimwear.com | 1 | rule T [country site] | country site |
+| 2026-11-09 | dansmaculotte.fr | 1 | rule L [country site] | country site |
+| 2026-11-09 | juemwoman.com.au | 1 | rule L [country site] | country site |
+| 2026-11-09 | getdrezzed.it | 1 | rule L [country site] | country site |
+| 2026-11-09 | getdrezzed.co.uk | 1 | rule L [country site] | country site |
+| 2026-11-09 | getdrezzed.fr | 1 | rule L [country site] | country site |
+| 2026-11-09 | getdrezzed.es | 1 | rule L [country site] | country site |
+| 2026-11-09 | getdrezzed.eu | 1 | rule L [country site] | country site |
+| 2026-11-09 | getdrezzed.com | 1 | rule L [country site] | country site |
+| 2026-11-09 | cortexpower.eu | 1 | rule T [country site] | country site |
+| 2026-11-09 | gunderwear.co.uk | 1 | rule L [country site] | country site |
+| 2026-11-09 | gunderwear.us | 1 | rule L [country site] | country site |
+| 2026-11-09 | gunderwear.de | 1 | rule L [country site] | country site |
+| 2026-11-09 | gunderwear.it | 1 | rule L [country site] | country site |
+| 2026-11-09 | gunderwear.fr | 1 | rule L [country site] | country site |
+| 2026-11-09 | gunderwear.be | 1 | rule L [country site] | country site |
+| 2026-11-09 | gunderwear.es | 1 | rule L [country site] | country site |
+| 2026-11-09 | gunderwear.dk | 1 | rule L [country site] | country site |
+| 2026-11-09 | gunderwear.se | 1 | rule L [country site] | country site |
+| 2026-11-09 | gunderwear.fi | 1 | rule L [country site] | country site |
+| 2026-11-09 | gunderwear.nl | 1 | rule L [country site] | country site |
+| 2026-11-09 | gunderwear.pl | 1 | rule L [country site] | country site |
+| 2026-11-09 | gunderwear.eu | 1 | rule L [country site] | country site |
+| 2026-11-09 | dutchdesignersoutlet.de | 1 | rule L [country site] | country site |
+| 2026-11-09 | dutchdesignersoutlet.eu | 1 | rule L [country site] | country site |
+| 2026-11-09 | dutchdesignersoutlet.fr | 1 | rule L [country site] | country site |
+| 2026-11-09 | davidnieper.co.uk | 1 | rule T [country site] | country site |
+| 2026-11-09 | davidnieper.ch | 1 | rule T [country site] | country site |
+| 2026-11-09 | davidnieper.fr | 1 | rule T [country site] | country site |
+| 2026-11-09 | comfitunderwear.se | 1 | rule L [country site] | country site |
+| 2026-11-09 | comfitunderwear.de | 1 | rule L [country site] | country site |
+| 2026-11-09 | comfit-underwear.de | 1 | rule L [country site] | country site |
+| 2026-11-09 | coco-de-mer.be | 1 | rule L [country site] | country site |
+| 2026-11-09 | veeunderwear.com.au | 1 | rule L | home page |
