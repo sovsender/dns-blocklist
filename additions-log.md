@@ -1694,3 +1694,8 @@
 | 2026-11-16 | intimoaround.it | 1 | home page |
 | 2026-11-16 | ohenunderwear.com | 1 | home page |
 | 2026-11-16 | bumpsuit.co | 1 | home page |
+| 2026-11-16 | swaens.nl | 1 | brand decision |
+| 2026-11-16 | relatossexys.com | 1 | home page |
+| 2026-11-16 | sexymood.tv | 1 | home page |
+| 2026-11-16 | sexyshop-online.com | 1 | home page |
+| 2026-11-16 | mysexyshop.com | 1 | domain name |
