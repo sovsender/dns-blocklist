@@ -1690,3 +1690,7 @@
 | 2026-11-09 | comfit-underwear.de | 1 | country site |
 | 2026-11-09 | coco-de-mer.be | 1 | country site |
 | 2026-11-09 | veeunderwear.com.au | 1 | home page |
+| 2026-11-16 | additionelle.com | 2 | home page |
+| 2026-11-16 | intimoaround.it | 1 | home page |
+| 2026-11-16 | ohenunderwear.com | 1 | home page |
+| 2026-11-16 | bumpsuit.co | 1 | home page |

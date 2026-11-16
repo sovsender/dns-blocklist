@@ -9,6 +9,7 @@
 ||adameve.ca^
 ||adameve.com^
 ||adameve.fr^
+||additionelle.com^
 ||adinareay.com^
 ||adoreme.ca^
 ||adoreme.com^
@@ -337,6 +338,7 @@
 ||brunotti.com^
 ||brunotti.de^
 ||brunotti.eu^
+||bumpsuit.co^
 ||burlesque-dessous.at^
 ||burlesque-dessous.ch^
 ||burlesque-dessous.com^
@@ -753,6 +755,7 @@
 ||intimo.com.ua^
 ||intimo.dk^
 ||intimoaltieri.it^
+||intimoaround.it^
 ||intimok.com^
 ||intimolida.it^
 ||intimorosa.com^
@@ -1124,6 +1127,7 @@
 ||oceanfighter.de^
 ||oceansapart.com^
 ||odabash.com^
+||ohenunderwear.com^
 ||ohmoon.de^
 ||ohpolly.com^
 ||oliviapaisley.com^
