@@ -1732,3 +1732,17 @@
 | 2026-11-16 | thelittlebracompany.com | 1 | search snippet |
 | 2026-11-16 | skarlettblue.com | 1 | search snippet |
 | 2026-11-16 | shefit.com | 1 | search snippet |
+| 2026-11-16 | elila.uk | 1 | country site |
+| 2026-11-16 | elila.us | 1 | country site |
+| 2026-11-16 | elomi.co.uk | 1 | country site |
+| 2026-11-16 | elomi.uk | 1 | country site |
+| 2026-11-16 | elomi.de | 1 | country site |
+| 2026-11-16 | elomi.fr | 1 | country site |
+| 2026-11-16 | elomi.us | 1 | country site |
+| 2026-11-16 | elomi.com.au | 1 | country site |
+| 2026-11-16 | elomi.co.nz | 1 | country site |
+| 2026-11-16 | elomilingerie.us | 1 | country site |
+| 2026-11-16 | empreinte.co.uk | 1 | country site |
+| 2026-11-16 | empreinte.fr | 1 | country site |
+| 2026-11-16 | livcocorsetti.co.uk | 1 | country site |
+| 2026-11-16 | livcocorsetti.fr | 1 | country site |
