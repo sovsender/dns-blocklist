@@ -1766,3 +1766,12 @@
 | 2026-11-23 | bananamoon.uk | 1 | brand decision |
 | 2026-11-23 | marikavera.mx | 1 | brand decision |
 | 2026-11-23 | bademoden.de | 1 | home page |
+| 2026-11-23 | sexylink.tv | 1 | home page |
+| 2026-11-23 | sexybond.tv | 1 | home page |
+| 2026-11-23 | sexyvip.net | 1 | home page |
+| 2026-11-23 | sexyland.com.au | 1 | home page |
+| 2026-11-23 | sexytvcap.com | 1 | home page |
+| 2026-11-23 | sexyhub.com | 1 | domain name |
+| 2026-11-23 | sexynubiles.com | 1 | domain name |
+| 2026-11-23 | sexystory.club | 1 | domain name |
+| 2026-11-23 | sexychicas.cl | 1 | domain name |
