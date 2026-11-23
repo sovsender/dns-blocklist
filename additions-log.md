@@ -1819,3 +1819,5 @@
 | 2026-11-23 | outletdelbikini.com | 1 | domain name |
 | 2026-11-23 | pantyhot.com | 1 | domain name |
 | 2026-11-23 | ivythonglor.com | 1 | domain name |
+| 2026-11-23 | nusexy.com | 1 | home page |
+| 2026-11-23 | sexyschuzky.cz | 1 | home page |
