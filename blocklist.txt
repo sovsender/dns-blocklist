@@ -120,6 +120,7 @@
 ||bamboobasics.fr^
 ||bamboobasics.it^
 ||bamboobasics.nl^
+||bamboounderwear.ca^
 ||bamboounderwear.com^
 ||bananamoon.com^
 ||bananamoon.uk^
@@ -492,6 +493,7 @@
 ||debras.com.au^
 ||defacto.com.eg^
 ||dekotaswim.com.au^
+||dekotaswim.com^
 ||demillus.com.br^
 ||desi-sexy.info^
 ||dessous-danielle.de^
@@ -574,6 +576,8 @@
 ||erlich-textil.com^
 ||erlich-textil.de^
 ||erotiko.de^
+||erotiko.dk^
+||erotiko.fr^
 ||esmina-deluxe-wear.com^
 ||esotiq.com^
 ||esotiq.pl^
@@ -589,9 +593,22 @@
 ||fae.house^
 ||faithfullthebrand.com^
 ||fannyswelt.de^
+||fantasie.ch^
+||fantasie.co.nz^
+||fantasie.co.uk^
+||fantasie.com.au^
 ||fantasie.com^
+||fantasie.eu^
+||fantasie.uk^
+||fantasie.us^
 ||fashionnova.com^
+||fashionnova.se^
+||felina.at^
+||felina.ch^
 ||felina.com^
+||felina.de^
+||felina.fr^
+||felina.nl^
 ||fellaswim.com^
 ||femina-shop.de^
 ||femique.com^
@@ -609,6 +626,7 @@
 ||fenzy.be^
 ||fenzy.de^
 ||fenzy.es^
+||fenzy.eu^
 ||fenzy.it^
 ||fenzy.pl^
 ||figleaves.com^
@@ -1171,6 +1189,7 @@
 ||nordmeerjungfrau.de^
 ||nubianskin.com^
 ||nudea.com^
+||nudea.pl^
 ||nudebabes.sexy^
 ||nudebarre.com^
 ||ny-form.com^
@@ -1314,6 +1333,7 @@
 ||saltgypsy.com^
 ||saltymermaid.com^
 ||sanscomplexe.com^
+||sanscomplexe.es^
 ||savagex.co.uk^
 ||savagex.com^
 ||savagex.de^
@@ -1510,6 +1530,7 @@
 ||smth-underwear.com^
 ||snocks.com^
 ||sofiagodinho.com^
+||sofielingeri.com^
 ||sofielingeri.dk^
 ||sofuckingsexy.com^
 ||solazulswimwear.com^
