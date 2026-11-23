@@ -1762,3 +1762,7 @@
 | 2026-11-23 | helenpiece.com | 1 | collections list |
 | 2026-11-23 | eighthmermaid.com | 1 | collections list |
 | 2026-11-23 | moniker.no | 1 | collections list |
+| 2026-11-23 | barenecessities.uk | 1 | brand decision |
+| 2026-11-23 | bananamoon.uk | 1 | brand decision |
+| 2026-11-23 | marikavera.mx | 1 | brand decision |
+| 2026-11-23 | bademoden.de | 1 | home page |

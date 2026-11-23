@@ -99,6 +99,7 @@
 ||baci.com^
 ||baci.dk^
 ||bademoden.com^
+||bademoden.de^
 ||bakuswimwear.com.au^
 ||balibras.com^
 ||balibras.us^
@@ -120,8 +121,10 @@
 ||bamboobasics.it^
 ||bamboobasics.nl^
 ||bananamoon.com^
+||bananamoon.uk^
 ||barenecessities.co.uk^
 ||barenecessities.com^
+||barenecessities.uk^
 ||barestockholm.com^
 ||baudach-schuster.com^
 ||bayoffireswim.com^
@@ -1023,6 +1026,7 @@
 ||mariefrancelingerie.com^
 ||marife.ch^
 ||marikavera.com^
+||marikavera.mx^
 ||marksandspencer.com^
 ||marlies-dekkers.com^
 ||marliesdekkers.com^
