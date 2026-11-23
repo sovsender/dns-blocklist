@@ -807,6 +807,7 @@ goldfishswimschool.com 2026-11-02
 goldner-fashion.com 2026-11-03
 golftoday.co.uk 2026-11-02
 good-deal-market.de 2026-11-03
+goodamerican.com 2026-11-23
 googleapis.com 2026-11-06
 googleusercontent.com 2026-11-06
 goswim.ru 2026-11-16
@@ -1815,6 +1816,7 @@ schwab.com 2026-11-06
 schwaebische.de 2026-11-02
 schwimmshop-hausmann.de 2026-11-02
 sciencehistory.org 2026-11-02
+scintilla.mx 2026-11-23
 scottishswimming.com 2026-11-06
 sddt.com 2026-11-02
 seattlepi.com 2026-11-02
@@ -2153,6 +2155,7 @@ swimfun.nl 2026-11-02
 swimgg.club 2026-11-02
 swimhealth.net 2026-11-02
 swimia.com 2026-11-02
+swimia.it 2026-11-23
 swimify.com 2026-11-06
 swiminfo.co.nz 2026-11-09
 swimioo.com 2026-11-06

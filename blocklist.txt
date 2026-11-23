@@ -822,6 +822,7 @@
 ||item-m6.ch^
 ||item-m6.com^
 ||ivoriestudio.com^
+||ivythonglor.com^
 ||jadeswim.com^
 ||jaymes.com.au^
 ||jetsaustralia.com^
@@ -1038,6 +1039,7 @@
 ||magic-x.com^
 ||magic-x.fr^
 ||magic-x.it^
+||magicbikinis.com^
 ||maidenform.com^
 ||maindesign.ch^
 ||maison-close.com^
@@ -1220,6 +1222,7 @@
 ||outfits24.com^
 ||outfits24.de^
 ||outlet46.de^
+||outletdelbikini.com^
 ||outletdessous.de^
 ||oxbowshop.com^
 ||ozellaswim.com^
@@ -1239,6 +1242,7 @@
 ||panty.co.uk^
 ||panty.com^
 ||pantydeal.com^
+||pantyhot.com^
 ||pantynova.com^
 ||pantys.com.br^
 ||pantys.com^
@@ -1335,6 +1339,7 @@
 ||saltymermaid.com^
 ||sanscomplexe.com^
 ||sanscomplexe.es^
+||sardaworld.com^
 ||savagex.co.uk^
 ||savagex.com^
 ||savagex.de^

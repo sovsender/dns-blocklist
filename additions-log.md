@@ -1814,3 +1814,8 @@
 | 2026-11-23 | erotiko.dk | 1 | country site |
 | 2026-11-23 | erotiko.fr | 1 | country site |
 | 2026-11-23 | inesslingerie.com | 1 | domain name |
+| 2026-11-23 | sardaworld.com | 1 | search snippet, third-party sources |
+| 2026-11-23 | magicbikinis.com | 1 | search snippet |
+| 2026-11-23 | outletdelbikini.com | 1 | domain name |
+| 2026-11-23 | pantyhot.com | 1 | domain name |
+| 2026-11-23 | ivythonglor.com | 1 | domain name |
